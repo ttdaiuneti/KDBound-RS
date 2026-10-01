@@ -38,7 +38,7 @@ def cell(ds, m):
 
 
 lines = [f"{ds} & " + " & ".join(f"{cell(ds, e)} / {cell(ds, e + '+B3')}" for e in EN) + " \\\\" for ds in DS]
-TEMPLATE = r"""\begin{table}[pos=htbp]
+TEMPLATE = r"""\begin{table}[pos=!htbp]
 \centering
 \caption{Each engine without / with the witness bound, NRS with $\delta=0.10$: mean reduction time over five folds
 (seconds). T: exceeded $900$\,s on fold~1; M: memory limit on fold~1 (FNC: more than $3\cdot10^8$ pairs; other

@@ -29,7 +29,7 @@ for ds in DS:
     ot = f(r["ours_mean"]) if r["ours_folds"] == "5" else "$>900$"
     lines.append(f"{ds} & {ot} & {ft} & {f(r['exact_R_mean'])} & {f(r['fara_R_mean'])} & "
                  f"{acc(r, 'EXACT', 'svm')} & {acc(r, 'FARA', 'svm')} & {acc(r, 'EXACT', '3nn')} & {acc(r, 'FARA', '3nn')} \\\\")
-TEMPLATE = r"""\begin{table}[pos=htbp]
+TEMPLATE = r"""\begin{table}[pos=!htbp]
 \centering
 \caption{Exact greedy reduct (any exact method) against FARA, NRS with $\delta=0.10$: reduction time of KD-PA+B3 and
 of FARA (mean, seconds), reduct size and classification accuracy (\%, mean $\pm$ std over five folds) of the
