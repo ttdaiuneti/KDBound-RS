@@ -44,3 +44,8 @@ Requirements: Python 3.9, see `requirements.txt`.
 
 The `code` field of each raw row is a hash of the source files at the time of the run. Times depend on the machine;
 the reported runs used an Apple M4 Pro with 48 GB of memory.
+
+## License
+
+The code is released under the MIT License (see `LICENSE`). The datasets are not redistributed here; they are
+downloaded from OpenML and remain under the licenses stated by their providers there.
