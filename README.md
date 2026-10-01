@@ -2,8 +2,8 @@
 
 Code, protocol and raw results for the manuscript
 
-> T.D. Tran, *Exact and fast attribute reduction for nearest-enemy rough set criteria: tree queries to compute,
-> witness bounds to skip* (submitted to Information Sciences).
+> T.D. Tran, *Nearest-enemy bounds for exact and fast greedy attribute reduction in neighborhood and fuzzy rough
+> sets* (submitted to Information Sciences).
 
 The method selects attributes with the standard greedy forward procedure for neighborhood rough sets (NRS) and fuzzy
 rough sets with the minimum t-norm (FRS). A per-class k-d tree answers nearest-enemy queries, and a witness bound skips
