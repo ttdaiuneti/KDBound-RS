@@ -1,0 +1,1 @@
+{"dataset": "hls4ml-jets", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "HASH", "n_train": 80000, "d": 16, "code": "41a9cd109ecd", "status": "ok", "R": [], "evals": 16, "time": 350.0725815, "maxrss_mb": 1295.203125, "steps": [{"active": 80000, "candidates": 16, "evaluated": 16, "pruned": 0, "selected": null, "gain": 0, "ub_selected": null, "time": 350.06395375}]}

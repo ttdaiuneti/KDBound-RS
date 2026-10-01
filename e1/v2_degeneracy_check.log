@@ -1,0 +1,16 @@
+eeg-eye-state  v1 n=14980 delta=0.05 |R|=  1 t=   0.1s
+eeg-eye-state  v1 n=14980 delta=0.10 |R|=  1 t=   0.1s
+eeg-eye-state  v1 n=14980 delta=0.15 |R|=  1 t=   0.1s
+eeg-eye-state  v1 n=14980 delta=0.20 |R|=  2 t=   0.2s
+eeg-eye-state  v2 n=14980 delta=0.05 |R|= 12 t=   0.8s
+eeg-eye-state  v2 n=14980 delta=0.10 |R|=  0 t=   0.1s
+eeg-eye-state  v2 n=14980 delta=0.15 |R|=  0 t=   0.1s
+eeg-eye-state  v2 n=14980 delta=0.20 |R|=  0 t=   0.1s
+numerai28-6    v1 n=20000 delta=0.05 |R|=  0 t=   0.2s
+numerai28-6    v1 n=20000 delta=0.10 |R|=  0 t=   0.2s
+numerai28-6    v1 n=20000 delta=0.15 |R|=  0 t=   0.2s
+numerai28-6    v1 n=20000 delta=0.20 |R|=  0 t=   0.2s
+numerai28-6    v2 n=20000 delta=0.05 |R|=  0 t=   0.2s
+numerai28-6    v2 n=20000 delta=0.10 |R|=  0 t=   0.2s
+numerai28-6    v2 n=20000 delta=0.15 |R|=  0 t=   0.2s
+numerai28-6    v2 n=20000 delta=0.20 |R|=  0 t=   0.2s

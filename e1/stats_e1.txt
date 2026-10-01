@@ -1,0 +1,21 @@
+NRS: 43 blocks, Friedman chi2 = 106.7, p = 3.67e-22, Nemenyi CD = 0.93
+   KD-PA+B3   mean rank 1.42
+   KD-PA      mean rank 2.00
+   FNC+B3     mean rank 3.67
+   HASH       mean rank 3.77
+   FNC        mean rank 4.14
+   rank gap of the others to KD-PA+B3: KD-PA +0.58, FNC +2.72 (sig), FNC+B3 +2.26 (sig), HASH +2.35 (sig)
+FRS: 24 blocks, Friedman chi2 = 56.9, p = 2.74e-12, Nemenyi CD = 0.96
+   KD-PA+B3   mean rank 1.42
+   KD-PA      mean rank 1.67
+   FA-FPR     mean rank 3.38
+   FA-FPR+B3  mean rank 3.54
+   rank gap of the others to KD-PA+B3: KD-PA +0.25, FA-FPR +1.96 (sig), FA-FPR+B3 +2.12 (sig)
+Wilcoxon one-sided (E+B3 faster), blocks where both finished all 5 folds:
+   KD-PA   vs KD-PA+B3  : n = 63, W = 1540, p = 1.35e-04, median speedup 1.10x, B3 slower in 25/63
+   FNC     vs FNC+B3    : n = 24, W = 274, p = 6.35e-05, median speedup 1.14x, B3 slower in 3/24
+   HASH    vs HASH+B3   : n =  6, W = 10, p = 5.78e-01, median speedup 0.96x, B3 slower in 4/6
+   CABIN   vs CABIN+B3  : n =  5, W = 12, p = 1.56e-01, median speedup 1.04x, B3 slower in 1/5
+   BUCKET  vs BUCKET+B3 : n =  5, W = 12, p = 1.56e-01, median speedup 1.03x, B3 slower in 1/5
+   BF-PA   vs BF-PA+B3  : n = 4 (too few)
+   FA-FPR  vs FA-FPR+B3 : n = 14, W = 30, p = 9.23e-01, median speedup 0.89x, B3 slower in 10/14

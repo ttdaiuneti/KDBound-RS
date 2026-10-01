@@ -1,0 +1,38 @@
+46298	electrical-grid-stability	N=10000	d=12	nonnum=0	min_distinct=10000	low=[]	PASS
+32	pendigits	N=10992	d=16	nonnum=0	min_distinct=96	low=['input2', 'input4']	fail
+310	mammography	N=11183	d=6	nonnum=0	min_distinct=160	low=[]	PASS
+734	ailerons	N=13750	d=40	nonnum=0	min_distinct=3	low=['q', 'curRoll', 'absRoll', 'diffClb']	fail
+1040	sylva_prior	N=14395	d=108	nonnum=0	min_distinct=1	low=['Slope', 'Rawah_Wilderness_Area', 'Neota_Wilderness_Area', 'Comanche_Peak_Wilderness_Area']	fail
+722	pol	N=15000	d=48	nonnum=0	min_distinct=1	low=['f1', 'f2', 'f3', 'f4']	fail
+846	elevators	N=16599	d=18	nonnum=0	min_distinct=3	low=['curRoll', 'absRoll', 'diffClb', 'SaTime1']	fail
+45558	htru2	N=17898	d=8	nonnum=0	min_distinct=8626	low=[]	PASS
+821	house_16H	N=22784	d=16	nonnum=0	min_distinct=2421	low=[]	PASS
+43979	california	N=20634	d=8	nonnum=0	min_distinct=52	low=['HouseAge']	fail
+42477	default-credit-card	N=30000	d=23	nonnum=0	min_distinct=2	low=['x1', 'x2', 'x3', 'x4']	fail
+43945	electricity	N=38474	d=8	nonnum=1	min_distinct=7	low=['day', 'period']	fail
+901	fried	N=40768	d=10	nonnum=0	min_distinct=1001	low=[]	PASS
+41166	volkert	N=58310	d=180	nonnum=0	min_distinct=1	low=['V2', 'V3', 'V4', 'V5']	fail
+357	vehicle_sensIT	DOWNLOAD-FAIL	Sparse ARFF datasets cannot be loaded with as_frame=True. Use as_frame=False or as_frame='auto' instead.
+45548	otto	N=61878	d=93	nonnum=0	min_distinct=9	low=['feat_1', 'feat_2', 'feat_3', 'feat_4']	fail
+1503	spoken-arabic-digit	N=263256	d=14	nonnum=0	min_distinct=2	low=['V14']	fail
+351	codrna	DOWNLOAD-FAIL	Sparse ARFF datasets cannot be loaded with as_frame=True. Use as_frame=False or as_frame='auto' instead.
+42769	higgs	DOWNLOAD-FAIL	md5 checksum of local file for data/v1/download/22044863 does not match description: expected: 462a8d5b7502eef3ab2215fa6df6d8cc but got a9dd51e2c923f21b7f3ce2843839bd42. Downloaded file could have been modified / corrupted, clean cache and retry...
+45549	atlas-higgs	N=818238	d=30	nonnum=0	min_distinct=4	low=['PRI_jet_num']	fail
+42468	hls4ml-jets	N=830000	d=16	nonnum=0	min_distinct=188	low=[]	PASS
+357	vehicle_sensIT	N=98528	d=100	nonnum=0	min_distinct=72925	nan=0	PASS	(retry, as_frame=False)
+351	codrna	N=488565	d=8	nonnum=0	min_distinct=43	nan=0	fail	(retry, as_frame=False)
+42769	higgs	DOWNLOAD-FAIL-2	md5 checksum of local file for data/v1/download/22044863 does not match description: expected: 462a8d5b7502eef3ab2215fa6
+# round 2 (list fixed 2026-09-29 before download; round 1 gave 7 PASS, below 16-20 target)
+40922	run-or-walk	N=88588	d=6	nonnum=0	min_distinct=19698	nan=0	low=[]	PASS
+45037	bitcoinheist	N=24780	d=7	nonnum=0	min_distinct=56	nan=0	low=['length', 'neighbors']	fail
+1046	mozilla4	N=15545	d=5	nonnum=0	min_distinct=2	nan=0	low=['event']	fail
+41671	microaggregation2	N=20000	d=20	nonnum=0	min_distinct=5	nan=0	low=['a1', 'a2', 'a3', 'a4']	fail
+46652	news_channel	N=20284	d=17	nonnum=1	min_distinct=10	nan=0	low=['num_self_hrefs', 'num_imgs', 'num_videos', 'num_keywords']	fail
+44117	bank-marketing-num	N=10578	d=7	nonnum=0	min_distinct=31	nan=0	low=['V1', 'V10', 'V13', 'V15']	fail
+727	2dplanes	N=40768	d=10	nonnum=0	min_distinct=2	nan=0	low=['x1', 'x2', 'x3', 'x4']	fail
+46361	risk-level	N=78600	d=18	nonnum=0	min_distinct=2	nan=0	low=['hour_of_day', 'ip_prefix', 'login_frequency', 'risk_score']	fail
+46936	internet-firewall	N=65532	d=11	nonnum=0	min_distinct=749	nan=0	low=[]	PASS
+46805	college-scorecard	N=124699	d=118	nonnum=1	min_distinct=1	nan=0	low=['Predominant_degree_awarded__recoded_0s_and_4s', 'Number_of_branch_campuses', 'Degree_of_urbanization_of_institution', 'Admission_rate']	fail
+45579	microsoft-ltr	NOT SCREENED	download stopped by agent (~1.2M x 136 ARFF, too slow from OpenML); excluded unseen, no bias
+42395	santander	DOWNLOAD-FAIL	md5 checksum mismatch on OpenML server file (same as higgs); excluded
+# FINAL: 9 PASS = electrical-grid-stability, mammography, htru2, house_16H, fried, hls4ml-jets, vehicle_sensIT, run-or-walk, internet-firewall

@@ -1,0 +1,1 @@
+{"dataset": "jannis", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "FARA", "n_train": 66986, "d": 54, "code": "8caa1368d03f", "status": "ok", "R": [3, 37, 4, 48, 25, 9, 23, 2, 0, 13], "evals": 560, "time": 24.587823750000002, "maxrss_mb": 328.484375, "steps": [{"fara_log": {"stall": false, "t_empty": 2}}]}

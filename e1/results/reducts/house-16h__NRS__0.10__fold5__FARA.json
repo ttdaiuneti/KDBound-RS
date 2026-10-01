@@ -1,0 +1,1 @@
+{"dataset": "house-16h", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "FARA", "n_train": 18228, "d": 16, "code": "6d3c14555ec2", "status": "ok", "R": [8, 13, 14, 7, 15, 11, 4, 3, 10, 12, 5, 0, 9, 1, 6, 2], "evals": 142, "time": 5.094110166, "maxrss_mb": 145.265625, "steps": [{"fara_log": {"stall": false, "t_empty": 4}}]}

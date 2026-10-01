@@ -1,0 +1,1 @@
+{"dataset": "hls4ml-jets", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "FARA", "n_train": 80000, "d": 16, "code": "41a9cd109ecd", "status": "ok", "R": [5, 1, 3, 14, 13, 0, 10, 7, 9, 15, 6, 2, 11, 4, 12, 8], "evals": 144, "time": 20.724655666, "maxrss_mb": 234.6875, "steps": [{"fara_log": {"stall": false, "t_empty": 2}}]}

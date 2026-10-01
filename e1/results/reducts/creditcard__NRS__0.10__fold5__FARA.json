@@ -1,0 +1,1 @@
+{"dataset": "creditcard", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "FARA", "n_train": 80000, "d": 29, "code": "41a9cd109ecd", "status": "ok", "R": [3, 23, 12, 10, 25, 13, 18, 1, 14, 0, 17, 2, 21, 4, 8, 5, 11, 24, 7, 16, 9, 15, 22, 20, 28], "evals": 451, "time": 16.455825458, "maxrss_mb": 312.75, "steps": [{"fara_log": {"stall": false, "t_empty": 7}}]}

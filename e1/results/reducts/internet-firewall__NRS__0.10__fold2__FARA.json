@@ -1,0 +1,1 @@
+{"dataset": "internet-firewall", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "FARA", "n_train": 52425, "d": 11, "code": "8caa1368d03f", "status": "ok", "R": [3, 0, 2, 8, 1, 6, 10], "evals": 68, "time": 6.420456874999999, "maxrss_mb": 160.09375, "steps": [{"fara_log": {"stall": false, "t_empty": 2}}]}

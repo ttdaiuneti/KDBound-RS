@@ -1,0 +1,1 @@
+{"dataset": "miniboone", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "FARA", "n_train": 80000, "d": 50, "code": "41a9cd109ecd", "status": "ok", "R": [2, 15, 26, 22, 33, 17, 11, 41, 40, 20, 30, 42, 43, 48, 8, 23, 46, 25, 12, 47], "evals": 1079, "time": 176.0377305, "maxrss_mb": 480.546875, "steps": [{"fara_log": {"stall": false, "t_empty": 3}}]}

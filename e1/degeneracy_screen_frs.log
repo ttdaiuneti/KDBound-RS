@@ -1,0 +1,14 @@
+electrical-grid-stability  n= 10000 d= 12 |R|= 11 KEEP t=0.9s
+mammography                n= 11183 d=  6 |R|=  6 KEEP t=0.1s
+gas-drift                  n= 13910 d=128 |R|= 86 KEEP t=276.9s
+htru2                      n= 17898 d=  8 |R|=  8 KEEP t=0.3s
+magic-telescope            n= 19020 d= 10 |R|= 10 KEEP t=1.2s
+house-16h                  n= 22784 d= 16 |R|= 16 KEEP t=6.3s
+fried                      n= 40768 d= 10 |R|= 10 KEEP t=4.2s
+internet-firewall          n= 65532 d= 11 |R|=  9 KEEP t=20.1s
+jannis                     n= 83733 d= 54 |R|= 49 KEEP t=1602.0s
+run-or-walk                n= 88588 d=  6 |R|=  6 KEEP t=9.3s
+vehicle-sensit             n= 98528 d=100 |R|=100 KEEP t=18411.7s
+miniboone                  n=100000 d= 50 |R|= 17 KEEP t=26.3s
+creditcard                 n=100000 d= 29 |R|= 27 KEEP t=12.3s
+hls4ml-jets                n=100000 d= 16 |R|= 15 KEEP t=87.9s

@@ -1,0 +1,1 @@
+{"dataset": "mammography", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "FARA", "n_train": 8946, "d": 6, "code": "5aefad427b3a", "status": "ok", "R": [1, 5, 3, 2, 4, 0], "evals": 24, "time": 0.07151270900000006, "maxrss_mb": 128.0625, "steps": [{"fara_log": {"stall": false, "t_empty": 1}}]}

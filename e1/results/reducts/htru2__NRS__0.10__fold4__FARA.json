@@ -1,0 +1,1 @@
+{"dataset": "htru2", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "FARA", "n_train": 14319, "d": 8, "code": "5aefad427b3a", "status": "ok", "R": [3, 0, 5, 7, 6, 1, 2, 4], "evals": 41, "time": 0.25897941700000005, "maxrss_mb": 135.109375, "steps": [{"fara_log": {"stall": false, "t_empty": 1}}]}

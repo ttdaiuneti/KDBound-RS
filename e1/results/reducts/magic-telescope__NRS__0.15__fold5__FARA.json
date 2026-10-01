@@ -1,0 +1,1 @@
+{"dataset": "magic-telescope", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "FARA", "n_train": 15216, "d": 10, "code": "5aefad427b3a", "status": "ok", "R": [5, 7, 8, 1, 6, 2, 9, 0, 3, 4], "evals": 65, "time": 0.8841522500000001, "maxrss_mb": 132.609375, "steps": [{"fara_log": {"stall": false, "t_empty": 1}}]}

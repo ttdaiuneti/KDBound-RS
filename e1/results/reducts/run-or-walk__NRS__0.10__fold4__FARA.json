@@ -1,0 +1,1 @@
+{"dataset": "run-or-walk", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "FARA", "n_train": 70871, "d": 6, "code": "41a9cd109ecd", "status": "ok", "R": [0, 3, 5, 2, 4, 1], "evals": 25, "time": 4.923498083, "maxrss_mb": 158.1875, "steps": [{"fara_log": {"stall": false, "t_empty": 1}}]}
