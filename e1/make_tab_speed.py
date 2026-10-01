@@ -33,7 +33,7 @@ lines = []
 for ds in DS:
     a = cells(rows.get((ds, "NRS", "0.10"))); b = cells(rows.get((ds, "FRS", "0.25")))
     lines.append(f"{ds} & " + " & ".join(a) + " & " + " & ".join(b) + " \\\\")
-TEMPLATE = r"""\begin{table}[t]
+TEMPLATE = r"""\begin{table}[pos=htbp]
 \centering
 \caption{Reduction time of KD-PA+B3 (mean $\pm$ std over five folds, seconds), fastest existing exact accelerator
 that finished all folds (mean time) and speed-up, for NRS with $\delta=0.10$ and FRS with $\sigma=0.25$.
