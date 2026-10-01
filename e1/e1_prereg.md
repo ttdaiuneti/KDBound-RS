@@ -207,3 +207,16 @@ Mọi phương pháp chính xác trả cùng một reduct (K1). Vì vậy:
   - chạy lại 4 phương pháp trên 14 bộ bằng `run_e1.py rerun <phương pháp> <bộ>`, dùng luật mục 10 (1 luồng HEAVY, trần 32 GB footprint), **sau khi** đo lại một mình (mục 11) xong;
   - các phương pháp khác không bị động đến.
 - **Lý do:** bài kết luận "cận làm chậm các engine liệt kê cặp". Kết luận đó phải dựa trên cách cài tối ưu ngang nhau.
+
+## 13. Phân tích bổ sung: co giãn theo số đối tượng n (ghi 2026-10-01, TRƯỚC khi chạy; user đồng ý)
+- **Mục đích:** đo thời gian rút gọn theo n để đối chiếu với Proposition 5 (độ phức tạp). Đây là phân tích bổ sung, ngoài lưới E1; KHÔNG thay số nào của E1. Báo cáo ở Appendix, có ghi rõ là bổ sung.
+- **Dữ liệu:** hls4ml-jets (m = 16) và miniboone (m = 50), bảng đã chặn 10⁵ của E1 (`data/<slug>.npz`).
+  - n ∈ {12 500, 25 000, 50 000, 100 000}. Với n < 10⁵: một mẫu con phân tầng (seed 0) của bảng; với n = 10⁵: bảng nguyên vẹn (để fold 1 trùng E1).
+  - Rút gọn trên phần huấn luyện của fold 1 (StratifiedKFold 5, shuffle, seed 0, như E1), tức n_train = 0,8 n.
+- **Tiêu chí và phương pháp:**
+  - NRS δ = 0,10: KD-PA+B3, KD-PA, FNC, HASH;
+  - FRS σ = 0,25: KD-PA+B3, KD-PA, FA-FPR.
+- **Chạy:** tuần tự, mỗi đơn vị một tiến trình, 1 luồng BLAS, trần 900 s và 32 GB footprint như E1 (§10), máy không chạy việc khác.
+  - Luật bỏ qua: nếu (bộ, tiêu chí, phương pháp) timeout hoặc memout ở một n thì không chạy các n lớn hơn, ghi "skipped-larger-n".
+- **Kiểm tra:** các phương pháp chính xác phải trả cùng reduct có thứ tự ở mỗi n. Thời gian ở n = 10⁵ so với E1 fold 1 (E1 chạy 4 tiến trình song song).
+- **Đầu ra:** `scale_n.py` → `scale_n.jsonl`; hình `make_fig_scale.py` → `fig_scale.tex` (log–log, thời gian theo n).

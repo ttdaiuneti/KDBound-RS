@@ -1,0 +1,56 @@
+hls4ml-jets  n= 12500 NRS 0.10 KD-PA+B3  ok               t=1.4
+hls4ml-jets  n= 25000 NRS 0.10 KD-PA+B3  ok               t=3.5
+hls4ml-jets  n= 50000 NRS 0.10 KD-PA+B3  ok               t=10.4
+hls4ml-jets  n=100000 NRS 0.10 KD-PA+B3  ok               t=24.2
+hls4ml-jets  n= 12500 NRS 0.10 KD-PA     ok               t=1.2
+hls4ml-jets  n= 25000 NRS 0.10 KD-PA     ok               t=2.8
+hls4ml-jets  n= 50000 NRS 0.10 KD-PA     ok               t=7.1
+hls4ml-jets  n=100000 NRS 0.10 KD-PA     ok               t=17.3
+hls4ml-jets  n= 12500 NRS 0.10 FNC       ok               t=16.7
+hls4ml-jets  n= 25000 NRS 0.10 FNC       ok               t=65.4
+hls4ml-jets  n= 50000 NRS 0.10 FNC       memout           t=1.3
+hls4ml-jets  n=100000 NRS 0.10 FNC       skipped-larger-n t=nan
+hls4ml-jets  n= 12500 NRS 0.10 HASH      ok               t=17.4
+hls4ml-jets  n= 25000 NRS 0.10 HASH      ok               t=61.0
+hls4ml-jets  n= 50000 NRS 0.10 HASH      ok               t=197.1
+hls4ml-jets  n=100000 NRS 0.10 HASH      ok               t=593.5
+hls4ml-jets  n= 12500 FRS 0.25 KD-PA+B3  ok               t=4.7
+hls4ml-jets  n= 25000 FRS 0.25 KD-PA+B3  ok               t=11.3
+hls4ml-jets  n= 50000 FRS 0.25 KD-PA+B3  ok               t=27.2
+hls4ml-jets  n=100000 FRS 0.25 KD-PA+B3  ok               t=63.4
+hls4ml-jets  n= 12500 FRS 0.25 KD-PA     ok               t=5.0
+hls4ml-jets  n= 25000 FRS 0.25 KD-PA     ok               t=12.2
+hls4ml-jets  n= 50000 FRS 0.25 KD-PA     ok               t=29.4
+hls4ml-jets  n=100000 FRS 0.25 KD-PA     ok               t=68.6
+hls4ml-jets  n= 12500 FRS 0.25 FA-FPR    ok               t=91.8
+hls4ml-jets  n= 25000 FRS 0.25 FA-FPR    ok               t=373.4
+hls4ml-jets  n= 50000 FRS 0.25 FA-FPR    timeout          t=900.0
+hls4ml-jets  n=100000 FRS 0.25 FA-FPR    skipped-larger-n t=nan
+miniboone    n= 12500 NRS 0.10 KD-PA+B3  ok               t=0.6
+miniboone    n= 25000 NRS 0.10 KD-PA+B3  ok               t=2.3
+miniboone    n= 50000 NRS 0.10 KD-PA+B3  ok               t=7.5
+miniboone    n=100000 NRS 0.10 KD-PA+B3  ok               t=26.5
+miniboone    n= 12500 NRS 0.10 KD-PA     ok               t=5.6
+miniboone    n= 25000 NRS 0.10 KD-PA     ok               t=29.1
+miniboone    n= 50000 NRS 0.10 KD-PA     ok               t=111.2
+miniboone    n=100000 NRS 0.10 KD-PA     ok               t=302.7
+miniboone    n= 12500 NRS 0.10 FNC       ok               t=100.4
+miniboone    n= 25000 NRS 0.10 FNC       ok               t=442.7
+miniboone    n= 50000 NRS 0.10 FNC       memout           t=1.4
+miniboone    n=100000 NRS 0.10 FNC       skipped-larger-n t=nan
+miniboone    n= 12500 NRS 0.10 HASH      ok               t=101.3
+miniboone    n= 25000 NRS 0.10 HASH      ok               t=376.8
+miniboone    n= 50000 NRS 0.10 HASH      ok               t=856.4
+miniboone    n=100000 NRS 0.10 HASH      timeout          t=900.0
+miniboone    n= 12500 FRS 0.25 KD-PA+B3  ok               t=0.9
+miniboone    n= 25000 FRS 0.25 KD-PA+B3  ok               t=2.3
+miniboone    n= 50000 FRS 0.25 KD-PA+B3  ok               t=6.7
+miniboone    n=100000 FRS 0.25 KD-PA+B3  ok               t=17.8
+miniboone    n= 12500 FRS 0.25 KD-PA     ok               t=9.6
+miniboone    n= 25000 FRS 0.25 KD-PA     ok               t=30.0
+miniboone    n= 50000 FRS 0.25 KD-PA     ok               t=89.2
+miniboone    n=100000 FRS 0.25 KD-PA     ok               t=202.8
+miniboone    n= 12500 FRS 0.25 FA-FPR    ok               t=427.8
+miniboone    n= 25000 FRS 0.25 FA-FPR    timeout          t=900.0
+miniboone    n= 50000 FRS 0.25 FA-FPR    skipped-larger-n t=nan
+miniboone    n=100000 FRS 0.25 FA-FPR    skipped-larger-n t=nan
