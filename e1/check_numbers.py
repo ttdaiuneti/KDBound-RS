@@ -151,3 +151,18 @@ show(90, 'FARA faster in 10 of 41; 1.7x on hls4ml 0.10; median ratio 1.45',
 show(91, 'FARA 207/19.9 gas, 174/27.5 mini, 50/33 jannis (0.10)',
      [(d, round(mean5(d, 'NRS', '0.10', 'FARA') or -1), round(mean5(d, 'NRS', '0.10', 'KD-PA+B3'), 1))
       for d in ('gas-drift', 'miniboone', 'jannis')])
+
+# [5.3] against the standard greedy procedure with positive approximation
+for c, p, base in (('NRS', '0.10', 'BF-PA'), ('FRS', '0.25', 'FA-FPR')):
+    v = []; to = 0
+    for d in M:
+        o = mean5(d, c, p, 'KD-PA+B3')
+        if o is None or (d, c, p, base, 1) not in R:
+            continue
+        b = mean5(d, c, p, base)
+        if b:
+            v.append(b / o)
+        elif R[(d, c, p, base, 1)]['status'] in ('timeout', 'memout'):
+            v.append(LIMIT / o); to += 1
+    show('5.3', f'vs {base}: median 58 (NRS, 11) / 64 (FRS, 12); over 900 s on 6 / 5',
+         f"{len(v)} datasets, median {st.median(v):.1f}, over limit {to}")
