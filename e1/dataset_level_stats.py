@@ -64,3 +64,24 @@ for a, b, crits in (('KD-PA', 'KD-PA+B3', ('NRS', 'FRS')), ('FNC', 'FNC+B3', ('N
         print(f"   {crit}: {len(vc)} datasets, Wilcoxon p={stats.wilcoxon(list(vc.values()), alternative='greater').pvalue:.3f}, "
               f"Spearman rho={stats.spearmanr([M[d] for d in vc], list(vc.values())).correlation:.2f} "
               f"p={stats.spearmanr([M[d] for d in vc], list(vc.values())).pvalue:.4f}")
+
+# --- is the dependence on m an effect of the number of objects n? (rank-based partial correlations, one unit per dataset)
+Nobj = {os.path.basename(f)[:-4]: np.load(f)['X'].shape[0] for f in glob.glob(os.path.join(HERE, 'data', '*.npz'))}
+per = defaultdict(list)
+for r in usable:
+    x = ratio(r['dataset'], r['criterion'], r['param'], 'KD-PA', 'KD-PA+B3')
+    if x:
+        per[r['dataset']].append(x[0])
+ds = sorted(per); y = np.array([st.mean(per[d]) for d in ds]); m = np.array([M[d] for d in ds], float); n = np.array([Nobj[d] for d in ds], float)
+
+
+def partial(a, b, c):
+    ra, rb, rc = (stats.rankdata(v) for v in (a, b, c))
+    ab, ac, bc = (np.corrcoef(u, v)[0, 1] for u, v in ((ra, rb), (ra, rc), (rb, rc)))
+    r = (ab - ac * bc) / math.sqrt((1 - ac ** 2) * (1 - bc ** 2)); df = len(a) - 3
+    return r, 2 * (1 - stats.t.cdf(abs(r * math.sqrt(df / (1 - r * r))), df))
+
+
+print(f"{len(ds)} datasets: Spearman(m,n)={stats.spearmanr(m, n).correlation:.2f} p={stats.spearmanr(m, n).pvalue:.2f}; "
+      f"Spearman(n,ratio)={stats.spearmanr(n, y).correlation:.2f} p={stats.spearmanr(n, y).pvalue:.2f}")
+print("partial Spearman(m, ratio | n): rho=%.2f p=%.4f; partial Spearman(n, ratio | m): rho=%.2f p=%.2f" % (*partial(m, y, n), *partial(n, y, m)))
