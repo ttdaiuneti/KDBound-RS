@@ -20,7 +20,8 @@ candidate attributes that cannot be selected. The output is exactly the ordered 
 | `e1/run_e1.py` | experiment runner (resumable, append-only; time and memory limits) |
 | `e1/eval_e1.py` | classification accuracy of the reducts (3-NN, SVM-RBF; `research-commons/eval_harness/protocol.py`) |
 | `e1/verify_*.py`, `e1/verify_*.log` | exactness checks: all exact methods return identical reducts |
-| `e1/e1_prereg.md` | the protocol fixed before the runs, with every deviation recorded (sections 8-12; in Vietnamese) |
+| `e1/PROTOCOL_EN.md` | English summary of the protocol and its dated amendments (sections 1-13) |
+| `e1/e1_prereg.md` | the protocol as recorded during the study, with every amendment (sections 8-13; in Vietnamese) |
 | `e1/e1_raw.jsonl` | raw results, one line per (dataset, criterion, parameter, fold, method) |
 | `e1/e1_superseded.jsonl` | rows replaced by a re-run (kept in the raw file, excluded from all analyses) |
 | `e1/e1_acc.jsonl` | per-fold classification accuracy |
