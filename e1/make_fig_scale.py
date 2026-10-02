@@ -51,7 +51,7 @@ for i, (slug, crit, param) in enumerate(PANELS):
         c = " ".join(f"({NT[n]},{d[n]:.4g})" for n in sorted(d))
         plots.append(f"\\addplot[{STYLE[m]}, mark size=1.4pt] coordinates {{{c}}};"); leg.append(m)
     lab = f"{crit}, $\\delta={param}$" if crit == "NRS" else f"{crit}, $\\sigma={param}$"
-    axes.append(f"""\\begin{{axis}}[at={{({x0}\\linewidth,{y0}cm)}}, anchor=south west, width=0.5\\linewidth, height=5.0cm, ytick={{1,10,100,1000}},
+    axes.append(f"""\\begin{{axis}}[at={{({x0}\\linewidth,{y0}cm)}}, anchor=south west, width=0.48\\linewidth, height=5.0cm, ytick={{1,10,100,1000}},
   xmode=log, ymode=log, xmin=8000, xmax=100000, ymin=0.3, ymax=60000, xlabel={{training objects}}, ylabel={{time (s)}},
   title={{({"abcd"[i]}) {slug}, {lab}}}, title style={{font=\\small}}, tick label style={{font=\\scriptsize}},
   label style={{font=\\scriptsize}}, legend cell align=left,
