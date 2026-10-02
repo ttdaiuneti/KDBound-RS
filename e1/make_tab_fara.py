@@ -54,6 +54,12 @@ for c in ("svm", "3nn"):
     d = g - e
     print(f"{c}: n={len(rows)} FARA higher {(d > 5e-4).sum()} lower {(d < -5e-4).sum()} equal {(abs(d) <= 5e-4).sum()} "
           f"Wilcoxon p={stats.wilcoxon(e, g).pvalue:.3f}; jannis gaps {[round(100 * x, 1) for x, r in zip(d, rows) if r['dataset'] == 'jannis']}")
+    per = {}
+    for x, r in zip(d, rows):
+        per.setdefault(r["dataset"], []).append(x)
+    v = np.array([np.mean(l) for l in per.values()])   # configurations of one dataset are not independent
+    print(f"   dataset level: {len(v)} datasets, FARA higher {(v > 5e-4).sum()} lower {(v < -5e-4).sum()} "
+          f"equal {(abs(v) <= 5e-4).sum()}, Wilcoxon p={stats.wilcoxon(v).pvalue:.2f}")
 fr = [(r["dataset"], r["param"], float(r["ours_mean"]), st.mean(T[k]))
       for k, r in S.items() if k[1] == "NRS" and r["ours_folds"] == "5" and len(T.get(k, [])) == 5 and r["degenerate"] == "0"]
 faster = [x for x in fr if x[3] < x[2]]
