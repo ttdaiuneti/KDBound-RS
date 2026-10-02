@@ -57,6 +57,7 @@ ordered reduct and per-step records (candidates, evaluations, gains, bound of th
 | 11 | 2026-10-01 | Degenerate configurations (empty exact reduct in some fold: hls4ml-jets NRS δ ∈ {0.15, 0.20}) reported but excluded from speed-up statistics and accuracy. Idle re-measurement of a fixed subset (sensitivity only, does not replace values). Statistics: Friedman + Nemenyi with timeouts ranked as 900 s; one-sided Wilcoxon per engine pair. | Decided after the runs, before the analysis. |
 | 12 | 2026-10-01 | Witness step of HASH+B3, CABIN+B3, BUCKET+B3, BF-PA+B3: same O(P) fix as §9; exactness re-checked (evaluation counts unchanged); these four methods re-run on all datasets under the §10 rule. | Same slow step as §9, found while writing the paper. |
 | 13 | 2026-10-01 | Supplementary scaling run: hls4ml-jets and miniboone, n ∈ {12 500, 25 000, 50 000, 100 000}, fold 1, NRS δ = 0.10 and FRS σ = 0.25, one unit at a time, same limits. | Scaling curve of §5 with sizes available under the 10⁵ cap. |
+| 14 | 2026-10-02 | Supplementary run on the number of attributes: gas-drift, fold 1, m ∈ {16, 32, 64} (first m attributes of three random permutations, nested) and m = 128; NRS δ = 0.10 and FRS σ = 0.25; KD-PA and KD-PA+B3; same limits. Probes on dilbert (m = 2000) and Santander (m = 200) were used only to decide this design and are not reported. | Isolate the effect of m from other properties of the tables. |
 
 ## Files
 

@@ -220,3 +220,14 @@ Mọi phương pháp chính xác trả cùng một reduct (K1). Vì vậy:
   - Luật bỏ qua: nếu (bộ, tiêu chí, phương pháp) timeout hoặc memout ở một n thì không chạy các n lớn hơn, ghi "skipped-larger-n".
 - **Kiểm tra:** các phương pháp chính xác phải trả cùng reduct có thứ tự ở mỗi n. Thời gian ở n = 10⁵ so với E1 fold 1 (E1 chạy 4 tiến trình song song).
 - **Đầu ra:** `scale_n.py` → `scale_n.jsonl`; hình `make_fig_scale.py` → `fig_scale.tex` (log–log, thời gian theo n).
+
+## 14. Phân tích bổ sung: co giãn theo số thuộc tính m trên cùng một bảng (ghi 2026-10-02, TRƯỚC khi chạy; user đồng ý)
+- **Mục đích:** tách ảnh hưởng của m lên lợi ích của cận khi giữ nguyên dữ liệu và n (phép so giữa các dataset ở 5.4 lẫn m với các yếu tố khác). Phân tích bổ sung, KHÔNG thay số E1; báo cáo ở Section 5.4 và Appendix.
+- **Dữ liệu:** gas-drift (m = 128, n = 13 910), bảng E1 (`data/gas-drift.npz`). Phần huấn luyện của fold 1 (StratifiedKFold 5, shuffle, seed 0, như E1).
+- **Tập thuộc tính:** m ∈ {16, 32, 64, 128}; với m < 128, m thuộc tính đầu của một hoán vị ngẫu nhiên (seed s ∈ {0, 1, 2}; các tập lồng nhau theo m với mỗi s). m = 128 là bảng đầy đủ, chạy một lần.
+- **Tiêu chí và phương pháp:** NRS δ = 0,10 và FRS σ = 0,25; KD-PA và KD-PA+B3.
+- **Chạy:** tuần tự, mỗi đơn vị một tiến trình, 1 luồng BLAS, giới hạn 900 s và 32 GB như E1 (§10), máy không chạy việc khác. Luật bỏ qua: nếu (tiêu chí, phương pháp, s) quá giờ hoặc hết bộ nhớ ở một m thì không chạy m lớn hơn, ghi "skipped-larger-m".
+- **Ghi:** thời gian, |R|, số lượt đánh giá; kiểm tra KD-PA và KD-PA+B3 trả cùng reduct có thứ tự.
+- **Báo cáo định trước:** tỉ số thời gian KD-PA / KD-PA+B3 và tỉ lệ lượt đánh giá còn lại theo m (trung bình hình học qua s); quá giờ vẽ như cận dưới 900/t.
+- **Ghi chú thăm dò (không báo cáo):** thăm dò ngày 2026-10-02 trên dilbert (m = 2 000) cho thấy greedy FRS chọn toàn bộ thuộc tính và KD-PA+B3 quá giờ ở m lớn; Santander (m = 200) chỉ NRS chạy được, cận bỏ 26% lượt. Hai bộ này không đưa vào E1 hay §14.
+- **Đầu ra:** `scale_m.py` → `scale_m.jsonl`; hình `make_fig_scale_m.py` → `fig_scale_m.tex`.

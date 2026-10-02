@@ -1,0 +1,40 @@
+m=  16 seed= 0 NRS KD-PA+B3  ok               t=2.6 |R|=16 evals=84
+m=  32 seed= 0 NRS KD-PA+B3  ok               t=6.5 |R|=32 evals=179
+m=  64 seed= 0 NRS KD-PA+B3  ok               t=13.6 |R|=61 evals=326
+m=  16 seed= 1 NRS KD-PA+B3  ok               t=2.1 |R|=15 evals=61
+m=  32 seed= 1 NRS KD-PA+B3  ok               t=5.2 |R|=30 evals=143
+m=  64 seed= 1 NRS KD-PA+B3  ok               t=13.2 |R|=55 evals=328
+m=  16 seed= 2 NRS KD-PA+B3  ok               t=1.7 |R|=15 evals=51
+m=  32 seed= 2 NRS KD-PA+B3  ok               t=5.1 |R|=31 evals=137
+m=  64 seed= 2 NRS KD-PA+B3  ok               t=14.1 |R|=61 evals=317
+m= 128 seed=-1 NRS KD-PA+B3  ok               t=18.7 |R|=102 evals=640
+m=  16 seed= 0 NRS KD-PA     ok               t=2.5 |R|=16 evals=136
+m=  32 seed= 0 NRS KD-PA     ok               t=14.5 |R|=32 evals=528
+m=  64 seed= 0 NRS KD-PA     ok               t=73.4 |R|=61 evals=2077
+m=  16 seed= 1 NRS KD-PA     ok               t=2.5 |R|=15 evals=136
+m=  32 seed= 1 NRS KD-PA     ok               t=13.7 |R|=30 evals=527
+m=  64 seed= 1 NRS KD-PA     ok               t=79.7 |R|=55 evals=2044
+m=  16 seed= 2 NRS KD-PA     ok               t=2.1 |R|=15 evals=136
+m=  32 seed= 2 NRS KD-PA     ok               t=13.3 |R|=31 evals=528
+m=  64 seed= 2 NRS KD-PA     ok               t=74.8 |R|=61 evals=2077
+m= 128 seed=-1 NRS KD-PA     ok               t=226.4 |R|=102 evals=7931
+m=  16 seed= 0 FRS KD-PA+B3  ok               t=6.3 |R|=16 evals=103
+m=  32 seed= 0 FRS KD-PA+B3  ok               t=21.8 |R|=29 evals=237
+m=  64 seed= 0 FRS KD-PA+B3  ok               t=67.3 |R|=53 evals=560
+m=  16 seed= 1 FRS KD-PA+B3  ok               t=4.7 |R|=16 evals=71
+m=  32 seed= 1 FRS KD-PA+B3  ok               t=16.9 |R|=26 evals=191
+m=  64 seed= 1 FRS KD-PA+B3  ok               t=65.2 |R|=48 evals=536
+m=  16 seed= 2 FRS KD-PA+B3  ok               t=4.0 |R|=15 evals=69
+m=  32 seed= 2 FRS KD-PA+B3  ok               t=18.6 |R|=29 evals=206
+m=  64 seed= 2 FRS KD-PA+B3  ok               t=61.2 |R|=53 evals=523
+m= 128 seed=-1 FRS KD-PA+B3  ok               t=185.6 |R|=84 evals=1275
+m=  16 seed= 0 FRS KD-PA     ok               t=7.6 |R|=16 evals=136
+m=  32 seed= 0 FRS KD-PA     ok               t=52.2 |R|=29 evals=525
+m=  64 seed= 0 FRS KD-PA     ok               t=298.3 |R|=53 evals=2025
+m=  16 seed= 1 FRS KD-PA     ok               t=8.7 |R|=16 evals=136
+m=  32 seed= 1 FRS KD-PA     ok               t=51.8 |R|=26 evals=513
+m=  64 seed= 1 FRS KD-PA     ok               t=278.8 |R|=48 evals=1960
+m=  16 seed= 2 FRS KD-PA     ok               t=7.9 |R|=15 evals=136
+m=  32 seed= 2 FRS KD-PA     ok               t=54.5 |R|=29 evals=525
+m=  64 seed= 2 FRS KD-PA     ok               t=299.7 |R|=53 evals=2025
+m= 128 seed=-1 FRS KD-PA     timeout          t=900.0 |R|=0 evals=None

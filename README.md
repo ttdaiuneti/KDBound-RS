@@ -29,6 +29,7 @@ candidate attributes that cannot be selected. The output is exactly the ordered 
 | `e1/summarize_e1.py`, `stats_e1.py`, `rq1_stats.py`, `make_*.py` (incl. `make_fig_mech.py`, the illustrative step of Fig. 1) | every number, table and figure of the manuscript is computed by these scripts from the raw files |
 | `e1/remeasure_idle.*` | re-measurement of a fixed subset of runs on an idle machine |
 | `e1/scale_n.py`, `e1/scale_n.jsonl` | supplementary run: reduction time against the number of objects (protocol section 13; Appendix A.3) |
+| `e1/scale_m.py`, `e1/scale_m.jsonl` | supplementary run: reduction time against the number of attributes on gas-drift (protocol section 14; Fig. 6) |
 | `research-commons/` | data preparation scripts (OpenML download and min-max normalization) and the evaluation harness |
 
 ## Reproducing
