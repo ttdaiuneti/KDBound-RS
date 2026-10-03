@@ -1,0 +1,16 @@
+{"m": 50, "n_train": 8000, "crit": "NRS", "method": "KD-PA+B3", "status": "ok", "R": 13, "evals": 335, "first_gain": 18, "time": 2.4}
+{"m": 50, "n_train": 8000, "crit": "NRS", "method": "KD-PA", "status": "ok", "R": 13, "evals": 572, "first_gain": 18, "time": 3.4}
+{"m": 50, "n_train": 8000, "crit": "FRS", "method": "KD-PA+B3", "status": "ok", "R": 50, "evals": 989, "first_gain": 17.01832203862053, "time": 169.7}
+{"m": 50, "n_train": 8000, "crit": "FRS", "method": "KD-PA", "status": "ok", "R": 50, "evals": 1275, "first_gain": 17.01832203862053, "time": 225.7}
+{"m": 100, "n_train": 8000, "crit": "NRS", "method": "KD-PA+B3", "status": "ok", "R": 12, "evals": 680, "first_gain": 18, "time": 5.2}
+{"m": 100, "n_train": 8000, "crit": "NRS", "method": "KD-PA", "status": "ok", "R": 12, "evals": 1134, "first_gain": 18, "time": 7.2}
+{"m": 100, "n_train": 8000, "crit": "FRS", "method": "KD-PA+B3", "status": "timeout", "time": 300.0}
+{"m": 100, "n_train": 8000, "crit": "FRS", "method": "KD-PA", "status": "timeout", "time": 300.1}
+{"m": 200, "n_train": 8000, "crit": "NRS", "method": "KD-PA+B3", "status": "ok", "R": 11, "evals": 1281, "first_gain": 18, "time": 11.1}
+{"m": 200, "n_train": 8000, "crit": "NRS", "method": "KD-PA", "status": "ok", "R": 11, "evals": 2145, "first_gain": 18, "time": 15.7}
+{"m": 200, "n_train": 8000, "crit": "FRS", "method": "KD-PA+B3", "status": "skipped-after-timeout"}
+{"m": 200, "n_train": 8000, "crit": "FRS", "method": "KD-PA", "status": "skipped-after-timeout"}
+{"m": 400, "n_train": 8000, "crit": "NRS", "method": "KD-PA+B3", "status": "ok", "R": 11, "evals": 2736, "first_gain": 19, "time": 110.4}
+{"m": 400, "n_train": 8000, "crit": "NRS", "method": "KD-PA", "status": "ok", "R": 11, "evals": 4345, "first_gain": 19, "time": 128.4}
+{"m": 400, "n_train": 8000, "crit": "FRS", "method": "KD-PA+B3", "status": "skipped-after-timeout"}
+{"m": 400, "n_train": 8000, "crit": "FRS", "method": "KD-PA", "status": "skipped-after-timeout"}

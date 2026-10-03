@@ -1,0 +1,5 @@
+SantanderCustomerSatisfaction NRS n=100000 m=200 |R|=11 evals=1580 first-step gain=2 KEEP t=209.6s
+SantanderCustomerSatisfaction FRS n=100000 m=200 TIMEOUT >900 s (KD-PA+B3, whole table)
+dilbert FRS n=10000 m=2000 TIMEOUT >900 s (KD-PA+B3, whole table)
+
+[exited with code 0]

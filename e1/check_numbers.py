@@ -80,6 +80,8 @@ show(61, 'm>=29: median 3.31, 1.29-13.22, 19 configs',
 show(92, 'worst ratio 0.67 on hls4ml-jets 0.10', min((round(x[0], 2), x[3], x[4]) for x in bp))
 show(93, 'm>=29 skips 32-92% of evaluations',
      f"{100 * (1 - max(x[1] for x in hi)):.0f}-{100 * (1 - min(x[1] for x in hi)):.0f}%")
+show(93, 'm>=29 median skipped fraction per configuration (abstract)',
+     f"{100 * (1 - st.median(x[1] for x in hi)):.0f}% over {len(hi)} configs")
 show(63, 'Spearman(m, frac) -0.72; frac 1.00 run-or-walk .. 0.08 gas; Spearman(ratio,frac) -0.96',
      f"{stats.spearmanr([x[2] for x in bp], [x[1] for x in bp]).correlation:.2f}; "
      f"max {max((round(x[1], 2), x[3]) for x in bp)}, min {min((round(x[1], 2), x[3]) for x in bp)}; "
@@ -166,3 +168,24 @@ for c, p, base in (('NRS', '0.10', 'BF-PA'), ('FRS', '0.25', 'FA-FPR')):
             v.append(LIMIT / o); to += 1
     show('5.3', f'vs {base}: median 58 (NRS, 11) / 64 (FRS, 12); over 900 s on 6 / 5',
          f"{len(v)} datasets, median {st.median(v):.1f}, over limit {to}")
+
+# [A1] probes on tables not used (Appendix A.1; e1/probes_hd/)
+pr = [json.loads(l) for l in open(os.path.join(HERE, 'probes_hd', 'scale_m_probe.jsonl'))]
+nrs = {(r['m'], r['method']): r for r in pr if r['crit'] == 'NRS' and r['status'] == 'ok'}
+ms = sorted({m for m, _ in nrs})
+show('A1', 'dilbert NRS: |R| 11-13, evaluated 59-63%, speed-up 1.16-1.42',
+     f"|R| {min(nrs[(m, 'KD-PA')]['R'] for m in ms)}-{max(nrs[(m, 'KD-PA')]['R'] for m in ms)}, "
+     f"evaluated {min(nrs[(m, 'KD-PA+B3')]['evals'] / nrs[(m, 'KD-PA')]['evals'] for m in ms):.2f}-"
+     f"{max(nrs[(m, 'KD-PA+B3')]['evals'] / nrs[(m, 'KD-PA')]['evals'] for m in ms):.2f}, speed-up "
+     f"{min(nrs[(m, 'KD-PA')]['time'] / nrs[(m, 'KD-PA+B3')]['time'] for m in ms):.2f}-"
+     f"{max(nrs[(m, 'KD-PA')]['time'] / nrs[(m, 'KD-PA+B3')]['time'] for m in ms):.2f}")
+import re  # noqa: E402
+sa = {}
+for f in ('degen_hd2.out', 'probe_sant_kdpa.out'):
+    for ln in open(os.path.join(HERE, 'probes_hd', f)):
+        mm = re.search(r'Santander\S* NRS (?:(KD-PA) )?n=\d+ m=200 \|R\|=(\d+) evals=(\d+).* t=([\d.]+)s', ln)
+        if mm:
+            sa[mm.group(1) or 'KD-PA+B3'] = (int(mm.group(2)), int(mm.group(3)), float(mm.group(4)))
+show('A1', 'Santander NRS: |R| 11, evaluated 74%, 1.15x (210 s vs 240 s)',
+     f"|R| {sa['KD-PA+B3'][0]}, evaluated {sa['KD-PA+B3'][1] / sa['KD-PA'][1]:.2f}, "
+     f"{sa['KD-PA'][2] / sa['KD-PA+B3'][2]:.2f}x ({sa['KD-PA+B3'][2]:.0f} s vs {sa['KD-PA'][2]:.0f} s)")
