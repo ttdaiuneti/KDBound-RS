@@ -3,7 +3,7 @@
 import sys, time, signal
 import numpy as np
 from sklearn.datasets import fetch_openml
-sys.path.insert(0, '/Users/tranthanhdai/Documents/2026/NCS-Tram/KDBound-RS/e1')
+import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 from engines_e1 import run_nrs
 from frs import run_frs
 did = int(sys.argv[1]); crit = sys.argv[2]

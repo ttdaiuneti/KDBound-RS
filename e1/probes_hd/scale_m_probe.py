@@ -4,7 +4,7 @@ import json, signal, sys, time
 import numpy as np
 from sklearn.datasets import fetch_openml
 from sklearn.model_selection import StratifiedKFold
-sys.path.insert(0, '/Users/tranthanhdai/Documents/2026/NCS-Tram/KDBound-RS/e1')
+import os; sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 from engines_e1 import run_nrs
 from frs import run_frs
 CAP = int(sys.argv[1]); GRID = [int(v) for v in sys.argv[2].split(',')]
