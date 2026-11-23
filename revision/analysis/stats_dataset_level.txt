@@ -1,0 +1,2 @@
+NRS: 12 datasets (43 configurations), chi2 = 27.64, p = 1.48e-05, CD = 1.76; KD-PA+B3 1.50, KD-PA 2.04, HASH 3.62, FNC+B3 3.71, FNC 4.12
+FRS: 12 datasets (24 configurations), chi2 = 28.43, p = 2.95e-06, CD = 1.35; KD-PA+B3 1.42, KD-PA 1.67, FA-FPR 3.38, FA-FPR+B3 3.54

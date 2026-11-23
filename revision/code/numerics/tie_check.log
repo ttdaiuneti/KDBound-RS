@@ -1,0 +1,12 @@
+creditcard 0.10 1 cases so far 1
+creditcard 0.10 2 cases so far 2
+creditcard 0.20 1 cases so far 3
+house-16h 0.05 1 cases so far 47
+house-16h 0.05 2 cases so far 90
+house-16h 0.05 3 cases so far 146
+house-16h 0.05 5 cases so far 151
+house-16h 0.05 4 cases so far 194
+house-16h 0.10 2 cases so far 196
+house-16h 0.20 4 cases so far 198
+jannis 0.20 5 cases so far 199
+(unit, step, candidate) with boundary objects: 199; e1 engines disagree: 1; revised disagree: 0; revised differs from exact arithmetic: 0

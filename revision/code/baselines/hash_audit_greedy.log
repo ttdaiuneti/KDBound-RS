@@ -1,0 +1,12 @@
+{'dataset': 'mammography', 'method': 'HASH-B7'} {"dataset": "mammography", "method": "HASH-B7", "n_train": 8946, "status": "ok", "R": [1, 3, 5, 4, 2, 0], "evals": 21, "pairs": 8854434, "time": 0.2487351250000
+{'dataset': 'htru2', 'method': 'HASH-B7'} {"dataset": "htru2", "method": "HASH-B7", "n_train": 14318, "status": "ok", "R": [3, 5, 0, 1, 6, 2, 7, 4], "evals": 36, "pairs": 92361704, "time": 1.736736875, 
+{'dataset': 'magic-telescope', 'method': 'HASH-B7'} {"dataset": "magic-telescope", "method": "HASH-B7", "n_train": 15216, "status": "ok", "R": [6, 1, 8, 9, 2, 0, 3, 7, 4, 5], "evals": 55, "pairs": 299350991, "tim
+{'dataset': 'house-16h', 'method': 'HASH-B7'} {"dataset": "house-16h", "method": "HASH-B7", "n_train": 18227, "status": "ok", "R": [0, 2, 15, 4, 13, 10, 7, 14, 3, 12, 5, 8, 9, 1, 6, 11], "evals": 136, "pair
+{'dataset': 'gas-drift', 'method': 'HASH-B7'} {"dataset": "gas-drift", "method": "HASH-B7", "status": "timeout", "time": 900.006617583}
+{'dataset': 'internet-firewall', 'method': 'HASH-B7'} {"dataset": "internet-firewall", "method": "HASH-B7", "n_train": 52425, "status": "ok", "R": [3, 0, 2, 1, 8, 6, 10], "evals": 60, "pairs": 12895530354, "time": 
+{'dataset': 'jannis', 'method': 'HASH-B7'} {"dataset": "jannis", "method": "HASH-B7", "status": "timeout", "time": 900.0049219590001}
+{'dataset': 'run-or-walk', 'method': 'HASH-B7'} {"dataset": "run-or-walk", "method": "HASH-B7", "n_train": 70870, "status": "ok", "R": [0, 4, 2, 5, 1, 3], "evals": 21, "pairs": 9120961991, "time": 100.6275902
+{'dataset': 'miniboone', 'method': 'HASH-B7'} {"dataset": "miniboone", "method": "HASH-B7", "status": "timeout", "time": 900.0061249579999}
+{'dataset': 'creditcard', 'method': 'HASH-B7'} {"dataset": "creditcard", "method": "HASH-B7", "n_train": 80000, "status": "ok", "R": [3, 23, 25, 10, 12, 18, 13, 14, 17, 21, 24, 2, 8, 0, 16, 15, 11, 1, 5, 9, 
+{'dataset': 'hls4ml-jets', 'method': 'HASH-B7'} {"dataset": "hls4ml-jets", "method": "HASH-B7", "n_train": 80000, "status": "ok", "R": [6, 5, 15, 13, 10, 3, 0, 14, 11, 9, 4, 7, 1, 12, 2, 8], "evals": 136, "pa
+{'dataset': 'vehicle-sensit', 'method': 'HASH-B7'} {"dataset": "vehicle-sensit", "method": "HASH-B7", "status": "timeout", "time": 900.0117270419996}

@@ -1,0 +1,305 @@
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07532470800000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 16, "time": 0.08570133400000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07426695800000005}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07422537500000004}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07265774999999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14204258400000003}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 0.14237116699999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14433812499999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.141653708}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14515266699999996}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 15, "time": 2.9555715830000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 16, "time": 4.048785792}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 15, "time": 2.974896708}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.8380235419999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 15, "time": 2.954426959}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.801069500000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 15.6216675}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.59271125}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.812555958999999}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.668427417000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 11.892351584}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 23.408094124999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 11.562480834}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 11.536413958}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 11.496597875}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07412195900000007}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 14, "time": 0.07402858299999993}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07497016700000003}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.077265166}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07412333299999996}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14618266699999993}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 0.14607766700000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14324066600000007}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14543341599999993}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14343191700000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.834469667}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 14, "time": 1.8072574590000001}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.843017459}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.8834375829999999}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.8417469999999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.670909542000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 15.605844500000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.678633625000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.747879791999999}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.623061792}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 23.274894125}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 27.181187667}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 22.854670958}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 22.92554125}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 22.94871475}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07230195900000003}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 14, "time": 0.07115291699999993}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07384179199999996}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07236449999999994}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07302987500000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14315895899999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 0.14116520900000007}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14239766600000003}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.143419792}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.14204658300000006}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.792987}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 14, "time": 1.78828525}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.8161506250000001}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.8194148339999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.815897667}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.780826417000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 15.512912458}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.623523833000002}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.691767}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.666745916999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 24.344666958}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 27.213461167}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 23.413730541}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 23.3861655}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 23.401146541000003}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 0.07373454199999996}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 14, "time": 0.07246087499999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 22, "time": 0.12584320800000004}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 22, "time": 0.126137375}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 22, "time": 0.12680324999999992}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 0.1432405}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 0.14379599999999992}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 0.23666470899999992}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 0.23737637499999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 0.24158166599999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 14, "time": 1.8192609579999999}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 14, "time": 1.8248391659999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 22, "time": 12.043702541}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 22, "time": 12.09509175}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "FNC+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 22, "time": 12.237489542}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 15.785737416999998}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 15.558802291000001}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 29.900517124999997}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 29.821620958}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "FNC", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 30.040294125}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [2], "evals": 27, "time": 23.946304708}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1], "evals": 27, "time": 27.749438416}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 36.944830708}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 35.838984083999996}
+{"dataset": "eeg-eye-state", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "HASH", "n_train": 11984, "d": 14, "status": "ok", "R": [1, 2], "evals": 39, "time": 35.351902333}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 10, 1, 4, 2, 9, 11], "evals": 35, "time": 0.4518174170000001}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [11, 1, 7, 10, 4, 9, 2], "evals": 35, "time": 0.4593887499999999}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 35, "time": 0.45193108299999996}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 2, 4, 9, 11], "evals": 35, "time": 0.4526112079999999}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 35, "time": 0.4562676659999999}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 10, 1, 4, 2, 9, 11], "evals": 84, "time": 1.1248105}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [11, 1, 7, 10, 4, 9, 2], "evals": 84, "time": 1.333034333}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 84, "time": 1.356859875}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 2, 4, 9, 11], "evals": 84, "time": 1.350533167}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 84, "time": 1.3602276249999998}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 10, 1, 4, 2, 9, 11], "evals": 36, "time": 23.374155459}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [11, 1, 7, 10, 4, 9, 2], "evals": 35, "time": 23.035785459}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 35, "time": 22.644123875000002}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 2, 4, 9, 11], "evals": 35, "time": 22.604332042}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 35, "time": 22.756413791}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 10, 1, 4, 2, 9, 11], "evals": 84, "time": 59.397784333}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [11, 1, 7, 10, 4, 9, 2], "evals": 84, "time": 59.427374208}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 84, "time": 59.294364167}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 2, 4, 9, 11], "evals": 84, "time": 58.9315315}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 7, 4, 2, 9, 11], "evals": 84, "time": 59.46719475}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 1, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 6, 3, 0, 7, 9, 4, 2, 8, 11, 12], "evals": 80, "time": 2.249965166}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 2, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [5, 1, 10, 7, 9, 2, 4, 11], "evals": 44, "time": 0.7107502500000001}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 3, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 4, 2, 9, 11, 12], "evals": 37, "time": 0.594439167}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 4, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11, 12], "evals": 37, "time": 0.592232667}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 5, "method": "KD-PA+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11], "evals": 36, "time": 0.48784025}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 1, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 6, 3, 0, 7, 9, 4, 2, 8, 11, 12], "evals": 104, "time": 2.817614083}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 2, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [5, 1, 10, 7, 9, 2, 4, 11], "evals": 90, "time": 1.906272709}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 3, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 4, 2, 9, 11, 12], "evals": 90, "time": 1.769409167}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 4, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11, 12], "evals": 90, "time": 1.7954658329999997}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 5, "method": "KD-PA", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11], "evals": 84, "time": 1.47521975}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 1, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 6, 3, 0, 7, 9, 4, 2, 8, 11, 12], "evals": 80, "time": 75.555850792}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 2, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [5, 1, 10, 7, 9, 2, 4, 11], "evals": 44, "time": 30.825065667}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 3, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 4, 2, 9, 11, 12], "evals": 37, "time": 26.000204709}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 4, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11, 12], "evals": 37, "time": 26.045801417}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 5, "method": "FA-FPR+B3", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11], "evals": 36, "time": 23.468347375}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 1, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [10, 1, 6, 3, 0, 7, 9, 4, 2, 8, 11, 12], "evals": 104, "time": 91.321255584}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 2, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [5, 1, 10, 7, 9, 2, 4, 11], "evals": 90, "time": 67.668823917}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 3, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 4, 2, 9, 11, 12], "evals": 90, "time": 67.48309495800001}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 4, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11, 12], "evals": 90, "time": 67.8074495}
+{"dataset": "eeg-eye-state", "criterion": "FRS", "param": "std", "fold": 5, "method": "FA-FPR", "n_train": 11984, "d": 14, "status": "ok", "R": [7, 1, 10, 2, 4, 9, 11], "evals": 84, "time": 60.2395565}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7649654169999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7853300840000002}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.76951975}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7824405}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7806601670000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7722672499999998}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7798982079999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7803084170000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.778263375}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.773477291}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.19243462499999997}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.19354662499999997}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.19185179200000002}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.19321154200000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18577912499999993}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.184715917}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18555850000000007}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.185843459}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.185069417}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.184764166}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 1, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 45.757337791000005}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 2, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 45.757222708}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 3, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 45.51245575}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 4, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 45.131321583}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.05", "fold": 5, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 45.16114675}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.763754334}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.767271417}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7644482090000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7766153339999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.770900875}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.777023334}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7887730000000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7663595419999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.773937083}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.766259834}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18100725000000006}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18255016700000004}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18053404100000003}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18029529199999994}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18037899999999996}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18052645899999997}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17998199999999998}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18055341599999997}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17941816700000002}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.18130254199999996}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 1, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 84.316062125}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 2, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 84.22184145899999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 3, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 83.726325084}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 4, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 83.71111608300001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.10", "fold": 5, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 83.998329083}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7650031249999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.76060075}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.765022625}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.757738875}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7593588749999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.75833775}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.757544833}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.768160083}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.757708833}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7539249579999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17664500000000005}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17644470899999998}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17734708300000002}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17750070799999995}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17748158400000003}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.177303459}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.177186666}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.177610583}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.1772052919999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17824025}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 1, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 121.367217875}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 2, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 120.50889525000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 3, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 120.139564625}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 4, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 119.916014375}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.15", "fold": 5, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 120.285121375}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.760040709}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.757634666}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7628062499999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7660396660000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.77021525}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.767453417}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7722325}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7640512909999999}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.765864542}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.7633160000000001}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17406837500000005}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.174200083}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17422424999999997}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17592279199999994}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "FNC+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17753095899999993}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.17633566700000003}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.173825542}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.173378625}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.175886208}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "FNC", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 0.173501542}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 1, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 150.63800020899998}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 2, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 150.051229125}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 3, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 148.772123125}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 4, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 149.85266895799998}
+{"dataset": "numerai28-6", "criterion": "NRS", "param": "0.20", "fold": 5, "method": "HASH", "n_train": 77056, "d": 21, "status": "ok", "R": [], "evals": 21, "time": 150.170878875}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 5, 19, 0, 12, 11, 2, 4, 18, 15, 1, 9, 3, 8, 16, 14, 10, 7, 17, 13, 6], "evals": 231, "time": 135.528097125}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 5, 19, 0, 12, 11, 2, 4, 18, 15, 1, 9, 3, 8, 16, 14, 7, 10, 17, 13, 6], "evals": 231, "time": 134.215349708}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 5, 15, 0, 4, 11, 2, 12, 18, 19, 1, 9, 3, 8, 16, 14, 7, 10, 17, 13, 6], "evals": 231, "time": 133.875074375}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 19, 5, 12, 2, 11, 4, 15, 1, 3, 9, 18, 8, 0, 16, 14, 10, 17, 13, 6], "evals": 231, "time": 134.777409334}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [10, 5, 4, 0, 15, 1, 11, 12, 18, 19, 2, 3, 20, 9, 8, 16, 14, 7, 17, 13, 6], "evals": 231, "time": 130.04475575}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 5, 19, 0, 12, 11, 2, 4, 18, 15, 1, 9, 3, 8, 16, 14, 10, 7, 17, 13, 6], "evals": 231, "time": 118.483070333}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 5, 19, 0, 12, 11, 2, 4, 18, 15, 1, 9, 3, 8, 16, 14, 7, 10, 17, 13, 6], "evals": 231, "time": 117.147452041}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 5, 15, 0, 4, 11, 2, 12, 18, 19, 1, 9, 3, 8, 16, 14, 7, 10, 17, 13, 6], "evals": 231, "time": 117.331011875}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 19, 5, 12, 2, 11, 4, 15, 1, 3, 9, 18, 8, 0, 16, 14, 10, 17, 13, 6], "evals": 231, "time": 117.805396667}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [10, 5, 4, 0, 15, 1, 11, 12, 18, 19, 2, 3, 20, 9, 8, 16, 14, 7, 17, 13, 6], "evals": 231, "time": 114.260210292}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "FA-FPR+B3", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "FA-FPR", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 15, 4, 2, 5, 11, 12, 19, 9, 1, 18, 3, 8, 0, 16, 14, 10, 17, 13, 6], "evals": 231, "time": 156.26584795800002}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 8, 19, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 156.731913042}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 1, "method": "FA-FPR", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 2, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 3, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 4, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "0.25", "fold": 5, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 151.40669012499998}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 15, 4, 2, 5, 11, 12, 19, 9, 1, 18, 3, 8, 0, 16, 14, 10, 17, 13, 6], "evals": 231, "time": 151.597306916}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 150.00053020800001}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 8, 19, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 150.126605166}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [10, 7, 12, 19, 1, 5, 8, 4, 15, 11, 18, 3, 20, 9, 2, 0, 16, 14, 17, 13, 6], "evals": 231, "time": 148.904231167}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 149.36293375}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 15, 4, 2, 5, 11, 12, 19, 9, 1, 18, 3, 8, 0, 16, 14, 10, 17, 13, 6], "evals": 231, "time": 131.24001504199998}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 149.70683583299999}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 8, 19, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 130.005813083}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "KD-PA+B3", "n_train": 77056, "d": 21, "status": "ok", "R": [10, 7, 12, 19, 1, 5, 8, 4, 15, 11, 18, 3, 20, 9, 2, 0, 16, 14, 17, 13, 6], "evals": 231, "time": 149.303469708}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 130.166560042}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 15, 4, 2, 5, 11, 12, 19, 9, 1, 18, 3, 8, 0, 16, 14, 10, 17, 13, 6], "evals": 231, "time": 130.955445167}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 129.93770958300001}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 8, 19, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 130.282883917}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [10, 7, 12, 19, 1, 5, 8, 4, 15, 11, 18, 3, 20, 9, 2, 0, 16, 14, 17, 13, 6], "evals": 231, "time": 129.785348375}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 132.458610333}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [20, 7, 16, 12, 2, 5, 11, 15, 9, 1, 18, 4, 3, 19, 8, 0, 14, 10, 17, 13, 6], "evals": 231, "time": 133.088014708}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "KD-PA", "n_train": 77056, "d": 21, "status": "ok", "R": [10, 7, 12, 19, 1, 5, 8, 4, 15, 11, 18, 3, 20, 9, 2, 0, 16, 14, 17, 13, 6], "evals": 231, "time": 132.963228167}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "FA-FPR+B3", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "FA-FPR+B3", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "FA-FPR+B3", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "FA-FPR", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 1, "method": "FA-FPR", "status": "timeout"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 2, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 3, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 4, "method": "FA-FPR", "status": "skipped"}
+{"dataset": "numerai28-6", "criterion": "FRS", "param": "std", "fold": 5, "method": "FA-FPR", "status": "skipped"}

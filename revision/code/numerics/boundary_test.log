@@ -1,0 +1,23 @@
+cases: 4228 (sphere 4200, window 28)
+cases with exact decision 'within': 2583
+
+[e1] cases where the engines disagree among themselves: 285
+   sphere dim= 1: 131  e.g. BF-PA=False, BUCKET=False, CABIN=False, FNC=True, HASH=False, KD-PA=False
+   sphere dim= 8: 40  e.g. BF-PA=False, BUCKET=False, CABIN=False, HASH=False, KD-PA=True
+   sphere dim=12: 25  e.g. BF-PA=True, BUCKET=True, CABIN=True, HASH=True, KD-PA=False
+   sphere dim=16: 61  e.g. BF-PA=True, BUCKET=True, CABIN=True, HASH=True, KD-PA=False
+   window dim= 1: 28  e.g. BF-PA=False, BUCKET=False, CABIN=False, FNC=True, HASH=False, KD-PA=False
+   e1:BF-PA     differs from exact arithmetic in 364 of 4228
+   e1:BUCKET    differs from exact arithmetic in 364 of 4228
+   e1:CABIN     differs from exact arithmetic in 364 of 4228
+   e1:FNC       differs from exact arithmetic in 159 of 628
+   e1:HASH      differs from exact arithmetic in 364 of 4228
+   e1:KD-PA     differs from exact arithmetic in 396 of 4228
+
+[rev] cases where the engines disagree among themselves: 0
+   rev:BF-PA    differs from exact arithmetic in 364 of 4228
+   rev:BUCKET   differs from exact arithmetic in 364 of 4228
+   rev:CABIN    differs from exact arithmetic in 364 of 4228
+   rev:FNC      differs from exact arithmetic in 0 of 628
+   rev:HASH     differs from exact arithmetic in 364 of 4228
+   rev:KD-PA    differs from exact arithmetic in 364 of 4228

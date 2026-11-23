@@ -1,0 +1,12 @@
+formula max abs diff: 1.6653345369377348e-16
+magic-telescope range 0.0 1.0 m 10
+  d=0.1 eps=0.001: |R|=10 same=True evals KD=55 KD+B3=35 t KD=0.0s KD+B3=0.0s
+  d=0.1 eps=0.01: |R|=9 same=True evals KD=55 KD+B3=34 t KD=0.0s KD+B3=0.0s
+  d=0.2 eps=0.001: |R|=10 same=True evals KD=55 KD+B3=38 t KD=0.0s KD+B3=0.0s
+  d=0.2 eps=0.01: |R|=9 same=True evals KD=55 KD+B3=37 t KD=0.0s KD+B3=0.0s
+house-16h range 0.0 1.0 m 16
+  d=0.1 eps=0.001: |R|=15 same=True evals KD=136 KD+B3=64 t KD=0.1s KD+B3=0.1s
+  d=0.1 eps=0.01: |R|=9 same=True evals KD=115 KD+B3=54 t KD=0.1s KD+B3=0.0s
+  d=0.2 eps=0.001: |R|=15 same=True evals KD=136 KD+B3=66 t KD=0.1s KD+B3=0.1s
+  d=0.2 eps=0.01: |R|=13 same=True evals KD=133 KD+B3=64 t KD=0.1s KD+B3=0.1s
+gas-drift range 0.0 1.0 m 128

@@ -3,10 +3,10 @@
 Code, protocol and raw results for the manuscript
 
 > T.D. Tran, *Nearest-enemy bounds for exact and fast greedy attribute reduction in neighborhood and fuzzy rough
-> sets* (submitted to Information Sciences).
+> sets* (under review).
 
-The method selects attributes with the standard greedy forward procedure for neighborhood rough sets (NRS) and fuzzy
-rough sets with the minimum t-norm (FRS). A per-class k-d tree answers nearest-enemy queries, and a witness bound skips
+The method selects attributes with the standard greedy forward procedure for neighborhood rough sets (NRS), fuzzy
+rough sets with the minimum t-norm (FRS) and Gaussian kernel fuzzy rough sets. A per-class k-d tree answers nearest-enemy queries, and a witness bound skips
 candidate attributes that cannot be selected. The output is exactly the ordered reduct of the standard greedy procedure.
 
 ## Layout
@@ -28,7 +28,7 @@ candidate attributes that cannot be selected. The output is exactly the ordered 
 | `e1/results/reducts/` | the reduct of every run, with per-step records (candidates, evaluations, gains) |
 | `e1/summarize_e1.py`, `stats_e1.py`, `rq1_stats.py`, `make_*.py` (incl. `make_fig_mech.py`, the illustrative step of Fig. 1) | every number, table and figure of the manuscript is computed by these scripts from the raw files |
 | `e1/remeasure_idle.*` | re-measurement of a fixed subset of runs on an idle machine |
-| `e1/scale_n.py`, `e1/scale_n.jsonl` | supplementary run: reduction time against the number of objects (protocol section 13; Appendix A.3) |
+| `e1/scale_n.py`, `e1/scale_n.jsonl` | supplementary run: reduction time against the number of objects (protocol section 13; Appendix A.5 of the revised manuscript) |
 | `e1/scale_m.py`, `e1/scale_m.jsonl` | supplementary run: reduction time against the number of attributes on gas-drift (protocol section 14; Fig. 6) |
 | `research-commons/` | data preparation scripts (OpenML download and min-max normalization) and the evaluation harness |
 
@@ -47,6 +47,26 @@ Requirements: Python 3.9, see `requirements.txt`.
 
 The `code` field of each raw row is a hash of the source files at the time of the run. Times depend on the machine;
 the reported runs used an Apple M4 Pro with 48 GB of memory.
+
+## Revision (supplementary analyses)
+
+The folder `revision/` contains the code, logs and raw results of the analyses added in the revised manuscript. The
+scripts import the engines in `e1/` and `g1/` without modifying them, and read the data from the same location as `e1/`.
+Every supplementary unit was run one at a time unless its log states otherwise.
+
+| Path | Content (section of the revised manuscript) |
+|---|---|
+| `revision/code/numerics/` | uniform floating-point test for all NRS engines (`engines_rev.py`), targeted tests near the radius (`boundary_test.py`), gap computation over all NRS runs (`margin_certificate.py`) and exact-arithmetic check of the boundary cases (`tie_check.py`) (Section 4.4) |
+| `revision/code/foldnorm/` | reduction and accuracy with min-max scaling fitted on the training part of each fold (Section 5.1) |
+| `revision/code/steps/` | KD-PA+B3 runs that record every step: first-step cost, tau sensitivity, radius, bounds of all candidates (Sections 5.1, 5.4, 5.8) |
+| `revision/code/witness/` | nearest, fifth-nearest and random witnesses (Section 5.5) |
+| `revision/code/index/` | k-d tree, ball tree and brute force along the greedy path (Section 5.8) |
+| `revision/code/frs_gauss.py`, `gauss_run.py`, `gauss_exact_gasdrift.py`, `gauss_check.py` | Gaussian kernel fuzzy rough sets with and without the bound (Section 5.7, Table 8); `gauss_run_eps0.01_degenerate.*` is the discarded first setting (epsilon = 0.01), which returned empty reducts on most folds of magic-telescope and house-16h |
+| `revision/code/hd/` | per-step records on dilbert subsets and Santander (Section 5.8); data are downloaded from OpenML into `hd/oml_cache/` |
+| `revision/code/excluded/` | full grid on the two tables dropped at screening (Appendix A.3, Table 12) |
+| `revision/code/baselines/hash_audit.py` | pairs passed to the exact test by HASH, CABIN and BUCKET along the greedy path, and HASH with the attribute order of Eq. (B7) of its paper (Appendix A.4, Table 13) |
+| `revision/code/bign/` | reduction of creditcard, miniboone and hls4ml-jets at their full size (Appendix A.5) |
+| `revision/analysis/` | scripts that compute every number, table and figure added in the revision from the files above (tables and figures are written to `revision/manuscript/`; create that folder first) |
 
 ## License
 
