@@ -1,0 +1,1079 @@
+{"dataset": "mammography", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 8946, "n": 8946, "cell": 141963, "box": 138237, "nodes_cell": 47679, "nodes_box": 47071, "confirm": 8690}
+{"dataset": "mammography", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 8690, "n": 8946, "cell": 170274, "box": 157175, "nodes_cell": 53939, "nodes_box": 51662, "confirm": 8316}
+{"dataset": "mammography", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 8316, "n": 8946, "cell": 219216, "box": 186432, "nodes_cell": 60720, "nodes_box": 55765, "confirm": 7922}
+{"dataset": "mammography", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 7922, "n": 8946, "cell": 240278, "box": 206468, "nodes_cell": 64752, "nodes_box": 58667, "confirm": 7536}
+{"dataset": "mammography", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 7536, "n": 8946, "cell": 241739, "box": 204139, "nodes_cell": 63771, "nodes_box": 57042, "confirm": 7381}
+{"dataset": "mammography", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 7381, "n": 8946, "cell": 247957, "box": 205262, "nodes_cell": 65168, "nodes_box": 57217, "confirm": 7287}
+{"dataset": "mammography", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 8946, "window": 2638252}
+{"dataset": "mammography", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 8690, "window": 1078093}
+{"dataset": "mammography", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 8316, "window": 705038}
+{"dataset": "mammography", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 7922, "window": 595491}
+{"dataset": "mammography", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 7536, "window": 553788}
+{"dataset": "mammography", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 7381, "window": 539814}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 8946, "pairs": 0, "time": 0.0005809159999999869}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 0, "setup_pairs": 2638252, "setup_time": 0.020013665999999986}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 2, "B": 2, "active": 8690, "pairs": 2638252, "time": 0.01669749999999992, "gain": 374}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 3, "B": 3, "active": 8316, "pairs": 711086, "time": 0.006308416999999955, "gain": 394}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 4, "B": 4, "active": 7922, "pairs": 289162, "time": 0.0033042500000000086, "gain": 386}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 5, "B": 5, "active": 7536, "pairs": 153662, "time": 0.002386166999999939, "gain": 155}
+{"dataset": "mammography", "unit": "FNC", "crit": "NRS", "step": 6, "B": 6, "active": 7381, "pairs": 145834, "time": 0.002180459000000079, "gain": 94}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 14318, "n": 14318, "cell": 158920, "box": 144749, "nodes_cell": 117728, "nodes_box": 115408, "confirm": 14039}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 14039, "n": 14318, "cell": 211060, "box": 184571, "nodes_cell": 132139, "nodes_box": 125276, "confirm": 13850}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 13850, "n": 14318, "cell": 257137, "box": 204580, "nodes_cell": 138134, "nodes_box": 127691, "confirm": 13355}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 13355, "n": 14318, "cell": 384841, "box": 281669, "nodes_cell": 170525, "nodes_box": 152299, "confirm": 12886}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 12886, "n": 14318, "cell": 503906, "box": 335774, "nodes_cell": 198045, "nodes_box": 166927, "confirm": 12411}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 12411, "n": 14318, "cell": 553108, "box": 360713, "nodes_cell": 206706, "nodes_box": 170964, "confirm": 12086}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 12086, "n": 14318, "cell": 665551, "box": 346254, "nodes_cell": 236739, "nodes_box": 164211, "confirm": 11840}
+{"dataset": "htru2", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 11840, "n": 14318, "cell": 685878, "box": 342533, "nodes_cell": 242877, "nodes_box": 163249, "confirm": 11640}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 14318, "window": 12701184}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 14039, "window": 3755948}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 13850, "window": 11229235}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 13355, "window": 10410383}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 12886, "window": 10105369}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 12411, "window": 9782390}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 12086, "window": 9019523}
+{"dataset": "htru2", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 11840, "window": 7790890}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 14318, "pairs": 0, "time": 0.0012514590000000103}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 0, "setup_pairs": 12701184, "setup_time": 0.09515279099999996}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 2, "B": 2, "active": 14039, "pairs": 12701184, "time": 0.07922566600000003, "gain": 189}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 3, "B": 3, "active": 13850, "pairs": 2744584, "time": 0.02243412499999997, "gain": 495}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 4, "B": 4, "active": 13355, "pairs": 981960, "time": 0.010682417000000166, "gain": 469}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 5, "B": 5, "active": 12886, "pairs": 499918, "time": 0.006299083999999899, "gain": 475}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 6, "B": 6, "active": 12411, "pairs": 292824, "time": 0.004568958000000123, "gain": 325}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 7, "B": 7, "active": 12086, "pairs": 237322, "time": 0.0038135419999998366, "gain": 246}
+{"dataset": "htru2", "unit": "FNC", "crit": "NRS", "step": 8, "B": 8, "active": 11840, "pairs": 207470, "time": 0.0034404999999999575, "gain": 200}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 15216, "n": 15216, "cell": 169482, "box": 155093, "nodes_cell": 160034, "nodes_box": 157322, "confirm": 15193}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 15193, "n": 15216, "cell": 271604, "box": 215448, "nodes_cell": 193713, "nodes_box": 181778, "confirm": 14863}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 14863, "n": 15216, "cell": 524009, "box": 366910, "nodes_cell": 284566, "nodes_box": 252840, "confirm": 14487}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 14487, "n": 15216, "cell": 924314, "box": 595537, "nodes_cell": 417045, "nodes_box": 357046, "confirm": 14066}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 14066, "n": 15216, "cell": 1379675, "box": 808377, "nodes_cell": 565773, "nodes_box": 449775, "confirm": 13316}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 13316, "n": 15216, "cell": 1826728, "box": 1043718, "nodes_cell": 696036, "nodes_box": 544997, "confirm": 12563}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 12563, "n": 15216, "cell": 2090863, "box": 1203225, "nodes_cell": 755487, "nodes_box": 585053, "confirm": 11732}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 11732, "n": 15216, "cell": 2242838, "box": 1349799, "nodes_cell": 779281, "nodes_box": 610449, "confirm": 10913}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 10913, "n": 15216, "cell": 2368890, "box": 1370195, "nodes_cell": 801808, "nodes_box": 607952, "confirm": 10114}
+{"dataset": "magic-telescope", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 10114, "n": 15216, "cell": 2543747, "box": 1483913, "nodes_cell": 838808, "nodes_box": 632743, "confirm": 9196}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 15216, "window": 65099904}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 15193, "window": 66916359}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 14863, "window": 32882206}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 14487, "window": 31304891}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 14066, "window": 29181518}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 13316, "window": 26281595}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 12563, "window": 25007290}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 11732, "window": 25108683}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 10913, "window": 20820243}
+{"dataset": "magic-telescope", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 10114, "window": 21103705}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 15216, "pairs": 0, "time": 0.0014724170000000036}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 0, "setup_pairs": 65099904, "setup_time": 0.46763437500000005}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 2, "B": 2, "active": 15193, "pairs": 65099878, "time": 0.7693775, "gain": 330}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 3, "B": 3, "active": 14863, "pairs": 54823768, "time": 0.28855625000000007, "gain": 376}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 4, "B": 4, "active": 14487, "pairs": 7920830, "time": 0.06818541700000047, "gain": 421}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 5, "B": 5, "active": 14066, "pairs": 2296220, "time": 0.022351125000000138, "gain": 750}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 6, "B": 6, "active": 13316, "pairs": 921272, "time": 0.013017875000000068, "gain": 753}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 7, "B": 7, "active": 12563, "pairs": 700332, "time": 0.0058804160000001104, "gain": 831}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 8, "B": 8, "active": 11732, "pairs": 174428, "time": 0.0030927500000004216, "gain": 819}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 9, "B": 9, "active": 10913, "pairs": 129550, "time": 0.0019419999999996662, "gain": 799}
+{"dataset": "magic-telescope", "unit": "FNC", "crit": "NRS", "step": 10, "B": 10, "active": 10114, "pairs": 73102, "time": 0.0013282920000001752, "gain": 918}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 18227, "n": 18227, "cell": 233930, "box": 215121, "nodes_cell": 192908, "nodes_box": 189575, "confirm": 18224}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 18224, "n": 18227, "cell": 455961, "box": 386308, "nodes_cell": 308051, "nodes_box": 288287, "confirm": 18222}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 18222, "n": 18227, "cell": 939040, "box": 678789, "nodes_cell": 431646, "nodes_box": 381304, "confirm": 18137}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 18137, "n": 18227, "cell": 1261135, "box": 752967, "nodes_cell": 624504, "nodes_box": 502067, "confirm": 17707}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 17707, "n": 18227, "cell": 2466333, "box": 1280679, "nodes_cell": 1025014, "nodes_box": 764122, "confirm": 16978}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 16978, "n": 18227, "cell": 3844027, "box": 1821560, "nodes_cell": 1364303, "nodes_box": 955759, "confirm": 15700}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 15700, "n": 18227, "cell": 5030651, "box": 2407109, "nodes_cell": 1611992, "nodes_box": 1136998, "confirm": 13868}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 13868, "n": 18227, "cell": 5294140, "box": 2680647, "nodes_cell": 1622023, "nodes_box": 1194369, "confirm": 11936}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 11936, "n": 18227, "cell": 5506408, "box": 2843824, "nodes_cell": 1635818, "nodes_box": 1200721, "confirm": 10526}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 10526, "n": 18227, "cell": 5986822, "box": 3151743, "nodes_cell": 1717609, "nodes_box": 1256760, "confirm": 9628}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 11, "B": 11, "active": 9628, "n": 18227, "cell": 6430532, "box": 3253028, "nodes_cell": 1769702, "nodes_box": 1262333, "confirm": 8784}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 12, "B": 12, "active": 8784, "n": 18227, "cell": 6433676, "box": 3340135, "nodes_cell": 1738083, "nodes_box": 1253363, "confirm": 8044}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 13, "B": 13, "active": 8044, "n": 18227, "cell": 6458249, "box": 3403236, "nodes_cell": 1709770, "nodes_box": 1246299, "confirm": 7420}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 14, "B": 14, "active": 7420, "n": 18227, "cell": 6122096, "box": 3279511, "nodes_cell": 1613374, "nodes_box": 1184804, "confirm": 6966}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 15, "B": 15, "active": 6966, "n": 18227, "cell": 6160054, "box": 3288445, "nodes_cell": 1589547, "nodes_box": 1161115, "confirm": 6646}
+{"dataset": "house-16h", "unit": "KD-count", "crit": "NRS", "step": 16, "B": 16, "active": 6646, "n": 18227, "cell": 6095569, "box": 3159945, "nodes_cell": 1563034, "nodes_box": 1113917, "confirm": 6441}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 18227, "window": 138281396}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 18224, "window": 103428606}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 18222, "window": 20714100}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 18137, "window": 23495587}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 17707, "window": 25437211}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 16978, "window": 24469061}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 15700, "window": 37350389}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 13868, "window": 33557383}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 11936, "window": 29783293}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 10526, "window": 35745070}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 11, "B": 11, "active": 9628, "window": 35163281}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 12, "B": 12, "active": 8784, "window": 32734654}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 13, "B": 13, "active": 8044, "window": 30809894}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 14, "B": 14, "active": 7420, "window": 29720362}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 15, "B": 15, "active": 6966, "window": 28386987}
+{"dataset": "house-16h", "unit": "CABIN-win", "crit": "NRS", "step": 16, "B": 16, "active": 6646, "window": 26839374}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 18227, "pairs": 0, "time": 0.0014671250000000136}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 0, "setup_pairs": 138281396, "setup_time": 0.9780904589999999}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 2, "B": 2, "active": 18224, "pairs": 138281396, "time": 1.83014075, "gain": 2}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 3, "B": 3, "active": 18222, "pairs": 103363246, "time": 0.5362736669999997, "gain": 85}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 4, "B": 4, "active": 18137, "pairs": 14557210, "time": 0.1497323330000011, "gain": 430}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 5, "B": 5, "active": 17707, "pairs": 5681092, "time": 0.052096000000000586, "gain": 729}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 6, "B": 6, "active": 16978, "pairs": 1617894, "time": 0.02147016600000029, "gain": 1278}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 7, "B": 7, "active": 15700, "pairs": 952474, "time": 0.01186174999999956, "gain": 1832}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 8, "B": 8, "active": 13868, "pairs": 444472, "time": 0.006472582999998977, "gain": 1932}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 9, "B": 9, "active": 11936, "pairs": 257328, "time": 0.004002875000001183, "gain": 1410}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 10, "B": 10, "active": 10526, "pairs": 182272, "time": 0.003028583999999057, "gain": 898}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 11, "B": 11, "active": 9628, "pairs": 155406, "time": 0.0024584579999995526, "gain": 844}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 12, "B": 12, "active": 8784, "pairs": 122200, "time": 0.002090582999999313, "gain": 740}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 13, "B": 13, "active": 8044, "pairs": 96422, "time": 0.0016762909999989972, "gain": 624}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 14, "B": 14, "active": 7420, "pairs": 79698, "time": 0.0014739999999999753, "gain": 454}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 15, "B": 15, "active": 6966, "pairs": 70618, "time": 0.0012627090000005836, "gain": 320}
+{"dataset": "house-16h", "unit": "FNC", "crit": "NRS", "step": 16, "B": 16, "active": 6646, "pairs": 63484, "time": 0.001166208000000779, "gain": 205}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 11128, "n": 11128, "cell": 171204, "box": 159642, "nodes_cell": 91751, "nodes_box": 90160, "confirm": 10980}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 10980, "n": 11128, "cell": 370585, "box": 258201, "nodes_cell": 137348, "nodes_box": 114990, "confirm": 10765}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 10765, "n": 11128, "cell": 1672816, "box": 387064, "nodes_cell": 404450, "nodes_box": 184999, "confirm": 10013}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 10013, "n": 11128, "cell": 2885800, "box": 589191, "nodes_cell": 640485, "nodes_box": 257729, "confirm": 9077}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 9077, "n": 11128, "cell": 2722451, "box": 498347, "nodes_cell": 632345, "nodes_box": 222109, "confirm": 7948}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 7948, "n": 11128, "cell": 2915189, "box": 445266, "nodes_cell": 671854, "nodes_box": 211387, "confirm": 6828}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 6828, "n": 11128, "cell": 2923060, "box": 472790, "nodes_cell": 642461, "nodes_box": 212415, "confirm": 6214}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 6214, "n": 11128, "cell": 2528182, "box": 436139, "nodes_cell": 561617, "nodes_box": 183678, "confirm": 5777}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 5777, "n": 11128, "cell": 2296684, "box": 462685, "nodes_cell": 509867, "nodes_box": 184385, "confirm": 5423}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 5423, "n": 11128, "cell": 2597331, "box": 516735, "nodes_cell": 561959, "nodes_box": 200717, "confirm": 5071}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 11, "B": 11, "active": 5071, "n": 11128, "cell": 2670345, "box": 536317, "nodes_cell": 575216, "nodes_box": 205261, "confirm": 4741}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 12, "B": 12, "active": 4741, "n": 11128, "cell": 2802454, "box": 470378, "nodes_cell": 600442, "nodes_box": 190410, "confirm": 4506}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 13, "B": 13, "active": 4506, "n": 11128, "cell": 2700688, "box": 449809, "nodes_cell": 576210, "nodes_box": 181930, "confirm": 4297}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 14, "B": 14, "active": 4297, "n": 11128, "cell": 3105511, "box": 463664, "nodes_cell": 660778, "nodes_box": 196169, "confirm": 4101}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 15, "B": 15, "active": 4101, "n": 11128, "cell": 2993389, "box": 436251, "nodes_cell": 640615, "nodes_box": 184053, "confirm": 3926}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 16, "B": 16, "active": 3926, "n": 11128, "cell": 3118729, "box": 431222, "nodes_cell": 671347, "nodes_box": 187107, "confirm": 3773}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 17, "B": 17, "active": 3773, "n": 11128, "cell": 3009687, "box": 406820, "nodes_cell": 646956, "nodes_box": 179162, "confirm": 3662}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 18, "B": 18, "active": 3662, "n": 11128, "cell": 2890961, "box": 378592, "nodes_cell": 620166, "nodes_box": 171398, "confirm": 3558}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 19, "B": 19, "active": 3558, "n": 11128, "cell": 2854058, "box": 364574, "nodes_cell": 617684, "nodes_box": 164869, "confirm": 3483}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 20, "B": 20, "active": 3483, "n": 11128, "cell": 3017520, "box": 370230, "nodes_cell": 654547, "nodes_box": 173636, "confirm": 3397}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 21, "B": 21, "active": 3397, "n": 11128, "cell": 3029573, "box": 363717, "nodes_cell": 659777, "nodes_box": 170502, "confirm": 3305}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 22, "B": 22, "active": 3305, "n": 11128, "cell": 2981487, "box": 356913, "nodes_cell": 647597, "nodes_box": 166525, "confirm": 3210}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 23, "B": 23, "active": 3210, "n": 11128, "cell": 2964785, "box": 350571, "nodes_cell": 645236, "nodes_box": 165030, "confirm": 3132}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 24, "B": 24, "active": 3132, "n": 11128, "cell": 2923784, "box": 340268, "nodes_cell": 636224, "nodes_box": 161668, "confirm": 3030}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 25, "B": 25, "active": 3030, "n": 11128, "cell": 2821788, "box": 323838, "nodes_cell": 614063, "nodes_box": 155089, "confirm": 2928}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 26, "B": 26, "active": 2928, "n": 11128, "cell": 2935078, "box": 326904, "nodes_cell": 640638, "nodes_box": 154277, "confirm": 2846}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 27, "B": 27, "active": 2846, "n": 11128, "cell": 2860236, "box": 316001, "nodes_cell": 623891, "nodes_box": 150035, "confirm": 2741}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 28, "B": 28, "active": 2741, "n": 11128, "cell": 2748568, "box": 299256, "nodes_cell": 600021, "nodes_box": 143137, "confirm": 2672}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 29, "B": 29, "active": 2672, "n": 11128, "cell": 2720654, "box": 293339, "nodes_cell": 592357, "nodes_box": 140496, "confirm": 2613}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 30, "B": 30, "active": 2613, "n": 11128, "cell": 2645503, "box": 279210, "nodes_cell": 576764, "nodes_box": 136065, "confirm": 2557}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 31, "B": 31, "active": 2557, "n": 11128, "cell": 2604673, "box": 272105, "nodes_cell": 568438, "nodes_box": 132732, "confirm": 2503}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 32, "B": 32, "active": 2503, "n": 11128, "cell": 2647926, "box": 272644, "nodes_cell": 572852, "nodes_box": 132135, "confirm": 2446}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 33, "B": 33, "active": 2446, "n": 11128, "cell": 2582101, "box": 267103, "nodes_cell": 558089, "nodes_box": 129486, "confirm": 2400}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 34, "B": 34, "active": 2400, "n": 11128, "cell": 2589010, "box": 265654, "nodes_cell": 568411, "nodes_box": 129881, "confirm": 2355}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 35, "B": 35, "active": 2355, "n": 11128, "cell": 2543226, "box": 260238, "nodes_cell": 558477, "nodes_box": 126734, "confirm": 2308}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 36, "B": 36, "active": 2308, "n": 11128, "cell": 2566730, "box": 254790, "nodes_cell": 564188, "nodes_box": 125232, "confirm": 2269}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 37, "B": 37, "active": 2269, "n": 11128, "cell": 2549354, "box": 251665, "nodes_cell": 559889, "nodes_box": 124037, "confirm": 2220}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 38, "B": 38, "active": 2220, "n": 11128, "cell": 2488921, "box": 245361, "nodes_cell": 545594, "nodes_box": 120516, "confirm": 2163}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 39, "B": 39, "active": 2163, "n": 11128, "cell": 2424122, "box": 242746, "nodes_cell": 530464, "nodes_box": 118238, "confirm": 2124}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 40, "B": 40, "active": 2124, "n": 11128, "cell": 2403961, "box": 239877, "nodes_cell": 525789, "nodes_box": 116364, "confirm": 2068}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 41, "B": 41, "active": 2068, "n": 11128, "cell": 2373872, "box": 241263, "nodes_cell": 518339, "nodes_box": 114769, "confirm": 2003}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 42, "B": 42, "active": 2003, "n": 11128, "cell": 2286305, "box": 227125, "nodes_cell": 497872, "nodes_box": 109249, "confirm": 1935}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 43, "B": 43, "active": 1935, "n": 11128, "cell": 2184858, "box": 221780, "nodes_cell": 474858, "nodes_box": 105199, "confirm": 1876}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 44, "B": 44, "active": 1876, "n": 11128, "cell": 2088514, "box": 215503, "nodes_cell": 453880, "nodes_box": 101347, "confirm": 1813}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 45, "B": 45, "active": 1813, "n": 11128, "cell": 1983180, "box": 206813, "nodes_cell": 430923, "nodes_box": 96640, "confirm": 1760}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 46, "B": 46, "active": 1760, "n": 11128, "cell": 1917020, "box": 209786, "nodes_cell": 418372, "nodes_box": 96612, "confirm": 1707}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 47, "B": 47, "active": 1707, "n": 11128, "cell": 1872283, "box": 202966, "nodes_cell": 409478, "nodes_box": 94139, "confirm": 1663}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 48, "B": 48, "active": 1663, "n": 11128, "cell": 1792776, "box": 196116, "nodes_cell": 391663, "nodes_box": 90417, "confirm": 1626}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 49, "B": 49, "active": 1626, "n": 11128, "cell": 1777794, "box": 189120, "nodes_cell": 388409, "nodes_box": 87209, "confirm": 1594}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 50, "B": 50, "active": 1594, "n": 11128, "cell": 1770532, "box": 188289, "nodes_cell": 387031, "nodes_box": 86586, "confirm": 1564}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 51, "B": 51, "active": 1564, "n": 11128, "cell": 1723816, "box": 186457, "nodes_cell": 376584, "nodes_box": 84949, "confirm": 1544}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 52, "B": 52, "active": 1544, "n": 11128, "cell": 1715017, "box": 184861, "nodes_cell": 374488, "nodes_box": 84177, "confirm": 1523}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 53, "B": 53, "active": 1523, "n": 11128, "cell": 1704000, "box": 183044, "nodes_cell": 371813, "nodes_box": 83358, "confirm": 1501}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 54, "B": 54, "active": 1501, "n": 11128, "cell": 1674119, "box": 180684, "nodes_cell": 365216, "nodes_box": 81916, "confirm": 1479}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 55, "B": 55, "active": 1479, "n": 11128, "cell": 1757806, "box": 170568, "nodes_cell": 386404, "nodes_box": 81415, "confirm": 1456}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 56, "B": 56, "active": 1456, "n": 11128, "cell": 1714440, "box": 166372, "nodes_cell": 376989, "nodes_box": 79114, "confirm": 1437}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 57, "B": 57, "active": 1437, "n": 11128, "cell": 1698336, "box": 163424, "nodes_cell": 373598, "nodes_box": 77917, "confirm": 1417}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 58, "B": 58, "active": 1417, "n": 11128, "cell": 1679445, "box": 161196, "nodes_cell": 369652, "nodes_box": 77286, "confirm": 1380}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 59, "B": 59, "active": 1380, "n": 11128, "cell": 1591225, "box": 153135, "nodes_cell": 349310, "nodes_box": 73846, "confirm": 1358}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 60, "B": 60, "active": 1358, "n": 11128, "cell": 1554351, "box": 150157, "nodes_cell": 341025, "nodes_box": 72318, "confirm": 1338}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 61, "B": 61, "active": 1338, "n": 11128, "cell": 1527832, "box": 147934, "nodes_cell": 335234, "nodes_box": 71145, "confirm": 1322}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 62, "B": 62, "active": 1322, "n": 11128, "cell": 1546963, "box": 154726, "nodes_cell": 338105, "nodes_box": 71587, "confirm": 1311}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 63, "B": 63, "active": 1311, "n": 11128, "cell": 1540862, "box": 154013, "nodes_cell": 336961, "nodes_box": 71326, "confirm": 1290}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 64, "B": 64, "active": 1290, "n": 11128, "cell": 1587318, "box": 155867, "nodes_cell": 354976, "nodes_box": 70344, "confirm": 1274}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 65, "B": 65, "active": 1274, "n": 11128, "cell": 1543453, "box": 153693, "nodes_cell": 345439, "nodes_box": 68582, "confirm": 1263}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 66, "B": 66, "active": 1263, "n": 11128, "cell": 1530510, "box": 151095, "nodes_cell": 342804, "nodes_box": 67627, "confirm": 1247}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 67, "B": 67, "active": 1247, "n": 11128, "cell": 1537786, "box": 149323, "nodes_cell": 343097, "nodes_box": 66638, "confirm": 1236}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 68, "B": 68, "active": 1236, "n": 11128, "cell": 1549357, "box": 150972, "nodes_cell": 343996, "nodes_box": 66291, "confirm": 1228}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 69, "B": 69, "active": 1228, "n": 11128, "cell": 1534293, "box": 148931, "nodes_cell": 340701, "nodes_box": 65477, "confirm": 1216}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 70, "B": 70, "active": 1216, "n": 11128, "cell": 1511574, "box": 146813, "nodes_cell": 335944, "nodes_box": 64543, "confirm": 1208}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 71, "B": 71, "active": 1208, "n": 11128, "cell": 1509023, "box": 145845, "nodes_cell": 335702, "nodes_box": 64215, "confirm": 1198}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 72, "B": 72, "active": 1198, "n": 11128, "cell": 1519996, "box": 144618, "nodes_cell": 335476, "nodes_box": 63755, "confirm": 1190}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 73, "B": 73, "active": 1190, "n": 11128, "cell": 1512112, "box": 143519, "nodes_cell": 334130, "nodes_box": 63372, "confirm": 1182}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 74, "B": 74, "active": 1182, "n": 11128, "cell": 1553381, "box": 142413, "nodes_cell": 345710, "nodes_box": 62971, "confirm": 1173}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 75, "B": 75, "active": 1173, "n": 11128, "cell": 1568015, "box": 140622, "nodes_cell": 349396, "nodes_box": 62152, "confirm": 1167}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 76, "B": 76, "active": 1167, "n": 11128, "cell": 1562506, "box": 140240, "nodes_cell": 348523, "nodes_box": 62053, "confirm": 1159}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 77, "B": 77, "active": 1159, "n": 11128, "cell": 1542799, "box": 138867, "nodes_cell": 344307, "nodes_box": 61354, "confirm": 1155}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 78, "B": 78, "active": 1155, "n": 11128, "cell": 1535937, "box": 138135, "nodes_cell": 342929, "nodes_box": 61099, "confirm": 1149}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 79, "B": 79, "active": 1149, "n": 11128, "cell": 1522119, "box": 137073, "nodes_cell": 339719, "nodes_box": 60548, "confirm": 1144}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 80, "B": 80, "active": 1144, "n": 11128, "cell": 1514676, "box": 136441, "nodes_cell": 338141, "nodes_box": 60250, "confirm": 1139}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 81, "B": 81, "active": 1139, "n": 11128, "cell": 1503590, "box": 135465, "nodes_cell": 326736, "nodes_box": 59869, "confirm": 1133}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 82, "B": 82, "active": 1133, "n": 11128, "cell": 1505422, "box": 136160, "nodes_cell": 327629, "nodes_box": 60040, "confirm": 1128}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 83, "B": 83, "active": 1128, "n": 11128, "cell": 1493842, "box": 135534, "nodes_cell": 325064, "nodes_box": 59653, "confirm": 1124}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 84, "B": 84, "active": 1124, "n": 11128, "cell": 1488111, "box": 134489, "nodes_cell": 324029, "nodes_box": 59304, "confirm": 1119}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 85, "B": 85, "active": 1119, "n": 11128, "cell": 1480801, "box": 134403, "nodes_cell": 322582, "nodes_box": 59172, "confirm": 1116}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 86, "B": 86, "active": 1116, "n": 11128, "cell": 1600704, "box": 143397, "nodes_cell": 338740, "nodes_box": 60739, "confirm": 1112}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 87, "B": 87, "active": 1112, "n": 11128, "cell": 1595104, "box": 143207, "nodes_cell": 337816, "nodes_box": 60642, "confirm": 1108}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 88, "B": 88, "active": 1108, "n": 11128, "cell": 1677856, "box": 152056, "nodes_cell": 351440, "nodes_box": 64641, "confirm": 1106}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 89, "B": 89, "active": 1106, "n": 11128, "cell": 1679194, "box": 151771, "nodes_cell": 351796, "nodes_box": 64622, "confirm": 1104}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 90, "B": 90, "active": 1104, "n": 11128, "cell": 1677976, "box": 151739, "nodes_cell": 351539, "nodes_box": 64630, "confirm": 1103}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 91, "B": 91, "active": 1103, "n": 11128, "cell": 1682743, "box": 152076, "nodes_cell": 352539, "nodes_box": 64811, "confirm": 1100}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 92, "B": 92, "active": 1100, "n": 11128, "cell": 1674103, "box": 151624, "nodes_cell": 350763, "nodes_box": 64543, "confirm": 1098}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 93, "B": 93, "active": 1098, "n": 11128, "cell": 1674005, "box": 151184, "nodes_cell": 350872, "nodes_box": 64457, "confirm": 1096}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 94, "B": 94, "active": 1096, "n": 11128, "cell": 1674513, "box": 151508, "nodes_cell": 351067, "nodes_box": 64486, "confirm": 1095}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 95, "B": 95, "active": 1095, "n": 11128, "cell": 1674419, "box": 151320, "nodes_cell": 351481, "nodes_box": 64425, "confirm": 1093}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 96, "B": 96, "active": 1093, "n": 11128, "cell": 1668857, "box": 150772, "nodes_cell": 350362, "nodes_box": 64207, "confirm": 1091}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 97, "B": 97, "active": 1091, "n": 11128, "cell": 1666999, "box": 165906, "nodes_cell": 350835, "nodes_box": 68071, "confirm": 1089}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 98, "B": 98, "active": 1089, "n": 11128, "cell": 1647664, "box": 156273, "nodes_cell": 347649, "nodes_box": 65277, "confirm": 1085}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 99, "B": 99, "active": 1085, "n": 11128, "cell": 1561568, "box": 155159, "nodes_cell": 336005, "nodes_box": 64931, "confirm": 1084}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 100, "B": 100, "active": 1084, "n": 11128, "cell": 1603471, "box": 159802, "nodes_cell": 346468, "nodes_box": 69379, "confirm": 1083}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 101, "B": 101, "active": 1083, "n": 11128, "cell": 1606987, "box": 159935, "nodes_cell": 347383, "nodes_box": 69517, "confirm": 1082}
+{"dataset": "gas-drift", "unit": "KD-count", "crit": "NRS", "step": 102, "B": 102, "active": 1082, "n": 11128, "cell": 1605314, "box": 159792, "nodes_cell": 347047, "nodes_box": 69463, "confirm": 1079}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 11128, "window": 46082196}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 10980, "window": 40138828}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 10765, "window": 32190530}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 10013, "window": 29074425}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 9077, "window": 23429181}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 7948, "window": 17896089}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 6828, "window": 15247715}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 6214, "window": 13079472}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 5777, "window": 34527098}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 5423, "window": 32110168}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 11, "B": 11, "active": 5071, "window": 26928730}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 12, "B": 12, "active": 4741, "window": 23546173}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 13, "B": 13, "active": 4506, "window": 20601008}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 14, "B": 14, "active": 4297, "window": 17463328}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 15, "B": 15, "active": 4101, "window": 16294957}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 16, "B": 16, "active": 3926, "window": 19121947}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 17, "B": 17, "active": 3773, "window": 17663066}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 18, "B": 18, "active": 3662, "window": 22394195}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 19, "B": 19, "active": 3558, "window": 21688520}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 20, "B": 20, "active": 3483, "window": 20567539}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 21, "B": 21, "active": 3397, "window": 19888017}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 22, "B": 22, "active": 3305, "window": 18148140}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 23, "B": 23, "active": 3210, "window": 20682649}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 24, "B": 24, "active": 3132, "window": 19410307}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 25, "B": 25, "active": 3030, "window": 18259319}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 26, "B": 26, "active": 2928, "window": 17458221}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 27, "B": 27, "active": 2846, "window": 16206849}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 28, "B": 28, "active": 2741, "window": 16219975}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 29, "B": 29, "active": 2672, "window": 15043676}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 30, "B": 30, "active": 2613, "window": 14147307}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 31, "B": 31, "active": 2557, "window": 13833196}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 32, "B": 32, "active": 2503, "window": 13563616}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 33, "B": 33, "active": 2446, "window": 12553981}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 34, "B": 34, "active": 2400, "window": 13472353}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 35, "B": 35, "active": 2355, "window": 14725605}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 36, "B": 36, "active": 2308, "window": 14333315}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 37, "B": 37, "active": 2269, "window": 13838893}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 38, "B": 38, "active": 2220, "window": 14257947}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 39, "B": 39, "active": 2163, "window": 13921836}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 40, "B": 40, "active": 2124, "window": 13654128}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 41, "B": 41, "active": 2068, "window": 12544646}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 42, "B": 42, "active": 2003, "window": 12162504}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 43, "B": 43, "active": 1935, "window": 11664829}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 44, "B": 44, "active": 1876, "window": 11118649}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 45, "B": 45, "active": 1813, "window": 10597193}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 46, "B": 46, "active": 1760, "window": 10289213}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 47, "B": 47, "active": 1707, "window": 10011303}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 48, "B": 48, "active": 1663, "window": 9763148}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 49, "B": 49, "active": 1626, "window": 9511056}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 50, "B": 50, "active": 1594, "window": 9292009}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 51, "B": 51, "active": 1564, "window": 8655857}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 52, "B": 52, "active": 1544, "window": 8078450}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 53, "B": 53, "active": 1523, "window": 7093420}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 54, "B": 54, "active": 1501, "window": 6217462}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 55, "B": 55, "active": 1479, "window": 5753549}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 56, "B": 56, "active": 1456, "window": 5698117}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 57, "B": 57, "active": 1437, "window": 5617136}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 58, "B": 58, "active": 1417, "window": 5534042}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 59, "B": 59, "active": 1380, "window": 5380250}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 60, "B": 60, "active": 1358, "window": 5321129}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 61, "B": 61, "active": 1338, "window": 5123445}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 62, "B": 62, "active": 1322, "window": 5059228}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 63, "B": 63, "active": 1311, "window": 4572034}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 64, "B": 64, "active": 1290, "window": 4504004}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 65, "B": 65, "active": 1274, "window": 4183865}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 66, "B": 66, "active": 1263, "window": 4211459}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 67, "B": 67, "active": 1247, "window": 4103463}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 68, "B": 68, "active": 1236, "window": 4022837}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 69, "B": 69, "active": 1228, "window": 4044794}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 70, "B": 70, "active": 1216, "window": 3995994}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 71, "B": 71, "active": 1208, "window": 4016646}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 72, "B": 72, "active": 1198, "window": 3787816}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 73, "B": 73, "active": 1190, "window": 3767988}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 74, "B": 74, "active": 1182, "window": 3738831}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 75, "B": 75, "active": 1173, "window": 3609931}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 76, "B": 76, "active": 1167, "window": 3554422}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 77, "B": 77, "active": 1159, "window": 3340875}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 78, "B": 78, "active": 1155, "window": 3183285}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 79, "B": 79, "active": 1149, "window": 3182047}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 80, "B": 80, "active": 1144, "window": 3013658}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 81, "B": 81, "active": 1139, "window": 2860330}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 82, "B": 82, "active": 1133, "window": 2847213}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 83, "B": 83, "active": 1128, "window": 2862237}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 84, "B": 84, "active": 1124, "window": 2862337}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 85, "B": 85, "active": 1119, "window": 2852359}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 86, "B": 86, "active": 1116, "window": 2835705}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 87, "B": 87, "active": 1112, "window": 2836949}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 88, "B": 88, "active": 1108, "window": 2821195}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 89, "B": 89, "active": 1106, "window": 2822462}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 90, "B": 90, "active": 1104, "window": 2844393}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 91, "B": 91, "active": 1103, "window": 2832704}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 92, "B": 92, "active": 1100, "window": 2745562}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 93, "B": 93, "active": 1098, "window": 2739563}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 94, "B": 94, "active": 1096, "window": 2736595}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 95, "B": 95, "active": 1095, "window": 2733908}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 96, "B": 96, "active": 1093, "window": 2730288}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 97, "B": 97, "active": 1091, "window": 2714574}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 98, "B": 98, "active": 1089, "window": 2704016}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 99, "B": 99, "active": 1085, "window": 2697685}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 100, "B": 100, "active": 1084, "window": 2694294}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 101, "B": 101, "active": 1083, "window": 2698531}
+{"dataset": "gas-drift", "unit": "CABIN-win", "crit": "NRS", "step": 102, "B": 102, "active": 1082, "window": 2657696}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 11128, "pairs": 0, "time": 0.0011807499999999527}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 0, "setup_pairs": 46082196, "setup_time": 0.332672875}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 2, "B": 2, "active": 10980, "pairs": 46082194, "time": 0.5037158749999999, "gain": 215}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 3, "B": 3, "active": 10765, "pairs": 29314050, "time": 0.29857350000000027, "gain": 752}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 4, "B": 4, "active": 10013, "pairs": 15832230, "time": 0.20370095799999977, "gain": 936}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 5, "B": 5, "active": 9077, "pairs": 11413738, "time": 0.12700037500000017, "gain": 1129}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 6, "B": 6, "active": 7948, "pairs": 7189610, "time": 0.08185258300000031, "gain": 1120}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 7, "B": 7, "active": 6828, "pairs": 4281022, "time": 0.05147637500000002, "gain": 614}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 8, "B": 8, "active": 6214, "pairs": 3227840, "time": 0.03665604199999972, "gain": 437}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 9, "B": 9, "active": 5777, "pairs": 2190352, "time": 0.0270613329999998, "gain": 354}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 10, "B": 10, "active": 5423, "pairs": 1678794, "time": 0.020681791999999533, "gain": 352}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 11, "B": 11, "active": 5071, "pairs": 1283598, "time": 0.015605000000000757, "gain": 330}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 12, "B": 12, "active": 4741, "pairs": 966954, "time": 0.01257787499999985, "gain": 235}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 13, "B": 13, "active": 4506, "pairs": 857960, "time": 0.011155709000000513, "gain": 209}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 14, "B": 14, "active": 4297, "pairs": 711464, "time": 0.008852709000000125, "gain": 196}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 15, "B": 15, "active": 4101, "pairs": 576548, "time": 0.007518000000000136, "gain": 175}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 16, "B": 16, "active": 3926, "pairs": 484684, "time": 0.006690457999999566, "gain": 153}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 17, "B": 17, "active": 3773, "pairs": 439416, "time": 0.005902416000000521, "gain": 111}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 18, "B": 18, "active": 3662, "pairs": 395168, "time": 0.005390250000000485, "gain": 104}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 19, "B": 19, "active": 3558, "pairs": 360394, "time": 0.004742874999999813, "gain": 75}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 20, "B": 20, "active": 3483, "pairs": 333540, "time": 0.004311665999999548, "gain": 86}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 21, "B": 21, "active": 3397, "pairs": 280786, "time": 0.003730082999999773, "gain": 92}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 22, "B": 22, "active": 3305, "pairs": 256046, "time": 0.0036101249999997975, "gain": 95}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 23, "B": 23, "active": 3210, "pairs": 236508, "time": 0.0030987919999994062, "gain": 78}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 24, "B": 24, "active": 3132, "pairs": 205656, "time": 0.002943874999999707, "gain": 102}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 25, "B": 25, "active": 3030, "pairs": 187418, "time": 0.0025515419999999622, "gain": 102}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 26, "B": 26, "active": 2928, "pairs": 174670, "time": 0.002277916999999796, "gain": 82}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 27, "B": 27, "active": 2846, "pairs": 165764, "time": 0.002235665999999803, "gain": 105}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 28, "B": 28, "active": 2741, "pairs": 153972, "time": 0.002088958999999946, "gain": 69}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 29, "B": 29, "active": 2672, "pairs": 145888, "time": 0.0018801249999995662, "gain": 59}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 30, "B": 30, "active": 2613, "pairs": 130878, "time": 0.0017911249999995604, "gain": 56}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 31, "B": 31, "active": 2557, "pairs": 124380, "time": 0.001719500000000096, "gain": 54}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 32, "B": 32, "active": 2503, "pairs": 119112, "time": 0.0015650000000002606, "gain": 57}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 33, "B": 33, "active": 2446, "pairs": 110468, "time": 0.0014753340000002169, "gain": 46}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 34, "B": 34, "active": 2400, "pairs": 105478, "time": 0.0015345829999997562, "gain": 45}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 35, "B": 35, "active": 2355, "pairs": 97548, "time": 0.0013554590000000033, "gain": 47}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 36, "B": 36, "active": 2308, "pairs": 94524, "time": 0.0012550000000004502, "gain": 39}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 37, "B": 37, "active": 2269, "pairs": 90216, "time": 0.0012159999999994398, "gain": 49}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 38, "B": 38, "active": 2220, "pairs": 84908, "time": 0.001164874999999732, "gain": 57}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 39, "B": 39, "active": 2163, "pairs": 82110, "time": 0.0011264579999998858, "gain": 39}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 40, "B": 40, "active": 2124, "pairs": 79514, "time": 0.0011060419999999738, "gain": 56}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 41, "B": 41, "active": 2068, "pairs": 76224, "time": 0.0010252909999994841, "gain": 65}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 42, "B": 42, "active": 2003, "pairs": 71654, "time": 0.0010242920000003153, "gain": 68}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 43, "B": 43, "active": 1935, "pairs": 69410, "time": 0.0009497500000001935, "gain": 59}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 44, "B": 44, "active": 1876, "pairs": 65268, "time": 0.0008820829999995894, "gain": 63}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 45, "B": 45, "active": 1813, "pairs": 62260, "time": 0.0008440419999997673, "gain": 53}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 46, "B": 46, "active": 1760, "pairs": 59616, "time": 0.0008182919999999427, "gain": 53}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 47, "B": 47, "active": 1707, "pairs": 57276, "time": 0.0008134169999998164, "gain": 44}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 48, "B": 48, "active": 1663, "pairs": 55784, "time": 0.0007485420000001852, "gain": 37}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 49, "B": 49, "active": 1626, "pairs": 54560, "time": 0.0007562920000001583, "gain": 32}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 50, "B": 50, "active": 1594, "pairs": 53052, "time": 0.0006953329999994651, "gain": 30}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 51, "B": 51, "active": 1564, "pairs": 51772, "time": 0.0006935840000004134, "gain": 20}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 52, "B": 52, "active": 1544, "pairs": 50808, "time": 0.0007010420000002071, "gain": 21}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 53, "B": 53, "active": 1523, "pairs": 49618, "time": 0.0006802920000001933, "gain": 22}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 54, "B": 54, "active": 1501, "pairs": 48394, "time": 0.0006401250000003245, "gain": 22}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 55, "B": 55, "active": 1479, "pairs": 47530, "time": 0.0006470419999997645, "gain": 23}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 56, "B": 56, "active": 1456, "pairs": 47040, "time": 0.000623499999999666, "gain": 19}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 57, "B": 57, "active": 1437, "pairs": 46352, "time": 0.000611417000000003, "gain": 20}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 58, "B": 58, "active": 1417, "pairs": 45828, "time": 0.0006046669999992815, "gain": 37}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 59, "B": 59, "active": 1380, "pairs": 45352, "time": 0.000631166999999877, "gain": 22}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 60, "B": 60, "active": 1358, "pairs": 44224, "time": 0.000617209000000507, "gain": 20}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 61, "B": 61, "active": 1338, "pairs": 43920, "time": 0.0005788749999995346, "gain": 16}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 62, "B": 62, "active": 1322, "pairs": 43534, "time": 0.0005777499999997104, "gain": 11}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 63, "B": 63, "active": 1311, "pairs": 42830, "time": 0.0005727079999999773, "gain": 21}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 64, "B": 64, "active": 1290, "pairs": 42256, "time": 0.0005800420000001694, "gain": 16}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 65, "B": 65, "active": 1274, "pairs": 41104, "time": 0.000549874999999922, "gain": 11}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 66, "B": 66, "active": 1263, "pairs": 40840, "time": 0.0005613750000001971, "gain": 16}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 67, "B": 67, "active": 1247, "pairs": 39960, "time": 0.0005506250000006929, "gain": 11}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 68, "B": 68, "active": 1236, "pairs": 39664, "time": 0.0005490830000001168, "gain": 8}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 69, "B": 69, "active": 1228, "pairs": 39150, "time": 0.0005173750000002642, "gain": 12}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 70, "B": 70, "active": 1216, "pairs": 38924, "time": 0.0005317920000003085, "gain": 8}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 71, "B": 71, "active": 1208, "pairs": 38346, "time": 0.0005249999999996646, "gain": 10}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 72, "B": 72, "active": 1198, "pairs": 37640, "time": 0.00050466600000032, "gain": 8}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 73, "B": 73, "active": 1190, "pairs": 37372, "time": 0.0005195829999999901, "gain": 8}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 74, "B": 74, "active": 1182, "pairs": 36622, "time": 0.0005290410000000634, "gain": 9}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 75, "B": 75, "active": 1173, "pairs": 36470, "time": 0.0004770000000000607, "gain": 6}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 76, "B": 76, "active": 1167, "pairs": 36308, "time": 0.0005242909999996215, "gain": 8}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 77, "B": 77, "active": 1159, "pairs": 35964, "time": 0.0004766670000000417, "gain": 4}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 78, "B": 78, "active": 1155, "pairs": 35734, "time": 0.0004669999999995511, "gain": 6}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 79, "B": 79, "active": 1149, "pairs": 35584, "time": 0.00047108299999987224, "gain": 5}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 80, "B": 80, "active": 1144, "pairs": 35212, "time": 0.0004627079999997008, "gain": 5}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 81, "B": 81, "active": 1139, "pairs": 34988, "time": 0.00048095799999980926, "gain": 6}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 82, "B": 82, "active": 1133, "pairs": 34878, "time": 0.00046783399999927866, "gain": 5}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 83, "B": 83, "active": 1128, "pairs": 34542, "time": 0.0004690829999995927, "gain": 4}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 84, "B": 84, "active": 1124, "pairs": 34432, "time": 0.0004577079999998901, "gain": 5}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 85, "B": 85, "active": 1119, "pairs": 34176, "time": 0.00047391699999987935, "gain": 3}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 86, "B": 86, "active": 1116, "pairs": 34014, "time": 0.0004565830000000659, "gain": 4}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 87, "B": 87, "active": 1112, "pairs": 33782, "time": 0.00045437499999945175, "gain": 4}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 88, "B": 88, "active": 1108, "pairs": 33574, "time": 0.0004489170000008258, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 89, "B": 89, "active": 1106, "pairs": 33426, "time": 0.00048758299999995813, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 90, "B": 90, "active": 1104, "pairs": 33302, "time": 0.0004447499999997717, "gain": 1}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 91, "B": 91, "active": 1103, "pairs": 33220, "time": 0.00045974999999920385, "gain": 3}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 92, "B": 92, "active": 1100, "pairs": 33068, "time": 0.00045241699999998275, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 93, "B": 93, "active": 1098, "pairs": 32996, "time": 0.00043762499999999704, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 94, "B": 94, "active": 1096, "pairs": 32856, "time": 0.0004532079999997052, "gain": 1}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 95, "B": 95, "active": 1095, "pairs": 32654, "time": 0.0004502089999993686, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 96, "B": 96, "active": 1093, "pairs": 32572, "time": 0.0004515419999995274, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 97, "B": 97, "active": 1091, "pairs": 32524, "time": 0.0004402910000003146, "gain": 2}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 98, "B": 98, "active": 1089, "pairs": 32428, "time": 0.00043604200000046944, "gain": 4}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 99, "B": 99, "active": 1085, "pairs": 32382, "time": 0.00043050000000022237, "gain": 1}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 100, "B": 100, "active": 1084, "pairs": 32188, "time": 0.0004317089999998913, "gain": 1}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 101, "B": 101, "active": 1083, "pairs": 32102, "time": 0.0004344170000001313, "gain": 1}
+{"dataset": "gas-drift", "unit": "FNC", "crit": "NRS", "step": 102, "B": 102, "active": 1082, "pairs": 31922, "time": 0.00042579200000059103, "gain": 3}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 52425, "n": 52425, "cell": 16027744, "box": 16027216, "nodes_cell": 656009, "nodes_box": 655965, "confirm": 49107}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 49107, "n": 52425, "cell": 7416564, "box": 838342, "nodes_cell": 1636338, "nodes_box": 611908, "confirm": 48473}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 48473, "n": 52425, "cell": 2467851, "box": 1146440, "nodes_cell": 1048690, "nodes_box": 745982, "confirm": 32292}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 32292, "n": 52425, "cell": 4289332, "box": 1096628, "nodes_cell": 1496639, "nodes_box": 743654, "confirm": 29543}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 29543, "n": 52425, "cell": 5404360, "box": 1047297, "nodes_cell": 1960975, "nodes_box": 831741, "confirm": 29423}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 29423, "n": 52425, "cell": 8790356, "box": 1155184, "nodes_cell": 2930364, "nodes_box": 1011321, "confirm": 29415}
+{"dataset": "internet-firewall", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 29415, "n": 52425, "cell": 8264061, "box": 1238412, "nodes_cell": 2849314, "nodes_box": 1010078, "confirm": 29413}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 52425, "window": 1405607468}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 49107, "window": 560222315}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 48473, "window": 370012784}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 32292, "window": 287560838}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 29543, "window": 258900770}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 29423, "window": 258264847}
+{"dataset": "internet-firewall", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 29415, "window": 258198936}
+{"dataset": "internet-firewall", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 52425, "pairs": 0, "time": 0.0030135000000000023}
+{"dataset": "internet-firewall", "unit": "FNC", "crit": "NRS", "status": "memout", "pairs_a1": 578619863}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 66986, "n": 66986, "cell": 773934, "box": 709048, "nodes_cell": 553132, "nodes_box": 541531, "confirm": 66970}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 66970, "n": 66986, "cell": 1320485, "box": 1001685, "nodes_cell": 724628, "nodes_box": 646375, "confirm": 66933}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 66933, "n": 66986, "cell": 2182431, "box": 1450086, "nodes_cell": 876027, "nodes_box": 743193, "confirm": 66871}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 66871, "n": 66986, "cell": 1920837, "box": 1297573, "nodes_cell": 856615, "nodes_box": 736697, "confirm": 66761}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 66761, "n": 66986, "cell": 2418655, "box": 1430762, "nodes_cell": 971546, "nodes_box": 784224, "confirm": 66599}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 66599, "n": 66986, "cell": 2883565, "box": 1874345, "nodes_cell": 1147838, "nodes_box": 969563, "confirm": 66283}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 66283, "n": 66986, "cell": 5615655, "box": 3726718, "nodes_cell": 2194900, "nodes_box": 1877564, "confirm": 64616}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 64616, "n": 66986, "cell": 11452235, "box": 7592675, "nodes_cell": 4306334, "nodes_box": 3723266, "confirm": 54903}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 54903, "n": 66986, "cell": 18542160, "box": 11876853, "nodes_cell": 6545999, "nodes_box": 5616028, "confirm": 28181}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 28181, "n": 66986, "cell": 12979267, "box": 8094119, "nodes_cell": 4465513, "nodes_box": 3811614, "confirm": 6706}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 11, "B": 11, "active": 6706, "n": 66986, "cell": 3570124, "box": 2136942, "nodes_cell": 1223670, "nodes_box": 1033601, "confirm": 868}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 12, "B": 12, "active": 868, "n": 66986, "cell": 508193, "box": 287310, "nodes_cell": 174324, "nodes_box": 144936, "confirm": 98}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 13, "B": 13, "active": 98, "n": 66986, "cell": 68258, "box": 35914, "nodes_cell": 23123, "nodes_box": 18766, "confirm": 4}
+{"dataset": "jannis", "unit": "KD-count", "crit": "NRS", "step": 14, "B": 14, "active": 4, "n": 66986, "cell": 2392, "box": 1376, "nodes_cell": 906, "nodes_box": 772, "confirm": 0}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 66986, "window": 2837616870}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 66970, "window": 2843280927}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 66933, "window": 1616269286}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 66871, "window": 868135401}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 66761, "window": 922922028}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 66599, "window": 837711355}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 66283, "window": 803346769}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 64616, "window": 649465350}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 54903, "window": 579484543}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 28181, "window": 299116830}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 11, "B": 11, "active": 6706, "window": 73432264}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 12, "B": 12, "active": 868, "window": 9842881}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 13, "B": 13, "active": 98, "window": 1154950}
+{"dataset": "jannis", "unit": "CABIN-win", "crit": "NRS", "step": 14, "B": 14, "active": 4, "window": 37576}
+{"dataset": "jannis", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 66986, "pairs": 0, "time": 0.007447834000000042}
+{"dataset": "jannis", "unit": "FNC", "crit": "NRS", "status": "memout", "pairs_a1": 1090551361}
+{"dataset": "run-or-walk", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 70870, "n": 70870, "cell": 703055, "box": 645834, "nodes_cell": 897591, "nodes_box": 884578, "confirm": 66859}
+{"dataset": "run-or-walk", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 66859, "n": 70870, "cell": 3546156, "box": 796777, "nodes_cell": 2255705, "nodes_box": 986963, "confirm": 63518}
+{"dataset": "run-or-walk", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 63518, "n": 70870, "cell": 6256269, "box": 1310187, "nodes_cell": 3221687, "nodes_box": 1365230, "confirm": 61052}
+{"dataset": "run-or-walk", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 61052, "n": 70870, "cell": 17848763, "box": 2826359, "nodes_cell": 6944560, "nodes_box": 2660665, "confirm": 59138}
+{"dataset": "run-or-walk", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 59138, "n": 70870, "cell": 34633218, "box": 4999279, "nodes_cell": 13089667, "nodes_box": 4827518, "confirm": 58013}
+{"dataset": "run-or-walk", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 58013, "n": 70870, "cell": 41551467, "box": 7205190, "nodes_cell": 15888569, "nodes_box": 6594625, "confirm": 55891}
+{"dataset": "run-or-walk", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 70870, "window": 1657269864}
+{"dataset": "run-or-walk", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 66859, "window": 1703585506}
+{"dataset": "run-or-walk", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 63518, "window": 1940598923}
+{"dataset": "run-or-walk", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 61052, "window": 1703735076}
+{"dataset": "run-or-walk", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 59138, "window": 1544907141}
+{"dataset": "run-or-walk", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 58013, "window": 1271907136}
+{"dataset": "run-or-walk", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 70870, "pairs": 0, "time": 0.006800707999999989}
+{"dataset": "run-or-walk", "unit": "FNC", "crit": "NRS", "status": "memout", "pairs_a1": 828634932}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "cell": 1027230, "box": 949494, "nodes_cell": 995313, "nodes_box": 982270, "confirm": 79970}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 79970, "n": 80000, "cell": 1555990, "box": 1308010, "nodes_cell": 1159243, "nodes_box": 1115243, "confirm": 79937}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 79937, "n": 80000, "cell": 3036445, "box": 2247286, "nodes_cell": 1732872, "nodes_box": 1601691, "confirm": 79863}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 79863, "n": 80000, "cell": 5730035, "box": 3807821, "nodes_cell": 2566276, "nodes_box": 2250717, "confirm": 79769}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 79769, "n": 80000, "cell": 9423124, "box": 5996449, "nodes_cell": 3745289, "nodes_box": 3205844, "confirm": 79618}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 79618, "n": 80000, "cell": 15354289, "box": 9357114, "nodes_cell": 5661779, "nodes_box": 4712352, "confirm": 79525}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 79525, "n": 80000, "cell": 27339126, "box": 14605810, "nodes_cell": 8769668, "nodes_box": 6740007, "confirm": 79295}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 79295, "n": 80000, "cell": 38423302, "box": 19534008, "nodes_cell": 11393811, "nodes_box": 8433780, "confirm": 79174}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 79174, "n": 80000, "cell": 46307706, "box": 22250850, "nodes_cell": 13104195, "nodes_box": 9349005, "confirm": 79056}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 79056, "n": 80000, "cell": 51390300, "box": 24216682, "nodes_cell": 14435396, "nodes_box": 10211992, "confirm": 79051}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 11, "B": 11, "active": 79051, "n": 80000, "cell": 52101774, "box": 23689241, "nodes_cell": 14550074, "nodes_box": 10058973, "confirm": 79046}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 12, "B": 12, "active": 79046, "n": 80000, "cell": 53299139, "box": 24128618, "nodes_cell": 14812997, "nodes_box": 10198520, "confirm": 79040}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 13, "B": 13, "active": 79040, "n": 80000, "cell": 54364350, "box": 25402111, "nodes_cell": 15457286, "nodes_box": 10889426, "confirm": 79037}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 14, "B": 14, "active": 79037, "n": 80000, "cell": 54430349, "box": 25441221, "nodes_cell": 15472289, "nodes_box": 10900578, "confirm": 79036}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 15, "B": 15, "active": 79036, "n": 80000, "cell": 55005925, "box": 25754213, "nodes_cell": 15597631, "nodes_box": 10990263, "confirm": 79033}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 16, "B": 16, "active": 79033, "n": 80000, "cell": 55216934, "box": 25853575, "nodes_cell": 15644486, "nodes_box": 11020663, "confirm": 79032}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 17, "B": 17, "active": 79032, "n": 80000, "cell": 55462517, "box": 25899001, "nodes_cell": 15696148, "nodes_box": 11036383, "confirm": 79031}
+{"dataset": "miniboone", "unit": "KD-count", "crit": "NRS", "step": 18, "B": 18, "active": 79031, "n": 80000, "cell": 55548545, "box": 25933967, "nodes_cell": 15715015, "nodes_box": 11047661, "confirm": 79029}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "window": 2429393538}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 79970, "window": 1657487881}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 79937, "window": 1769078000}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 79863, "window": 1722657242}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 79769, "window": 1793044580}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 79618, "window": 2287471410}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 79525, "window": 2302775762}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 79295, "window": 2312205695}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 79174, "window": 2320140925}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 79056, "window": 2371754786}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 11, "B": 11, "active": 79051, "window": 2409733377}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 12, "B": 12, "active": 79046, "window": 2435152636}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 13, "B": 13, "active": 79040, "window": 2454498983}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 14, "B": 14, "active": 79037, "window": 2468517784}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 15, "B": 15, "active": 79036, "window": 2480078163}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 16, "B": 16, "active": 79033, "window": 2487711577}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 17, "B": 17, "active": 79032, "window": 2494181249}
+{"dataset": "miniboone", "unit": "CABIN-win", "crit": "NRS", "step": 18, "B": 18, "active": 79031, "window": 2499933108}
+{"dataset": "miniboone", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "pairs": 0, "time": 0.008580374999999973}
+{"dataset": "miniboone", "unit": "FNC", "crit": "NRS", "status": "memout", "pairs_a1": 1214696769}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "cell": 690390, "box": 660536, "nodes_cell": 404710, "nodes_box": 399786, "confirm": 79707}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 79707, "n": 80000, "cell": 959752, "box": 800778, "nodes_cell": 477400, "nodes_box": 443995, "confirm": 76068}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 76068, "n": 80000, "cell": 1701232, "box": 1082552, "nodes_cell": 637826, "nodes_box": 527312, "confirm": 70592}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 70592, "n": 80000, "cell": 1697106, "box": 1392859, "nodes_cell": 571638, "nodes_box": 517509, "confirm": 54051}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 54051, "n": 80000, "cell": 1663045, "box": 1291721, "nodes_cell": 509081, "nodes_box": 449429, "confirm": 34561}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 34561, "n": 80000, "cell": 1347097, "box": 1098014, "nodes_cell": 391991, "nodes_box": 351071, "confirm": 18968}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 18968, "n": 80000, "cell": 587515, "box": 423185, "nodes_cell": 204598, "nodes_box": 168664, "confirm": 8310}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 8310, "n": 80000, "cell": 270019, "box": 176975, "nodes_cell": 93831, "nodes_box": 73971, "confirm": 3235}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 3235, "n": 80000, "cell": 142605, "box": 69311, "nodes_cell": 45331, "nodes_box": 29138, "confirm": 1723}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 1723, "n": 80000, "cell": 72402, "box": 39657, "nodes_cell": 23451, "nodes_box": 16836, "confirm": 1243}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 11, "B": 11, "active": 1243, "n": 80000, "cell": 69830, "box": 33477, "nodes_cell": 21991, "nodes_box": 14671, "confirm": 976}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 12, "B": 12, "active": 976, "n": 80000, "cell": 62182, "box": 28758, "nodes_cell": 19502, "nodes_box": 12953, "confirm": 778}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 13, "B": 13, "active": 778, "n": 80000, "cell": 66133, "box": 27133, "nodes_cell": 20257, "nodes_box": 12663, "confirm": 622}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 14, "B": 14, "active": 622, "n": 80000, "cell": 63756, "box": 24894, "nodes_cell": 19358, "nodes_box": 11623, "confirm": 485}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 15, "B": 15, "active": 485, "n": 80000, "cell": 47149, "box": 16154, "nodes_cell": 14577, "nodes_box": 8550, "confirm": 432}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 16, "B": 16, "active": 432, "n": 80000, "cell": 40724, "box": 14493, "nodes_cell": 12682, "nodes_box": 7765, "confirm": 395}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 17, "B": 17, "active": 395, "n": 80000, "cell": 42952, "box": 14676, "nodes_cell": 13224, "nodes_box": 7853, "confirm": 378}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 18, "B": 18, "active": 378, "n": 80000, "cell": 44476, "box": 14933, "nodes_cell": 13599, "nodes_box": 8018, "confirm": 367}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 19, "B": 19, "active": 367, "n": 80000, "cell": 44489, "box": 14805, "nodes_cell": 13577, "nodes_box": 7977, "confirm": 361}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 20, "B": 20, "active": 361, "n": 80000, "cell": 45769, "box": 14328, "nodes_cell": 13851, "nodes_box": 7835, "confirm": 357}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 21, "B": 21, "active": 357, "n": 80000, "cell": 41754, "box": 13642, "nodes_cell": 12662, "nodes_box": 7343, "confirm": 353}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 22, "B": 22, "active": 353, "n": 80000, "cell": 43543, "box": 14156, "nodes_cell": 13069, "nodes_box": 7567, "confirm": 351}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 23, "B": 23, "active": 351, "n": 80000, "cell": 44444, "box": 14258, "nodes_cell": 13316, "nodes_box": 7676, "confirm": 349}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 24, "B": 24, "active": 349, "n": 80000, "cell": 44989, "box": 14349, "nodes_cell": 13467, "nodes_box": 7712, "confirm": 348}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 25, "B": 25, "active": 348, "n": 80000, "cell": 45220, "box": 14381, "nodes_cell": 13531, "nodes_box": 7731, "confirm": 346}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 26, "B": 26, "active": 346, "n": 80000, "cell": 51298, "box": 16357, "nodes_cell": 15511, "nodes_box": 8597, "confirm": 345}
+{"dataset": "creditcard", "unit": "KD-count", "crit": "NRS", "step": 27, "B": 27, "active": 345, "n": 80000, "cell": 51398, "box": 16350, "nodes_cell": 15529, "nodes_box": 8608, "confirm": 343}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "window": 5656190}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 79707, "window": 9460514}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 76068, "window": 9937946}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 70592, "window": 5938360}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 54051, "window": 5841289}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 34561, "window": 4648913}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 18968, "window": 5073096}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 8310, "window": 2959418}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 3235, "window": 2278785}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 1723, "window": 1671677}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 11, "B": 11, "active": 1243, "window": 1688478}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 12, "B": 12, "active": 976, "window": 1555041}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 13, "B": 13, "active": 778, "window": 1518227}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 14, "B": 14, "active": 622, "window": 1292546}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 15, "B": 15, "active": 485, "window": 1063884}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 16, "B": 16, "active": 432, "window": 968298}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 17, "B": 17, "active": 395, "window": 934948}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 18, "B": 18, "active": 378, "window": 950229}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 19, "B": 19, "active": 367, "window": 949081}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 20, "B": 20, "active": 361, "window": 945233}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 21, "B": 21, "active": 357, "window": 872967}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 22, "B": 22, "active": 353, "window": 872848}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 23, "B": 23, "active": 351, "window": 873806}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 24, "B": 24, "active": 349, "window": 877053}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 25, "B": 25, "active": 348, "window": 877686}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 26, "B": 26, "active": 346, "window": 883114}
+{"dataset": "creditcard", "unit": "CABIN-win", "crit": "NRS", "step": 27, "B": 27, "active": 345, "window": 883501}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "pairs": 0, "time": 0.008818207999999994}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 0, "setup_pairs": 5656190, "setup_time": 0.05506087500000001}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 2, "B": 2, "active": 79707, "pairs": 5656190, "time": 0.06975558299999995, "gain": 3639}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 3, "B": 3, "active": 76068, "pairs": 3138892, "time": 0.037723916999999996, "gain": 5476}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 4, "B": 4, "active": 70592, "pairs": 1419182, "time": 0.012949208999999962, "gain": 16541}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 5, "B": 5, "active": 54051, "pairs": 343116, "time": 0.004174416999999986, "gain": 19490}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 6, "B": 6, "active": 34561, "pairs": 123662, "time": 0.0015097920000000098, "gain": 15593}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 7, "B": 7, "active": 18968, "pairs": 48888, "time": 0.0004413750000000771, "gain": 10658}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 8, "B": 8, "active": 8310, "pairs": 18186, "time": 0.00018083299999993585, "gain": 5075}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 9, "B": 9, "active": 3235, "pairs": 6500, "time": 7.941700000002605e-05, "gain": 1512}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 10, "B": 10, "active": 1723, "pairs": 3442, "time": 5.7958000000191134e-05, "gain": 480}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 11, "B": 11, "active": 1243, "pairs": 2460, "time": 4.4374999999874376e-05, "gain": 267}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 12, "B": 12, "active": 976, "pairs": 1918, "time": 3.733400000016651e-05, "gain": 198}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 13, "B": 13, "active": 778, "pairs": 1522, "time": 2.75839999999139e-05, "gain": 156}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 14, "B": 14, "active": 622, "pairs": 1212, "time": 2.3917000000039934e-05, "gain": 137}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 15, "B": 15, "active": 485, "pairs": 940, "time": 1.987500000000253e-05, "gain": 53}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 16, "B": 16, "active": 432, "pairs": 836, "time": 1.8791999999878684e-05, "gain": 37}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 17, "B": 17, "active": 395, "pairs": 762, "time": 1.7959000000011827e-05, "gain": 17}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 18, "B": 18, "active": 378, "pairs": 728, "time": 1.6250000000050946e-05, "gain": 11}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 19, "B": 19, "active": 367, "pairs": 706, "time": 1.7082999999917803e-05, "gain": 6}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 20, "B": 20, "active": 361, "pairs": 694, "time": 1.7415999999936815e-05, "gain": 4}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 21, "B": 21, "active": 357, "pairs": 688, "time": 1.6250000000050946e-05, "gain": 4}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 22, "B": 22, "active": 353, "pairs": 680, "time": 1.6666000000054026e-05, "gain": 2}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 23, "B": 23, "active": 351, "pairs": 676, "time": 1.5249999999911168e-05, "gain": 2}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 24, "B": 24, "active": 349, "pairs": 672, "time": 1.51669999999271e-05, "gain": 1}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 25, "B": 25, "active": 348, "pairs": 670, "time": 1.5957999999871575e-05, "gain": 2}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 26, "B": 26, "active": 346, "pairs": 666, "time": 1.558299999993018e-05, "gain": 1}
+{"dataset": "creditcard", "unit": "FNC", "crit": "NRS", "step": 27, "B": 27, "active": 345, "pairs": 664, "time": 1.6417000000101822e-05, "gain": 2}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "cell": 1328745, "box": 1249913, "nodes_cell": 890162, "nodes_box": 879989, "confirm": 79999}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 2, "B": 2, "active": 79999, "n": 80000, "cell": 1896566, "box": 1671574, "nodes_cell": 1017467, "nodes_box": 988299, "confirm": 79990}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 3, "B": 3, "active": 79990, "n": 80000, "cell": 3705165, "box": 2899654, "nodes_cell": 1609842, "nodes_box": 1476083, "confirm": 79936}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 4, "B": 4, "active": 79936, "n": 80000, "cell": 7247205, "box": 4862139, "nodes_cell": 2432416, "nodes_box": 2050078, "confirm": 79650}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 5, "B": 5, "active": 79650, "n": 80000, "cell": 11587607, "box": 7226070, "nodes_cell": 3168544, "nodes_box": 2545403, "confirm": 79100}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 6, "B": 6, "active": 79100, "n": 80000, "cell": 12784763, "box": 7564703, "nodes_cell": 3493530, "nodes_box": 2729115, "confirm": 78164}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 7, "B": 7, "active": 78164, "n": 80000, "cell": 17726894, "box": 9869797, "nodes_cell": 4457523, "nodes_box": 3277787, "confirm": 76776}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 8, "B": 8, "active": 76776, "n": 80000, "cell": 20734329, "box": 10910841, "nodes_cell": 4978530, "nodes_box": 3485918, "confirm": 75435}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 9, "B": 9, "active": 75435, "n": 80000, "cell": 23477624, "box": 11766894, "nodes_cell": 5505353, "nodes_box": 3743087, "confirm": 73943}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 10, "B": 10, "active": 73943, "n": 80000, "cell": 26975311, "box": 12611436, "nodes_cell": 6148581, "nodes_box": 4001226, "confirm": 72687}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 11, "B": 11, "active": 72687, "n": 80000, "cell": 29382292, "box": 12431430, "nodes_cell": 6591197, "nodes_box": 3911273, "confirm": 71494}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 12, "B": 12, "active": 71494, "n": 80000, "cell": 33135740, "box": 13315341, "nodes_cell": 7338329, "nodes_box": 4195608, "confirm": 70117}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 13, "B": 13, "active": 70117, "n": 80000, "cell": 36375654, "box": 15320199, "nodes_cell": 7930961, "nodes_box": 4811416, "confirm": 68523}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 14, "B": 14, "active": 68523, "n": 80000, "cell": 38875703, "box": 15408562, "nodes_cell": 8361794, "nodes_box": 4895278, "confirm": 67225}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 15, "B": 15, "active": 67225, "n": 80000, "cell": 39947166, "box": 15339206, "nodes_cell": 8499441, "nodes_box": 4845295, "confirm": 66118}
+{"dataset": "hls4ml-jets", "unit": "KD-count", "crit": "NRS", "step": 16, "B": 16, "active": 66118, "n": 80000, "cell": 41108262, "box": 15226902, "nodes_cell": 8687661, "nodes_box": 4817530, "confirm": 65207}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "window": 2348084294}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 2, "B": 2, "active": 79999, "window": 2081592612}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 3, "B": 3, "active": 79990, "window": 1847311852}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 4, "B": 4, "active": 79936, "window": 1046854154}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 5, "B": 5, "active": 79650, "window": 868576830}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 6, "B": 6, "active": 79100, "window": 860005891}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 7, "B": 7, "active": 78164, "window": 1069138129}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 8, "B": 8, "active": 76776, "window": 1066244536}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 9, "B": 9, "active": 75435, "window": 903168991}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 10, "B": 10, "active": 73943, "window": 742093163}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 11, "B": 11, "active": 72687, "window": 714367844}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 12, "B": 12, "active": 71494, "window": 686222251}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 13, "B": 13, "active": 70117, "window": 817286819}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 14, "B": 14, "active": 68523, "window": 678839231}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 15, "B": 15, "active": 67225, "window": 666029145}
+{"dataset": "hls4ml-jets", "unit": "CABIN-win", "crit": "NRS", "step": 16, "B": 16, "active": 66118, "window": 637400654}
+{"dataset": "hls4ml-jets", "unit": "FNC", "crit": "NRS", "step": 1, "B": 1, "active": 80000, "pairs": 0, "time": 0.010262082999999977}
+{"dataset": "hls4ml-jets", "unit": "FNC", "crit": "NRS", "status": "memout", "pairs_a1": 461577697}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 8000, "n": 8000, "time": 0.002639249999999982, "cell": 94969, "box": 86759, "nodes_cell": 76350, "nodes_box": 74896, "confirm": 8000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 8000, "n": 8000, "time": 0.0038716670000000786, "cell": 139598, "box": 116038, "nodes_cell": 88375, "nodes_box": 84348, "confirm": 8000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 8000, "n": 8000, "time": 0.0049898750000000325, "cell": 224527, "box": 172548, "nodes_cell": 113813, "nodes_box": 105431, "confirm": 8000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 8000, "n": 8000, "time": 0.006783208999999957, "cell": 362751, "box": 248863, "nodes_cell": 153163, "nodes_box": 135790, "confirm": 7950}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 7950, "n": 8000, "time": 0.009049832999999952, "cell": 552651, "box": 360688, "nodes_cell": 204952, "nodes_box": 176191, "confirm": 7745}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 7745, "n": 8000, "time": 0.012460584000000052, "cell": 795006, "box": 481673, "nodes_cell": 267111, "nodes_box": 220210, "confirm": 7124}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 7124, "n": 8000, "time": 0.01484537500000005, "cell": 973418, "box": 606189, "nodes_cell": 313891, "nodes_box": 262904, "confirm": 6088}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 6088, "n": 8000, "time": 0.01592158399999999, "cell": 1096387, "box": 643881, "nodes_cell": 344085, "nodes_box": 279237, "confirm": 4517}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 4517, "n": 8000, "time": 0.015637375000000064, "cell": 1004620, "box": 606745, "nodes_cell": 312975, "nodes_box": 255227, "confirm": 3257}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 3257, "n": 8000, "time": 0.014403957999999939, "cell": 914466, "box": 528188, "nodes_cell": 269306, "nodes_box": 215604, "confirm": 1976}
+{"dataset": "electrical-grid-stability", "unit": "FRS-KD", "crit": "FRS", "step": 11, "B": 11, "active": 1976, "n": 8000, "time": 0.010752749999999978, "cell": 645284, "box": 372034, "nodes_cell": 184106, "nodes_box": 146652, "confirm": 1062}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 8000, "n": 8000, "rows_timed": 2048, "time": 0.21939648437500037, "pairs": 64000000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 8000, "n": 8000, "rows_timed": 2048, "time": 0.2864446640624997, "pairs": 64000000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 8000, "n": 8000, "rows_timed": 2048, "time": 0.36654508203124964, "pairs": 64000000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 8000, "n": 8000, "rows_timed": 2048, "time": 0.4473948554687499, "pairs": 64000000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 7950, "n": 8000, "rows_timed": 2048, "time": 0.5292055188720708, "pairs": 63600000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 7745, "n": 8000, "rows_timed": 2048, "time": 0.5842815595898442, "pairs": 61960000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 7124, "n": 8000, "rows_timed": 2048, "time": 0.6080168492226562, "pairs": 56992000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 6088, "n": 8000, "rows_timed": 2048, "time": 0.5810890232890624, "pairs": 48704000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 4517, "n": 8000, "rows_timed": 2048, "time": 0.4407585533881839, "pairs": 36136000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 3257, "n": 8000, "rows_timed": 2048, "time": 0.3410655240908206, "pairs": 26056000}
+{"dataset": "electrical-grid-stability", "unit": "FRS-FA", "crit": "FRS", "step": 11, "B": 11, "active": 1976, "n": 8000, "rows_timed": 1976, "time": 0.22326791600000018, "pairs": 15808000}
+{"dataset": "mammography", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 8946, "n": 8946, "time": 0.0019671249999999585, "cell": 143471, "box": 139745, "nodes_cell": 48259, "nodes_box": 47651, "confirm": 8946}
+{"dataset": "mammography", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 8946, "n": 8946, "time": 0.002906582999999907, "cell": 177282, "box": 159968, "nodes_cell": 56381, "nodes_box": 53015, "confirm": 8944}
+{"dataset": "mammography", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 8944, "n": 8946, "time": 0.003421916999999941, "cell": 236213, "box": 189369, "nodes_cell": 66368, "nodes_box": 58632, "confirm": 8857}
+{"dataset": "mammography", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 8857, "n": 8946, "time": 0.0037454590000000065, "cell": 270239, "box": 217614, "nodes_cell": 74353, "nodes_box": 63891, "confirm": 8849}
+{"dataset": "mammography", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 8849, "n": 8946, "time": 0.00417654199999995, "cell": 294845, "box": 224544, "nodes_cell": 79825, "nodes_box": 65349, "confirm": 8832}
+{"dataset": "mammography", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 8832, "n": 8946, "time": 0.004323124999999983, "cell": 304720, "box": 228404, "nodes_cell": 82362, "nodes_box": 66279, "confirm": 8825}
+{"dataset": "mammography", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 8946, "n": 8946, "rows_timed": 2048, "time": 0.14206652491992208, "pairs": 80030916}
+{"dataset": "mammography", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 8946, "n": 8946, "rows_timed": 2048, "time": 0.191324493896484, "pairs": 80030916}
+{"dataset": "mammography", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 8944, "n": 8946, "rows_timed": 2048, "time": 0.24491642560937488, "pairs": 80013024}
+{"dataset": "mammography", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 8857, "n": 8946, "rows_timed": 2048, "time": 0.3090141953676761, "pairs": 79234722}
+{"dataset": "mammography", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 8849, "n": 8946, "rows_timed": 2048, "time": 0.3367070424804686, "pairs": 79163154}
+{"dataset": "mammography", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 8832, "n": 8946, "rows_timed": 2048, "time": 0.4156658842500002, "pairs": 79011072}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 14318, "n": 14318, "time": 0.004269999999999996, "cell": 154092, "box": 147393, "nodes_cell": 119327, "nodes_box": 117993, "confirm": 14274}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 14274, "n": 14318, "time": 0.005728916000000028, "cell": 246732, "box": 186871, "nodes_cell": 143659, "nodes_box": 129761, "confirm": 14218}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 14218, "n": 14318, "time": 0.007235042000000025, "cell": 369778, "box": 256263, "nodes_cell": 172852, "nodes_box": 150167, "confirm": 14218}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 14218, "n": 14318, "time": 0.008187500000000014, "cell": 419972, "box": 283072, "nodes_cell": 184180, "nodes_box": 157952, "confirm": 14194}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 14194, "n": 14318, "time": 0.00981416699999993, "cell": 551559, "box": 342168, "nodes_cell": 223698, "nodes_box": 182098, "confirm": 14184}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 14184, "n": 14318, "time": 0.010729125000000006, "cell": 666781, "box": 343085, "nodes_cell": 269718, "nodes_box": 184834, "confirm": 14105}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 14105, "n": 14318, "time": 0.011614916999999947, "cell": 760026, "box": 344433, "nodes_cell": 297735, "nodes_box": 184704, "confirm": 14087}
+{"dataset": "htru2", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 14087, "n": 14318, "time": 0.010877666999999924, "cell": 676035, "box": 343642, "nodes_cell": 259056, "nodes_box": 181531, "confirm": 14048}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 14318, "n": 14318, "rows_timed": 2048, "time": 0.4343738420927736, "pairs": 205005124}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 14274, "n": 14318, "rows_timed": 2048, "time": 0.5871916219482421, "pairs": 204375132}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 14218, "n": 14318, "rows_timed": 2048, "time": 0.7547058593291015, "pairs": 203573324}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 14218, "n": 14318, "rows_timed": 2048, "time": 0.9324597882382805, "pairs": 203573324}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 14194, "n": 14318, "rows_timed": 2048, "time": 1.0982058799326166, "pairs": 203229692}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 14184, "n": 14318, "rows_timed": 2048, "time": 1.2746839790039064, "pairs": 203086512}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 14105, "n": 14318, "rows_timed": 2048, "time": 1.4443747277832042, "pairs": 201955390}
+{"dataset": "htru2", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 14087, "n": 14318, "rows_timed": 2048, "time": 1.6147974666889653, "pairs": 201697666}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 15216, "n": 15216, "time": 0.005588957999999922, "cell": 169899, "box": 155401, "nodes_cell": 160368, "nodes_box": 157575, "confirm": 15216}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 15216, "n": 15216, "time": 0.007359624999999981, "cell": 251734, "box": 207846, "nodes_cell": 185749, "nodes_box": 177424, "confirm": 15211}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 15211, "n": 15216, "time": 0.010100249999999922, "cell": 434133, "box": 318660, "nodes_cell": 255689, "nodes_box": 230633, "confirm": 15186}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 15186, "n": 15216, "time": 0.014340916999999953, "cell": 780298, "box": 485063, "nodes_cell": 368217, "nodes_box": 307080, "confirm": 15150}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 15150, "n": 15216, "time": 0.019646834000000002, "cell": 1165145, "box": 658965, "nodes_cell": 483168, "nodes_box": 382548, "confirm": 15137}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 15137, "n": 15216, "time": 0.023964832999999963, "cell": 1489550, "box": 797540, "nodes_cell": 582713, "nodes_box": 444980, "confirm": 15051}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 15051, "n": 15216, "time": 0.02693733400000009, "cell": 1686081, "box": 920774, "nodes_cell": 636940, "nodes_box": 488662, "confirm": 14993}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 14993, "n": 15216, "time": 0.027664834000000083, "cell": 1822688, "box": 981376, "nodes_cell": 672444, "nodes_box": 508456, "confirm": 14993}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 14993, "n": 15216, "time": 0.03121529199999995, "cell": 2067517, "box": 1107421, "nodes_cell": 746444, "nodes_box": 561218, "confirm": 14921}
+{"dataset": "magic-telescope", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 14921, "n": 15216, "time": 0.03336949999999983, "cell": 2201775, "box": 1158576, "nodes_cell": 781440, "nodes_box": 578845, "confirm": 14891}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 15216, "n": 15216, "rows_timed": 2048, "time": 0.42722932031249977, "pairs": 231526656}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 15216, "n": 15216, "rows_timed": 2048, "time": 0.6092405713593751, "pairs": 231526656}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 15211, "n": 15216, "rows_timed": 2048, "time": 0.811539901245117, "pairs": 231450576}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 15186, "n": 15216, "rows_timed": 2048, "time": 1.0144372795107424, "pairs": 231070176}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 15150, "n": 15216, "rows_timed": 2048, "time": 1.2245180499755859, "pairs": 230522400}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 15137, "n": 15216, "rows_timed": 2048, "time": 1.4270656865273437, "pairs": 230324592}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 15051, "n": 15216, "rows_timed": 2048, "time": 1.6070243504721682, "pairs": 229016016}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 14993, "n": 15216, "rows_timed": 2048, "time": 1.820713960226562, "pairs": 228133488}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 14993, "n": 15216, "rows_timed": 2048, "time": 2.020006904641601, "pairs": 228133488}
+{"dataset": "magic-telescope", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 14921, "n": 15216, "rows_timed": 2048, "time": 2.1618653529384777, "pairs": 227037936}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 18227, "n": 18227, "time": 0.008659167000000023, "cell": 5727162, "box": 5715132, "nodes_cell": 202908, "nodes_box": 200806, "confirm": 18227}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 18227, "n": 18227, "time": 0.008707291999999978, "cell": 1524916, "box": 1454256, "nodes_cell": 305215, "nodes_box": 296887, "confirm": 18227}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 18227, "n": 18227, "time": 0.011511292000000006, "cell": 570129, "box": 459025, "nodes_cell": 314308, "nodes_box": 296879, "confirm": 18224}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 18224, "n": 18227, "time": 0.01777320799999993, "cell": 1027933, "box": 719162, "nodes_cell": 497257, "nodes_box": 445420, "confirm": 18220}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 18211, "n": 18227, "time": 0.026795082999999886, "cell": 1867724, "box": 1084308, "nodes_cell": 751333, "nodes_box": 607173, "confirm": 18205}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 18205, "n": 18227, "time": 0.038268458000000116, "cell": 2784598, "box": 1510412, "nodes_cell": 997873, "nodes_box": 772778, "confirm": 18197}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 18196, "n": 18227, "time": 0.05397320799999994, "cell": 4033633, "box": 1960139, "nodes_cell": 1347511, "nodes_box": 987942, "confirm": 18171}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 18168, "n": 18227, "time": 0.06136695800000025, "cell": 4781591, "box": 2245988, "nodes_cell": 1534925, "nodes_box": 1089558, "confirm": 18149}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 18149, "n": 18227, "time": 0.07934704199999976, "cell": 6131367, "box": 2685997, "nodes_cell": 1872781, "nodes_box": 1263167, "confirm": 18135}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 18134, "n": 18227, "time": 0.09401920899999983, "cell": 7561088, "box": 3117899, "nodes_cell": 2162293, "nodes_box": 1394296, "confirm": 18116}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 11, "B": 11, "active": 18115, "n": 18227, "time": 0.10007970799999999, "cell": 8097278, "box": 3306669, "nodes_cell": 2280131, "nodes_box": 1456724, "confirm": 18100}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 12, "B": 12, "active": 18100, "n": 18227, "time": 0.10661787500000042, "cell": 8689885, "box": 3541567, "nodes_cell": 2400630, "nodes_box": 1531746, "confirm": 18091}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 13, "B": 13, "active": 18091, "n": 18227, "time": 0.10948758299999994, "cell": 8806153, "box": 3591080, "nodes_cell": 2426469, "nodes_box": 1548061, "confirm": 18083}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 14, "B": 14, "active": 18083, "n": 18227, "time": 0.10899049999999999, "cell": 8889517, "box": 3627576, "nodes_cell": 2422629, "nodes_box": 1543803, "confirm": 18074}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 15, "B": 15, "active": 18072, "n": 18227, "time": 0.10976441700000006, "cell": 8843547, "box": 3579909, "nodes_cell": 2406788, "nodes_box": 1527060, "confirm": 18070}
+{"dataset": "house-16h", "unit": "FRS-KD", "crit": "FRS", "step": 16, "B": 16, "active": 18069, "n": 18227, "time": 0.13013629200000043, "cell": 10847961, "box": 4073738, "nodes_cell": 2885549, "nodes_box": 1729699, "confirm": 18067}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 18227, "n": 18227, "rows_timed": 2048, "time": 0.8626960850664067, "pairs": 332223529}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 18227, "n": 18227, "rows_timed": 2048, "time": 1.1250032806396488, "pairs": 332223529}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 18227, "n": 18227, "rows_timed": 2048, "time": 1.4126058498535152, "pairs": 332223529}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 18224, "n": 18227, "rows_timed": 2048, "time": 1.7083387158203103, "pairs": 332168848}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 18211, "n": 18227, "rows_timed": 2048, "time": 1.975725661804198, "pairs": 331931897}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 18205, "n": 18227, "rows_timed": 2048, "time": 2.278201371955569, "pairs": 331822535}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 18196, "n": 18227, "rows_timed": 2048, "time": 2.573316133562499, "pairs": 331658492}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 18168, "n": 18227, "rows_timed": 2048, "time": 2.8381789233398425, "pairs": 331148136}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 18149, "n": 18227, "rows_timed": 2048, "time": 3.1188572113115236, "pairs": 330801823}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 18134, "n": 18227, "rows_timed": 2048, "time": 3.4021748149414046, "pairs": 330528418}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 11, "B": 11, "active": 18115, "n": 18227, "rows_timed": 2048, "time": 3.705649316000975, "pairs": 330182105}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 12, "B": 12, "active": 18100, "n": 18227, "rows_timed": 2048, "time": 3.9824919788574227, "pairs": 329908700}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 13, "B": 13, "active": 18091, "n": 18227, "rows_timed": 2048, "time": 4.261953173889161, "pairs": 329744657}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 14, "B": 14, "active": 18083, "n": 18227, "rows_timed": 2048, "time": 4.547917173407717, "pairs": 329598841}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 15, "B": 15, "active": 18072, "n": 18227, "rows_timed": 2048, "time": 4.835871893566403, "pairs": 329398344}
+{"dataset": "house-16h", "unit": "FRS-FA", "crit": "FRS", "step": 16, "B": 16, "active": 18069, "n": 18227, "rows_timed": 2048, "time": 5.16614627485254, "pairs": 329343663}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 11128, "n": 11128, "time": 0.012858167000000975, "cell": 673511, "box": 629275, "nodes_cell": 463952, "nodes_box": 456463, "confirm": 54835}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 11059, "n": 11128, "time": 0.018722125000000034, "cell": 1906833, "box": 772398, "nodes_cell": 793885, "nodes_box": 504790, "confirm": 53442}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 11058, "n": 11128, "time": 0.03222058400000094, "cell": 4933272, "box": 998829, "nodes_cell": 1473215, "nodes_box": 596935, "confirm": 53052}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 11058, "n": 11128, "time": 0.04261550000000014, "cell": 6820746, "box": 1316380, "nodes_cell": 1830650, "nodes_box": 733951, "confirm": 52547}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 11051, "n": 11128, "time": 0.058439708999998174, "cell": 9732797, "box": 1503811, "nodes_cell": 2437371, "nodes_box": 823325, "confirm": 51675}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 10977, "n": 11128, "time": 0.06886116700000144, "cell": 10950730, "box": 1630653, "nodes_cell": 2719726, "nodes_box": 898112, "confirm": 51038}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 10951, "n": 11128, "time": 0.07922591700000226, "cell": 12818497, "box": 1796841, "nodes_cell": 3058284, "nodes_box": 972856, "confirm": 50847}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 10933, "n": 11128, "time": 0.08995920799999979, "cell": 14490485, "box": 1992795, "nodes_cell": 3424509, "nodes_box": 1063396, "confirm": 50596}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 10928, "n": 11128, "time": 0.09452037500000188, "cell": 14849473, "box": 2027213, "nodes_cell": 3488117, "nodes_box": 1073381, "confirm": 50540}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 10925, "n": 11128, "time": 0.10474299999999914, "cell": 16286435, "box": 2020703, "nodes_cell": 3774294, "nodes_box": 1061661, "confirm": 50411}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 11, "B": 11, "active": 10906, "n": 11128, "time": 0.11948037499999842, "cell": 17552865, "box": 2043441, "nodes_cell": 3994427, "nodes_box": 1074316, "confirm": 50233}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 12, "B": 12, "active": 10898, "n": 11128, "time": 0.1230228339999968, "cell": 18656895, "box": 2070986, "nodes_cell": 4193382, "nodes_box": 1066115, "confirm": 50107}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 13, "B": 13, "active": 10831, "n": 11128, "time": 0.13239333399999964, "cell": 19310819, "box": 2080647, "nodes_cell": 4302382, "nodes_box": 1066889, "confirm": 50014}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 14, "B": 14, "active": 10817, "n": 11128, "time": 0.14250279200000193, "cell": 20579472, "box": 2204168, "nodes_cell": 4567679, "nodes_box": 1110687, "confirm": 49748}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 15, "B": 15, "active": 10775, "n": 11128, "time": 0.1407278329999997, "cell": 20305279, "box": 2193374, "nodes_cell": 4474993, "nodes_box": 1096652, "confirm": 49474}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 16, "B": 16, "active": 10648, "n": 11128, "time": 0.1434600830000008, "cell": 20300561, "box": 2171918, "nodes_cell": 4468564, "nodes_box": 1087986, "confirm": 49397}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 17, "B": 17, "active": 10648, "n": 11128, "time": 0.14758791699999918, "cell": 20637736, "box": 2146233, "nodes_cell": 4523214, "nodes_box": 1083839, "confirm": 49317}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 18, "B": 18, "active": 10636, "n": 11128, "time": 0.1530060000000013, "cell": 20753429, "box": 2213624, "nodes_cell": 4539871, "nodes_box": 1100591, "confirm": 49214}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 19, "B": 19, "active": 10613, "n": 11128, "time": 0.15673070799999778, "cell": 20951875, "box": 2192423, "nodes_cell": 4573219, "nodes_box": 1099039, "confirm": 49126}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 20, "B": 20, "active": 10613, "n": 11128, "time": 0.15879620800000183, "cell": 21481120, "box": 2208589, "nodes_cell": 4688095, "nodes_box": 1099537, "confirm": 49067}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 21, "B": 21, "active": 10609, "n": 11128, "time": 0.1682850000000009, "cell": 22026445, "box": 2267869, "nodes_cell": 4842951, "nodes_box": 1147052, "confirm": 48923}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 22, "B": 22, "active": 10601, "n": 11128, "time": 0.1715572079999994, "cell": 22557371, "box": 2332015, "nodes_cell": 4920999, "nodes_box": 1151046, "confirm": 48810}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 23, "B": 23, "active": 10569, "n": 11128, "time": 0.1719104999999992, "cell": 22316358, "box": 2308251, "nodes_cell": 4859234, "nodes_box": 1139902, "confirm": 48641}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 24, "B": 24, "active": 10552, "n": 11128, "time": 0.17092162500000185, "cell": 22379124, "box": 2317434, "nodes_cell": 4858051, "nodes_box": 1139474, "confirm": 48588}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 25, "B": 25, "active": 10542, "n": 11128, "time": 0.18111766599999868, "cell": 23313785, "box": 2362935, "nodes_cell": 5041284, "nodes_box": 1161323, "confirm": 48555}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 26, "B": 26, "active": 10539, "n": 11128, "time": 0.1812485420000023, "cell": 23499118, "box": 2350190, "nodes_cell": 5072832, "nodes_box": 1162468, "confirm": 48530}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 27, "B": 27, "active": 10539, "n": 11128, "time": 0.1849625419999974, "cell": 23664791, "box": 2363579, "nodes_cell": 5094889, "nodes_box": 1163749, "confirm": 48510}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 28, "B": 28, "active": 10526, "n": 11128, "time": 0.18099583299999722, "cell": 23685518, "box": 2366085, "nodes_cell": 5095969, "nodes_box": 1163948, "confirm": 48499}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 29, "B": 29, "active": 10524, "n": 11128, "time": 0.1871529169999988, "cell": 23836650, "box": 2366447, "nodes_cell": 5132569, "nodes_box": 1165022, "confirm": 48485}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 30, "B": 30, "active": 10513, "n": 11128, "time": 0.1952072920000063, "cell": 24456428, "box": 2419281, "nodes_cell": 5286328, "nodes_box": 1183476, "confirm": 48382}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 31, "B": 31, "active": 10494, "n": 11128, "time": 0.19102770900000365, "cell": 24140892, "box": 2426920, "nodes_cell": 5194376, "nodes_box": 1185966, "confirm": 48374}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 32, "B": 32, "active": 10490, "n": 11128, "time": 0.19406395800000098, "cell": 24150905, "box": 2414428, "nodes_cell": 5197490, "nodes_box": 1182631, "confirm": 48355}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 33, "B": 33, "active": 10490, "n": 11128, "time": 0.1974202500000004, "cell": 24336712, "box": 2430887, "nodes_cell": 5229779, "nodes_box": 1185434, "confirm": 48349}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 34, "B": 34, "active": 10489, "n": 11128, "time": 0.1987885840000061, "cell": 24368928, "box": 2439054, "nodes_cell": 5233023, "nodes_box": 1177770, "confirm": 48336}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 35, "B": 35, "active": 10482, "n": 11128, "time": 0.19897579199999882, "cell": 24388304, "box": 2437483, "nodes_cell": 5235782, "nodes_box": 1177263, "confirm": 48332}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 36, "B": 36, "active": 10481, "n": 11128, "time": 0.2009851669999989, "cell": 24476069, "box": 2442416, "nodes_cell": 5244770, "nodes_box": 1181053, "confirm": 48332}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 37, "B": 37, "active": 10481, "n": 11128, "time": 0.20342358399999938, "cell": 24710198, "box": 2522239, "nodes_cell": 5290527, "nodes_box": 1201684, "confirm": 48328}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 38, "B": 38, "active": 10480, "n": 11128, "time": 0.2025720419999999, "cell": 24751051, "box": 2521210, "nodes_cell": 5295589, "nodes_box": 1201334, "confirm": 48316}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 39, "B": 39, "active": 10473, "n": 11128, "time": 0.20938395799999654, "cell": 25023058, "box": 2630734, "nodes_cell": 5354763, "nodes_box": 1245221, "confirm": 48304}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 40, "B": 40, "active": 10473, "n": 11128, "time": 0.21563199999999938, "cell": 25967632, "box": 2697762, "nodes_cell": 5535144, "nodes_box": 1268119, "confirm": 48293}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 41, "B": 41, "active": 10466, "n": 11128, "time": 0.21795095799999586, "cell": 25968319, "box": 2682986, "nodes_cell": 5533306, "nodes_box": 1265285, "confirm": 48286}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 42, "B": 42, "active": 10465, "n": 11128, "time": 0.2202042079999984, "cell": 26190488, "box": 2646498, "nodes_cell": 5581970, "nodes_box": 1259632, "confirm": 48274}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 43, "B": 43, "active": 10461, "n": 11128, "time": 0.22178287500000238, "cell": 26207315, "box": 2649427, "nodes_cell": 5585066, "nodes_box": 1260138, "confirm": 48274}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 44, "B": 44, "active": 10461, "n": 11128, "time": 0.2199404579999964, "cell": 26169017, "box": 2655649, "nodes_cell": 5571827, "nodes_box": 1258937, "confirm": 48250}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 45, "B": 45, "active": 10448, "n": 11128, "time": 0.22442974999999876, "cell": 26197392, "box": 2645614, "nodes_cell": 5580721, "nodes_box": 1258171, "confirm": 48241}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 46, "B": 46, "active": 10446, "n": 11128, "time": 0.22520554199999765, "cell": 26292243, "box": 2619753, "nodes_cell": 5611455, "nodes_box": 1254849, "confirm": 48239}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 47, "B": 47, "active": 10446, "n": 11128, "time": 0.22798629100000056, "cell": 26297307, "box": 2619616, "nodes_cell": 5612563, "nodes_box": 1254753, "confirm": 48235}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 48, "B": 48, "active": 10446, "n": 11128, "time": 0.23083062500000295, "cell": 26905085, "box": 2765369, "nodes_cell": 5708553, "nodes_box": 1283949, "confirm": 48191}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 49, "B": 49, "active": 10442, "n": 11128, "time": 0.23292700000000366, "cell": 26890663, "box": 2763719, "nodes_cell": 5705436, "nodes_box": 1283631, "confirm": 48191}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 50, "B": 50, "active": 10442, "n": 11128, "time": 0.23480137499999643, "cell": 27095946, "box": 2821036, "nodes_cell": 5757082, "nodes_box": 1287654, "confirm": 48187}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 51, "B": 51, "active": 10441, "n": 11128, "time": 0.23581041699999616, "cell": 27100850, "box": 2820350, "nodes_cell": 5757913, "nodes_box": 1287603, "confirm": 48182}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 52, "B": 52, "active": 10440, "n": 11128, "time": 0.2375508749999966, "cell": 27410246, "box": 2835961, "nodes_cell": 5829586, "nodes_box": 1296883, "confirm": 48179}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 53, "B": 53, "active": 10437, "n": 11128, "time": 0.24183320800000274, "cell": 27674001, "box": 2954869, "nodes_cell": 5904787, "nodes_box": 1361816, "confirm": 48177}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 54, "B": 54, "active": 10436, "n": 11128, "time": 0.244139208, "cell": 27701712, "box": 2963333, "nodes_cell": 5909318, "nodes_box": 1363304, "confirm": 48177}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 55, "B": 55, "active": 10436, "n": 11128, "time": 0.2453381249999964, "cell": 27704380, "box": 2961915, "nodes_cell": 5909729, "nodes_box": 1363054, "confirm": 48177}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 56, "B": 56, "active": 10436, "n": 11128, "time": 0.24454012500000033, "cell": 27708759, "box": 2955126, "nodes_cell": 5910323, "nodes_box": 1360755, "confirm": 48177}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 57, "B": 57, "active": 10436, "n": 11128, "time": 0.2523822080000002, "cell": 28974099, "box": 3066075, "nodes_cell": 6122955, "nodes_box": 1393984, "confirm": 48177}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 58, "B": 58, "active": 10436, "n": 11128, "time": 0.25666400000000067, "cell": 28689300, "box": 3031696, "nodes_cell": 6068219, "nodes_box": 1383577, "confirm": 48163}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 59, "B": 59, "active": 10431, "n": 11128, "time": 0.25461500000000115, "cell": 28685714, "box": 3032480, "nodes_cell": 6065028, "nodes_box": 1383632, "confirm": 48163}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 60, "B": 60, "active": 10431, "n": 11128, "time": 0.25461975000000336, "cell": 28689684, "box": 3032741, "nodes_cell": 6065792, "nodes_box": 1383748, "confirm": 48154}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 61, "B": 61, "active": 10431, "n": 11128, "time": 0.2560275840000088, "cell": 28669638, "box": 3033299, "nodes_cell": 6059714, "nodes_box": 1384352, "confirm": 48154}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 62, "B": 62, "active": 10431, "n": 11128, "time": 0.2588660420000082, "cell": 28754288, "box": 3017216, "nodes_cell": 6065010, "nodes_box": 1378146, "confirm": 48153}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 63, "B": 63, "active": 10430, "n": 11128, "time": 0.25819820799999604, "cell": 28757223, "box": 3017205, "nodes_cell": 6065502, "nodes_box": 1377943, "confirm": 48153}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 64, "B": 64, "active": 10430, "n": 11128, "time": 0.2603555839999956, "cell": 28758284, "box": 3016591, "nodes_cell": 6065700, "nodes_box": 1377809, "confirm": 48153}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 65, "B": 65, "active": 10430, "n": 11128, "time": 0.2606085409999963, "cell": 28771934, "box": 3019420, "nodes_cell": 6067195, "nodes_box": 1378046, "confirm": 48153}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 66, "B": 66, "active": 10430, "n": 11128, "time": 0.2609292910000107, "cell": 28774580, "box": 3018978, "nodes_cell": 6067975, "nodes_box": 1378086, "confirm": 48152}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 67, "B": 67, "active": 10430, "n": 11128, "time": 0.26119508300000405, "cell": 28775176, "box": 3019002, "nodes_cell": 6068107, "nodes_box": 1378084, "confirm": 48151}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 68, "B": 68, "active": 10430, "n": 11128, "time": 0.2618592919999969, "cell": 28780480, "box": 3026663, "nodes_cell": 6068825, "nodes_box": 1378528, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 69, "B": 69, "active": 10430, "n": 11128, "time": 0.2639400839999979, "cell": 28781737, "box": 3026306, "nodes_cell": 6069185, "nodes_box": 1378395, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 70, "B": 70, "active": 10430, "n": 11128, "time": 0.2664341250000035, "cell": 28780180, "box": 3025150, "nodes_cell": 6071232, "nodes_box": 1378033, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 71, "B": 71, "active": 10430, "n": 11128, "time": 0.2686112920000028, "cell": 28781223, "box": 3025516, "nodes_cell": 6071391, "nodes_box": 1378099, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 72, "B": 72, "active": 10430, "n": 11128, "time": 0.265494750000002, "cell": 28791348, "box": 3025602, "nodes_cell": 6072403, "nodes_box": 1378113, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 73, "B": 73, "active": 10430, "n": 11128, "time": 0.2694166659999979, "cell": 28791865, "box": 3025657, "nodes_cell": 6072504, "nodes_box": 1378121, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 74, "B": 74, "active": 10430, "n": 11128, "time": 0.27093991700000686, "cell": 28822800, "box": 3025779, "nodes_cell": 6077178, "nodes_box": 1378155, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 75, "B": 75, "active": 10430, "n": 11128, "time": 0.2696131659999992, "cell": 28869361, "box": 3025657, "nodes_cell": 6085354, "nodes_box": 1378132, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 76, "B": 76, "active": 10430, "n": 11128, "time": 0.27024887500000716, "cell": 28888155, "box": 3023298, "nodes_cell": 6088044, "nodes_box": 1376302, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 77, "B": 77, "active": 10430, "n": 11128, "time": 0.2736423340000016, "cell": 28901841, "box": 3024058, "nodes_cell": 6090456, "nodes_box": 1376544, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 78, "B": 78, "active": 10430, "n": 11128, "time": 0.2762029999999953, "cell": 29240894, "box": 3098455, "nodes_cell": 6133258, "nodes_box": 1390602, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 79, "B": 79, "active": 10430, "n": 11128, "time": 0.27817774999999756, "cell": 29432379, "box": 3092014, "nodes_cell": 6166697, "nodes_box": 1389837, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 80, "B": 80, "active": 10430, "n": 11128, "time": 0.27516683400000375, "cell": 29432410, "box": 3092034, "nodes_cell": 6166701, "nodes_box": 1389843, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 81, "B": 81, "active": 10430, "n": 11128, "time": 0.2743617500000113, "cell": 29124858, "box": 3083086, "nodes_cell": 6090175, "nodes_box": 1390442, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 82, "B": 82, "active": 10430, "n": 11128, "time": 0.280645333999999, "cell": 29232853, "box": 3044482, "nodes_cell": 6108463, "nodes_box": 1385500, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 83, "B": 83, "active": 10430, "n": 11128, "time": 0.28193695800000285, "cell": 29232853, "box": 3044482, "nodes_cell": 6108463, "nodes_box": 1385498, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-KD", "crit": "FRS", "step": 84, "B": 84, "active": 10430, "n": 11128, "time": 0.2821392080000038, "cell": 29264078, "box": 3051355, "nodes_cell": 6114210, "nodes_box": 1386403, "confirm": 48148}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 11128, "n": 11128, "rows_timed": 2048, "time": 0.252141391785168, "pairs": 123832384}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 11059, "n": 11128, "rows_timed": 2048, "time": 0.34905306243896006, "pairs": 123064552}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 11058, "n": 11128, "rows_timed": 2048, "time": 0.4639311547851689, "pairs": 123053424}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 11058, "n": 11128, "rows_timed": 2048, "time": 0.5842611467285187, "pairs": 123053424}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 11051, "n": 11128, "rows_timed": 2048, "time": 0.6868671347656092, "pairs": 122975528}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 10977, "n": 11128, "rows_timed": 2048, "time": 0.8010025383632875, "pairs": 122152056}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 10951, "n": 11128, "rows_timed": 2048, "time": 0.9180668558676747, "pairs": 121862728}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 10933, "n": 11128, "rows_timed": 2048, "time": 1.0217879623427824, "pairs": 121662424}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 10928, "n": 11128, "rows_timed": 2048, "time": 1.144097926257806, "pairs": 121606784}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 10925, "n": 11128, "rows_timed": 2048, "time": 1.252791792041028, "pairs": 121573400}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 11, "B": 11, "active": 10906, "n": 11128, "rows_timed": 2048, "time": 1.3679650131328092, "pairs": 121361968}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 12, "B": 12, "active": 10898, "n": 11128, "rows_timed": 2048, "time": 1.4764040649580046, "pairs": 121272944}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 13, "B": 13, "active": 10831, "n": 11128, "rows_timed": 2048, "time": 1.5810188237436422, "pairs": 120527368}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 14, "B": 14, "active": 10817, "n": 11128, "rows_timed": 2048, "time": 1.694974077362809, "pairs": 120371576}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 15, "B": 15, "active": 10775, "n": 11128, "rows_timed": 2048, "time": 1.8000021990722712, "pairs": 119904200}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 16, "B": 16, "active": 10648, "n": 11128, "rows_timed": 2048, "time": 1.8817103486327966, "pairs": 118490944}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 17, "B": 17, "active": 10648, "n": 11128, "rows_timed": 2048, "time": 1.9998898906249953, "pairs": 118490944}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 18, "B": 18, "active": 10636, "n": 11128, "rows_timed": 2048, "time": 2.0962770036992144, "pairs": 118357408}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 19, "B": 19, "active": 10613, "n": 11128, "rows_timed": 2048, "time": 2.2065958319091883, "pairs": 118101464}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 20, "B": 20, "active": 10613, "n": 11128, "rows_timed": 2048, "time": 2.318387307739273, "pairs": 118101464}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 21, "B": 21, "active": 10609, "n": 11128, "rows_timed": 2048, "time": 2.4241364268188383, "pairs": 118056952}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 22, "B": 22, "active": 10601, "n": 11128, "rows_timed": 2048, "time": 2.5372427602578127, "pairs": 117967928}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 23, "B": 23, "active": 10569, "n": 11128, "rows_timed": 2048, "time": 2.6403919563823246, "pairs": 117611832}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 24, "B": 24, "active": 10552, "n": 11128, "rows_timed": 2048, "time": 2.729808325195315, "pairs": 117422656}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 25, "B": 25, "active": 10542, "n": 11128, "rows_timed": 2048, "time": 2.85504306958008, "pairs": 117311376}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 26, "B": 26, "active": 10539, "n": 11128, "rows_timed": 2048, "time": 2.951265424987788, "pairs": 117277992}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 27, "B": 27, "active": 10539, "n": 11128, "rows_timed": 2048, "time": 3.0596478217163128, "pairs": 117277992}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 28, "B": 28, "active": 10526, "n": 11128, "rows_timed": 2048, "time": 3.166807023161143, "pairs": 117133328}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 29, "B": 29, "active": 10524, "n": 11128, "rows_timed": 2048, "time": 3.276884806640626, "pairs": 117111072}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 30, "B": 30, "active": 10513, "n": 11128, "rows_timed": 2048, "time": 3.375280012817383, "pairs": 116988664}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 31, "B": 31, "active": 10494, "n": 11128, "rows_timed": 2048, "time": 3.4839435192890686, "pairs": 116777232}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 32, "B": 32, "active": 10490, "n": 11128, "rows_timed": 2048, "time": 3.592303829345699, "pairs": 116732720}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 33, "B": 33, "active": 10490, "n": 11128, "rows_timed": 2048, "time": 3.711456840253906, "pairs": 116732720}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 34, "B": 34, "active": 10489, "n": 11128, "rows_timed": 2048, "time": 3.800457782531746, "pairs": 116721592}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 35, "B": 35, "active": 10482, "n": 11128, "rows_timed": 2048, "time": 3.916909419796874, "pairs": 116643696}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 36, "B": 36, "active": 10481, "n": 11128, "rows_timed": 2048, "time": 4.031518185302719, "pairs": 116632568}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 37, "B": 37, "active": 10481, "n": 11128, "rows_timed": 2048, "time": 4.13654547158105, "pairs": 116632568}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 38, "B": 38, "active": 10480, "n": 11128, "rows_timed": 2048, "time": 4.2912580859375, "pairs": 116621440}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 39, "B": 39, "active": 10473, "n": 11128, "rows_timed": 2048, "time": 4.3596125343017675, "pairs": 116543544}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 40, "B": 40, "active": 10473, "n": 11128, "rows_timed": 2048, "time": 4.46300570801219, "pairs": 116543544}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 41, "B": 41, "active": 10466, "n": 11128, "rows_timed": 2048, "time": 4.556024701782223, "pairs": 116465648}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 42, "B": 42, "active": 10465, "n": 11128, "rows_timed": 2048, "time": 4.672524773864764, "pairs": 116454520}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 43, "B": 43, "active": 10461, "n": 11128, "rows_timed": 2048, "time": 4.775744459723158, "pairs": 116410008}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 44, "B": 44, "active": 10461, "n": 11128, "rows_timed": 2048, "time": 4.89373782792919, "pairs": 116410008}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 45, "B": 45, "active": 10448, "n": 11128, "rows_timed": 2048, "time": 4.9964796636640845, "pairs": 116265344}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 46, "B": 46, "active": 10446, "n": 11128, "rows_timed": 2048, "time": 5.097051231445321, "pairs": 116243088}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 47, "B": 47, "active": 10446, "n": 11128, "rows_timed": 2048, "time": 5.202373653817366, "pairs": 116243088}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 48, "B": 48, "active": 10446, "n": 11128, "rows_timed": 2048, "time": 5.313833570443351, "pairs": 116243088}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 49, "B": 49, "active": 10442, "n": 11128, "rows_timed": 2048, "time": 5.439883455168926, "pairs": 116198576}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 50, "B": 50, "active": 10442, "n": 11128, "rows_timed": 2048, "time": 5.541895625823247, "pairs": 116198576}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 51, "B": 51, "active": 10441, "n": 11128, "rows_timed": 2048, "time": 5.647285648143057, "pairs": 116187448}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 52, "B": 52, "active": 10440, "n": 11128, "rows_timed": 2048, "time": 5.760854109843726, "pairs": 116176320}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 53, "B": 53, "active": 10437, "n": 11128, "rows_timed": 2048, "time": 5.8509804571025175, "pairs": 116142936}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 54, "B": 54, "active": 10436, "n": 11128, "rows_timed": 2048, "time": 6.018119233093753, "pairs": 116131808}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 55, "B": 55, "active": 10436, "n": 11128, "rows_timed": 2048, "time": 6.129353336609362, "pairs": 116131808}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 56, "B": 56, "active": 10436, "n": 11128, "rows_timed": 2048, "time": 6.188137586974594, "pairs": 116131808}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 57, "B": 57, "active": 10436, "n": 11128, "rows_timed": 2048, "time": 6.2996398518672025, "pairs": 116131808}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 58, "B": 58, "active": 10436, "n": 11128, "rows_timed": 2048, "time": 6.397642111236296, "pairs": 116131808}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 59, "B": 59, "active": 10431, "n": 11128, "rows_timed": 2048, "time": 6.514702569030766, "pairs": 116076168}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 60, "B": 60, "active": 10431, "n": 11128, "rows_timed": 2048, "time": 6.6326487127910045, "pairs": 116076168}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 61, "B": 61, "active": 10431, "n": 11128, "rows_timed": 2048, "time": 6.73128375983789, "pairs": 116076168}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 62, "B": 62, "active": 10431, "n": 11128, "rows_timed": 2048, "time": 6.8457499376221005, "pairs": 116076168}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 63, "B": 63, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 6.933200111147444, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 64, "B": 64, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.058908012084953, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 65, "B": 65, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.162675817260735, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 66, "B": 66, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.292551725463839, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 67, "B": 67, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.3740812988281546, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 68, "B": 68, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.500992576293949, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 69, "B": 69, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.6212736993408186, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 70, "B": 70, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.7163057021776975, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 71, "B": 71, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.835590551420911, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 72, "B": 72, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 7.926837559204118, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 73, "B": 73, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.037562729492226, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 74, "B": 74, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.157999609921912, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 75, "B": 75, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.253757327880892, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 76, "B": 76, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.37773898742678, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 77, "B": 77, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.485738041928725, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 78, "B": 78, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.599726615600597, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 79, "B": 79, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.705192860717766, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 80, "B": 80, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.803471083920893, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 81, "B": 81, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 8.936900683593798, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 82, "B": 82, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 9.073755809999993, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 83, "B": 83, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 9.19242825833002, "pairs": 116065040}
+{"dataset": "gas-drift", "unit": "FRS-FA", "crit": "FRS", "step": 84, "B": 84, "active": 10430, "n": 11128, "rows_timed": 2048, "time": 9.278037779814502, "pairs": 116065040}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 32614, "n": 32614, "time": 0.011610458000000046, "cell": 980240, "box": 945774, "nodes_cell": 416051, "nodes_box": 411305, "confirm": 32614}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 32614, "n": 32614, "time": 0.018378000000000005, "cell": 823481, "box": 699889, "nodes_cell": 414479, "nodes_box": 398801, "confirm": 32614}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 32614, "n": 32614, "time": 0.024264708000000024, "cell": 1586006, "box": 1011609, "nodes_cell": 581120, "nodes_box": 510448, "confirm": 32564}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 32560, "n": 32614, "time": 0.037245792, "cell": 3009087, "box": 1669162, "nodes_cell": 859878, "nodes_box": 711185, "confirm": 31840}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 31824, "n": 32614, "time": 0.05780937499999994, "cell": 4898816, "box": 2726121, "nodes_cell": 1230522, "nodes_box": 1010386, "confirm": 30833}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 30804, "n": 32614, "time": 0.07553545800000006, "cell": 6211823, "box": 3795343, "nodes_cell": 1460404, "nodes_box": 1224998, "confirm": 30068}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 30039, "n": 32614, "time": 0.09871099999999977, "cell": 7795408, "box": 5052149, "nodes_cell": 1743945, "nodes_box": 1485440, "confirm": 28903}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 28852, "n": 32614, "time": 0.11598637499999986, "cell": 9397811, "box": 6333793, "nodes_cell": 2037590, "nodes_box": 1751725, "confirm": 27010}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 26933, "n": 32614, "time": 0.13762358399999997, "cell": 10807068, "box": 7404225, "nodes_cell": 2312876, "nodes_box": 1993248, "confirm": 23922}
+{"dataset": "fried", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 23818, "n": 32614, "time": 0.15697554199999963, "cell": 11770855, "box": 8056837, "nodes_cell": 2498188, "nodes_box": 2140019, "confirm": 19241}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 32614, "n": 32614, "rows_timed": 2048, "time": 3.1681397096318347, "pairs": 1063672996}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 32614, "n": 32614, "rows_timed": 2048, "time": 4.017949649291992, "pairs": 1063672996}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 32614, "n": 32614, "rows_timed": 2048, "time": 4.998479032996097, "pairs": 1063672996}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 32560, "n": 32614, "rows_timed": 2048, "time": 5.922184534921877, "pairs": 1061911840}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 31824, "n": 32614, "rows_timed": 2048, "time": 6.75827819824219, "pairs": 1037907936}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 30804, "n": 32614, "rows_timed": 2048, "time": 7.4641666798183595, "pairs": 1004641656}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 30039, "n": 32614, "rows_timed": 2048, "time": 8.150048475287107, "pairs": 979691946}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 28852, "n": 32614, "rows_timed": 2048, "time": 8.737093164306637, "pairs": 940979128}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 26933, "n": 32614, "rows_timed": 2048, "time": 9.024655852905267, "pairs": 878392862}
+{"dataset": "fried", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 23818, "n": 32614, "rows_timed": 2048, "time": 8.540943779174807, "pairs": 776800252}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 52425, "n": 52425, "time": 0.5149123750000002, "cell": 541174349, "box": 541173821, "nodes_cell": 1149802, "nodes_box": 1149758, "confirm": 148075}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 49581, "n": 52425, "time": 0.5040277910000004, "cell": 367366941, "box": 365682075, "nodes_cell": 1113937, "nodes_box": 1109983, "confirm": 127560}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 49453, "n": 52425, "time": 0.19767275000000062, "cell": 65214543, "box": 62123795, "nodes_cell": 12913621, "nodes_box": 12212297, "confirm": 110693}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 45231, "n": 52425, "time": 0.21145979100000023, "cell": 57740789, "box": 51412322, "nodes_cell": 12198825, "nodes_box": 10837047, "confirm": 101236}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 45231, "n": 52425, "time": 0.2567315000000008, "cell": 60210444, "box": 51396773, "nodes_cell": 12990693, "nodes_box": 10999333, "confirm": 100980}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 45108, "n": 52425, "time": 0.3109485420000002, "cell": 64187582, "box": 51583384, "nodes_cell": 14077135, "nodes_box": 11228991, "confirm": 100976}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 45106, "n": 52425, "time": 0.33564287500000134, "cell": 63590014, "box": 51739329, "nodes_cell": 13980729, "nodes_box": 11231025, "confirm": 100976}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 45106, "n": 52425, "time": 0.318183874999999, "cell": 64252501, "box": 51547623, "nodes_cell": 13974883, "nodes_box": 11173077, "confirm": 100976}
+{"dataset": "internet-firewall", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 45106, "n": 52425, "time": 0.34997195899999944, "cell": 64934216, "box": 51728236, "nodes_cell": 14084790, "nodes_box": 11244541, "confirm": 100976}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 52425, "n": 52425, "rows_timed": 2048, "time": 8.276155307006839, "pairs": 2748380625}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 49581, "n": 52425, "rows_timed": 2048, "time": 9.938154965515132, "pairs": 2599283925}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 49453, "n": 52425, "rows_timed": 2048, "time": 12.35207598840332, "pairs": 2592573525}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 45231, "n": 52425, "rows_timed": 2048, "time": 13.498194063147947, "pairs": 2371235175}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 45231, "n": 52425, "rows_timed": 2048, "time": 15.656135677415032, "pairs": 2371235175}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 45108, "n": 52425, "rows_timed": 2048, "time": 17.815216106707037, "pairs": 2364786900}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 45106, "n": 52425, "rows_timed": 2048, "time": 20.036257364844733, "pairs": 2364682050}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 45106, "n": 52425, "rows_timed": 2048, "time": 22.24716163017384, "pairs": 2364682050}
+{"dataset": "internet-firewall", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 45106, "n": 52425, "rows_timed": 2048, "time": 24.423901492262726, "pairs": 2364682050}
+{"dataset": "run-or-walk", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 70870, "n": 70870, "time": 0.027959708000000028, "cell": 734623, "box": 677402, "nodes_cell": 947459, "nodes_box": 934446, "confirm": 70695}
+{"dataset": "run-or-walk", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 70695, "n": 70870, "time": 0.06792154200000011, "cell": 6885149, "box": 812296, "nodes_cell": 3552925, "nodes_box": 1026145, "confirm": 70000}
+{"dataset": "run-or-walk", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 70000, "n": 70870, "time": 0.19182229200000034, "cell": 24640959, "box": 1201768, "nodes_cell": 8987900, "nodes_box": 1468391, "confirm": 69904}
+{"dataset": "run-or-walk", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 69904, "n": 70870, "time": 0.40391120800000024, "cell": 53547189, "box": 2141669, "nodes_cell": 16117852, "nodes_box": 2307936, "confirm": 69734}
+{"dataset": "run-or-walk", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 69734, "n": 70870, "time": 0.7752736249999996, "cell": 88558131, "box": 3366660, "nodes_cell": 25916112, "nodes_box": 3352908, "confirm": 69301}
+{"dataset": "run-or-walk", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 69301, "n": 70870, "time": 1.2531841660000005, "cell": 130283835, "box": 5020776, "nodes_cell": 37639933, "nodes_box": 5108889, "confirm": 69258}
+{"dataset": "run-or-walk", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 70870, "n": 70870, "rows_timed": 2048, "time": 8.841534265136717, "pairs": 5022556900}
+{"dataset": "run-or-walk", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 70695, "n": 70870, "rows_timed": 2048, "time": 12.013489929199212, "pairs": 5010154650}
+{"dataset": "run-or-walk", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 70000, "n": 70870, "rows_timed": 2048, "time": 15.711888247070299, "pairs": 4960900000}
+{"dataset": "run-or-walk", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 69904, "n": 70870, "rows_timed": 2048, "time": 19.51469172462502, "pairs": 4954096480}
+{"dataset": "run-or-walk", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 69734, "n": 70870, "rows_timed": 2048, "time": 23.190133055625978, "pairs": 4942048580}
+{"dataset": "run-or-walk", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 69301, "n": 70870, "rows_timed": 2048, "time": 26.793650010331543, "pairs": 4911361870}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "time": 0.03270933399999976, "cell": 1027560, "box": 949824, "nodes_cell": 995599, "nodes_box": 982556, "confirm": 79992}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 79992, "n": 80000, "time": 0.0448858750000003, "cell": 1499807, "box": 1259164, "nodes_cell": 1141878, "nodes_box": 1099513, "confirm": 79991}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 79991, "n": 80000, "time": 0.061060665999999486, "cell": 2755508, "box": 1966324, "nodes_cell": 1633915, "nodes_box": 1493936, "confirm": 79991}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 79991, "n": 80000, "time": 0.0932662500000001, "cell": 4868341, "box": 3137378, "nodes_cell": 2433149, "nodes_box": 2119003, "confirm": 79991}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 79991, "n": 80000, "time": 0.1515814999999998, "cell": 8927152, "box": 4803787, "nodes_cell": 3625796, "nodes_box": 2916739, "confirm": 79991}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 79991, "n": 80000, "time": 0.21565458300000007, "cell": 13091690, "box": 7076697, "nodes_cell": 4938577, "nodes_box": 3925687, "confirm": 79987}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 79987, "n": 80000, "time": 0.2872917920000013, "cell": 17687146, "box": 9104935, "nodes_cell": 6124123, "nodes_box": 4709450, "confirm": 79987}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 79987, "n": 80000, "time": 0.3154089169999992, "cell": 20323413, "box": 10310259, "nodes_cell": 6716665, "nodes_box": 5101385, "confirm": 79983}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 79983, "n": 80000, "time": 0.369547583000001, "cell": 23461950, "box": 11245400, "nodes_cell": 7411671, "nodes_box": 5445814, "confirm": 79983}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 79983, "n": 80000, "time": 0.3942885839999999, "cell": 24989758, "box": 11581301, "nodes_cell": 7803918, "nodes_box": 5633040, "confirm": 79983}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 11, "B": 11, "active": 79983, "n": 80000, "time": 0.4895040829999999, "cell": 33822362, "box": 14709184, "nodes_cell": 10187059, "nodes_box": 7026022, "confirm": 79982}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 12, "B": 12, "active": 79982, "n": 80000, "time": 0.5029521250000002, "cell": 34838191, "box": 14864075, "nodes_cell": 10576155, "nodes_box": 7254390, "confirm": 79982}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 13, "B": 13, "active": 79982, "n": 80000, "time": 0.5067729579999991, "cell": 34853896, "box": 14864693, "nodes_cell": 10579290, "nodes_box": 7254671, "confirm": 79982}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 14, "B": 14, "active": 79982, "n": 80000, "time": 0.5111328749999977, "cell": 34854692, "box": 14865006, "nodes_cell": 10579550, "nodes_box": 7254892, "confirm": 79982}
+{"dataset": "miniboone", "unit": "FRS-KD", "crit": "FRS", "step": 15, "B": 15, "active": 79982, "n": 80000, "time": 0.5306566250000024, "cell": 35902539, "box": 15151675, "nodes_cell": 10766932, "nodes_box": 7308082, "confirm": 79982}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 11.552586289062493, "pairs": 6400000000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 79992, "n": 80000, "rows_timed": 2048, "time": 16.74683913297656, "pairs": 6399360000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 79991, "n": 80000, "rows_timed": 2048, "time": 22.360181110659674, "pairs": 6399280000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 79991, "n": 80000, "rows_timed": 2048, "time": 28.171096332582014, "pairs": 6399280000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 79991, "n": 80000, "rows_timed": 2048, "time": 33.934443664306635, "pairs": 6399280000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 79991, "n": 80000, "rows_timed": 2048, "time": 39.678646001647934, "pairs": 6399280000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 79987, "n": 80000, "rows_timed": 2048, "time": 45.425035864784654, "pairs": 6398960000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 79987, "n": 80000, "rows_timed": 2048, "time": 51.089946885880316, "pairs": 6398960000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 79983, "n": 80000, "rows_timed": 2048, "time": 56.79796692919925, "pairs": 6398640000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 79983, "n": 80000, "rows_timed": 2048, "time": 62.56272310345457, "pairs": 6398640000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 11, "B": 11, "active": 79983, "n": 80000, "rows_timed": 2048, "time": 68.3670835162705, "pairs": 6398640000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 12, "B": 12, "active": 79982, "n": 80000, "rows_timed": 2048, "time": 74.14646594690235, "pairs": 6398560000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 13, "B": 13, "active": 79982, "n": 80000, "rows_timed": 2048, "time": 80.18203470862409, "pairs": 6398560000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 14, "B": 14, "active": 79982, "n": 80000, "rows_timed": 2048, "time": 85.78259398669431, "pairs": 6398560000}
+{"dataset": "miniboone", "unit": "FRS-FA", "crit": "FRS", "step": 15, "B": 15, "active": 79982, "n": 80000, "rows_timed": 2048, "time": 91.63159664929786, "pairs": 6398560000}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "time": 0.021790333000000217, "cell": 692735, "box": 662881, "nodes_cell": 406175, "nodes_box": 401251, "confirm": 80000}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 80000, "n": 80000, "time": 0.03043704199999997, "cell": 946622, "box": 783269, "nodes_cell": 478006, "nodes_box": 443335, "confirm": 79963}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 79963, "n": 80000, "time": 0.03560295800000013, "cell": 1629825, "box": 1016555, "nodes_cell": 636496, "nodes_box": 518562, "confirm": 79945}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 79945, "n": 80000, "time": 0.03777841600000009, "cell": 1722240, "box": 1371919, "nodes_cell": 606131, "nodes_box": 540771, "confirm": 79918}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 79918, "n": 80000, "time": 0.043998375000000145, "cell": 2062134, "box": 1626935, "nodes_cell": 672664, "nodes_box": 594159, "confirm": 79917}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 79917, "n": 80000, "time": 0.044112290999999804, "cell": 1830253, "box": 1339288, "nodes_cell": 604152, "nodes_box": 516622, "confirm": 79915}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 79915, "n": 80000, "time": 0.04879745800000013, "cell": 2199370, "box": 1537000, "nodes_cell": 675452, "nodes_box": 551110, "confirm": 79907}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 79907, "n": 80000, "time": 0.05497741699999947, "cell": 2562139, "box": 1752501, "nodes_cell": 862226, "nodes_box": 695225, "confirm": 79902}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 79902, "n": 80000, "time": 0.05805787499999937, "cell": 2962606, "box": 1860836, "nodes_cell": 895401, "nodes_box": 667983, "confirm": 79897}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 79897, "n": 80000, "time": 0.059608708999999926, "cell": 2999873, "box": 1825083, "nodes_cell": 906240, "nodes_box": 656194, "confirm": 79897}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 11, "B": 11, "active": 79897, "n": 80000, "time": 0.06657741599999945, "cell": 3054087, "box": 1837768, "nodes_cell": 918251, "nodes_box": 659581, "confirm": 79894}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 12, "B": 12, "active": 79894, "n": 80000, "time": 0.06387758300000002, "cell": 3392562, "box": 1815886, "nodes_cell": 1020389, "nodes_box": 665215, "confirm": 79889}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 13, "B": 13, "active": 79889, "n": 80000, "time": 0.06424279100000074, "cell": 3430241, "box": 1832496, "nodes_cell": 1025258, "nodes_box": 668068, "confirm": 79872}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 14, "B": 14, "active": 79872, "n": 80000, "time": 0.06780804200000023, "cell": 3504450, "box": 1836815, "nodes_cell": 1042023, "nodes_box": 670024, "confirm": 79870}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 15, "B": 15, "active": 79870, "n": 80000, "time": 0.0662327920000001, "cell": 3082509, "box": 1612787, "nodes_cell": 907457, "nodes_box": 601803, "confirm": 79868}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 16, "B": 16, "active": 79868, "n": 80000, "time": 0.0665686670000003, "cell": 3065461, "box": 1612882, "nodes_cell": 902986, "nodes_box": 601892, "confirm": 79868}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 17, "B": 17, "active": 79868, "n": 80000, "time": 0.06784266599999977, "cell": 3106251, "box": 1615489, "nodes_cell": 912137, "nodes_box": 603633, "confirm": 79860}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 18, "B": 18, "active": 79860, "n": 80000, "time": 0.07456733300000007, "cell": 3322705, "box": 1620788, "nodes_cell": 967153, "nodes_box": 607625, "confirm": 79860}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 19, "B": 19, "active": 79860, "n": 80000, "time": 0.07469979199999965, "cell": 3356928, "box": 1622772, "nodes_cell": 971759, "nodes_box": 607847, "confirm": 79859}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 20, "B": 20, "active": 79859, "n": 80000, "time": 0.07559008299999981, "cell": 3387887, "box": 1625278, "nodes_cell": 981945, "nodes_box": 608995, "confirm": 79855}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 21, "B": 21, "active": 79855, "n": 80000, "time": 0.07716208299999927, "cell": 3395333, "box": 1627434, "nodes_cell": 983814, "nodes_box": 609660, "confirm": 79853}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 22, "B": 22, "active": 79853, "n": 80000, "time": 0.07852020800000048, "cell": 3409870, "box": 1627650, "nodes_cell": 987723, "nodes_box": 609921, "confirm": 79850}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 23, "B": 23, "active": 79850, "n": 80000, "time": 0.08008020900000012, "cell": 3443346, "box": 1627245, "nodes_cell": 996247, "nodes_box": 609960, "confirm": 79849}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 24, "B": 24, "active": 79849, "n": 80000, "time": 0.08055195899999923, "cell": 3444782, "box": 1627432, "nodes_cell": 996545, "nodes_box": 610019, "confirm": 79848}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 25, "B": 25, "active": 79848, "n": 80000, "time": 0.08080162499999943, "cell": 3444959, "box": 1627470, "nodes_cell": 996577, "nodes_box": 610039, "confirm": 79848}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 26, "B": 26, "active": 79848, "n": 80000, "time": 0.08189295799999918, "cell": 3444968, "box": 1627495, "nodes_cell": 996578, "nodes_box": 610042, "confirm": 79848}
+{"dataset": "creditcard", "unit": "FRS-KD", "crit": "FRS", "step": 27, "B": 27, "active": 79848, "n": 80000, "time": 0.08385774999999995, "cell": 3444968, "box": 1627495, "nodes_cell": 996578, "nodes_box": 610041, "confirm": 79848}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 12.964026718750004, "pairs": 6400000000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 18.03724121093749, "pairs": 6400000000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 79963, "n": 80000, "rows_timed": 2048, "time": 23.77092468835449, "pairs": 6397040000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 79945, "n": 80000, "rows_timed": 2048, "time": 29.404557255952138, "pairs": 6395600000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 79918, "n": 80000, "rows_timed": 2048, "time": 35.18310277841505, "pairs": 6393440000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 79917, "n": 80000, "rows_timed": 2048, "time": 40.92165332341847, "pairs": 6393360000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 79915, "n": 80000, "rows_timed": 2048, "time": 46.73503242340086, "pairs": 6393200000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 79907, "n": 80000, "rows_timed": 2048, "time": 52.42216701568605, "pairs": 6392560000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 79902, "n": 80000, "rows_timed": 2048, "time": 58.22880683422852, "pairs": 6392160000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 79897, "n": 80000, "rows_timed": 2048, "time": 64.02607020363725, "pairs": 6391760000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 11, "B": 11, "active": 79897, "n": 80000, "rows_timed": 2048, "time": 69.67043594083303, "pairs": 6391760000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 12, "B": 12, "active": 79894, "n": 80000, "rows_timed": 2048, "time": 75.34948911440333, "pairs": 6391520000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 13, "B": 13, "active": 79889, "n": 80000, "rows_timed": 2048, "time": 81.19913442838775, "pairs": 6391120000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 14, "B": 14, "active": 79872, "n": 80000, "rows_timed": 2048, "time": 87.39977024999999, "pairs": 6389760000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 15, "B": 15, "active": 79870, "n": 80000, "rows_timed": 2048, "time": 92.77785126548332, "pairs": 6389600000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 16, "B": 16, "active": 79868, "n": 80000, "rows_timed": 2048, "time": 98.54282896533199, "pairs": 6389440000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 17, "B": 17, "active": 79868, "n": 80000, "rows_timed": 2048, "time": 104.33018786914069, "pairs": 6389440000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 18, "B": 18, "active": 79860, "n": 80000, "rows_timed": 2048, "time": 110.29527610631838, "pairs": 6388800000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 19, "B": 19, "active": 79860, "n": 80000, "rows_timed": 2048, "time": 115.91643741498036, "pairs": 6388800000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 20, "B": 20, "active": 79859, "n": 80000, "rows_timed": 2048, "time": 121.83118087928774, "pairs": 6388720000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 21, "B": 21, "active": 79855, "n": 80000, "rows_timed": 2048, "time": 127.51778539215071, "pairs": 6388400000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 22, "B": 22, "active": 79853, "n": 80000, "rows_timed": 2048, "time": 133.34868412319287, "pairs": 6388240000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 23, "B": 23, "active": 79850, "n": 80000, "rows_timed": 2048, "time": 139.12789644289566, "pairs": 6388000000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 24, "B": 24, "active": 79849, "n": 80000, "rows_timed": 2048, "time": 145.28303961227266, "pairs": 6387920000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 25, "B": 25, "active": 79848, "n": 80000, "rows_timed": 2048, "time": 150.64629517859763, "pairs": 6387840000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 26, "B": 26, "active": 79848, "n": 80000, "rows_timed": 2048, "time": 156.54536673925767, "pairs": 6387840000}
+{"dataset": "creditcard", "unit": "FRS-FA", "crit": "FRS", "step": 27, "B": 27, "active": 79848, "n": 80000, "rows_timed": 2048, "time": 162.55425854112895, "pairs": 6387840000}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "time": 0.10444704100000024, "cell": 5316822, "box": 5006449, "nodes_cell": 3557605, "nodes_box": 3519285, "confirm": 319935}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 2, "B": 2, "active": 80000, "n": 80000, "time": 0.1422820420000015, "cell": 7415057, "box": 6470190, "nodes_cell": 4019063, "nodes_box": 3887480, "confirm": 319928}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 3, "B": 3, "active": 80000, "n": 80000, "time": 0.2119727919999992, "cell": 14277900, "box": 10506776, "nodes_cell": 5766198, "nodes_box": 5178727, "confirm": 319869}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 4, "B": 4, "active": 80000, "n": 80000, "time": 0.3140917500000011, "cell": 24356484, "box": 14394356, "nodes_cell": 7750545, "nodes_box": 6262197, "confirm": 319830}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 5, "B": 5, "active": 80000, "n": 80000, "time": 0.4606840830000003, "cell": 39509480, "box": 19622518, "nodes_cell": 10541302, "nodes_box": 7709989, "confirm": 319822}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 6, "B": 6, "active": 80000, "n": 80000, "time": 0.5691060839999977, "cell": 47688977, "box": 23855572, "nodes_cell": 12054724, "nodes_box": 8752065, "confirm": 319812}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 7, "B": 7, "active": 80000, "n": 80000, "time": 0.7004997089999989, "cell": 54040730, "box": 25159342, "nodes_cell": 13086200, "nodes_box": 8996549, "confirm": 319655}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 8, "B": 8, "active": 80000, "n": 80000, "time": 0.7894917909999997, "cell": 63984864, "box": 27184331, "nodes_cell": 15148124, "nodes_box": 9747005, "confirm": 319651}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 9, "B": 9, "active": 80000, "n": 80000, "time": 0.8466424160000017, "cell": 69022455, "box": 27838484, "nodes_cell": 15936696, "nodes_box": 9891059, "confirm": 319625}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 10, "B": 10, "active": 80000, "n": 80000, "time": 0.9012732919999991, "cell": 73423596, "box": 29728134, "nodes_cell": 16811884, "nodes_box": 10382607, "confirm": 319604}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 11, "B": 11, "active": 80000, "n": 80000, "time": 0.9561537079999951, "cell": 77505818, "box": 30742482, "nodes_cell": 17467309, "nodes_box": 10619804, "confirm": 319599}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 12, "B": 12, "active": 80000, "n": 80000, "time": 1.0039899590000019, "cell": 81594488, "box": 31560050, "nodes_cell": 18229304, "nodes_box": 10967004, "confirm": 319599}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 13, "B": 13, "active": 80000, "n": 80000, "time": 1.0394916250000037, "cell": 82998423, "box": 31032451, "nodes_cell": 18470690, "nodes_box": 10904066, "confirm": 319585}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 14, "B": 14, "active": 80000, "n": 80000, "time": 1.0688618340000033, "cell": 84635698, "box": 30954196, "nodes_cell": 18734382, "nodes_box": 10922300, "confirm": 319580}
+{"dataset": "hls4ml-jets", "unit": "FRS-KD", "crit": "FRS", "step": 15, "B": 15, "active": 80000, "n": 80000, "time": 1.116264375, "cell": 87978925, "box": 30940382, "nodes_cell": 19358644, "nodes_box": 10960083, "confirm": 319482}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 1, "B": 1, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 20.145532226562498, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 2, "B": 2, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 25.11730796875, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 3, "B": 3, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 30.74689292968752, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 4, "B": 4, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 36.66479980468748, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 5, "B": 5, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 42.40895671875001, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 6, "B": 6, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 48.10043132812497, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 7, "B": 7, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 53.8600618359375, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 8, "B": 8, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 59.635034179687516, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 9, "B": 9, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 65.30660644531255, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 10, "B": 10, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 71.11453937499998, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 11, "B": 11, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 76.76076984375003, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 12, "B": 12, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 82.49749023437502, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 13, "B": 13, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 88.59261718750011, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 14, "B": 14, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 94.73192382812495, "pairs": 6400000000}
+{"dataset": "hls4ml-jets", "unit": "FRS-FA", "crit": "FRS", "step": 15, "B": 15, "active": 80000, "n": 80000, "rows_timed": 2048, "time": 100.06312824218752, "pairs": 6400000000}

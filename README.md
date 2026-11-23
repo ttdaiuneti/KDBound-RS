@@ -65,6 +65,7 @@ Every supplementary unit was run one at a time unless its log states otherwise.
 | `revision/code/hd/` | per-step records on dilbert subsets and Santander (Section 5.8); data are downloaded from OpenML into `hd/oml_cache/` |
 | `revision/code/excluded/` | full grid on the two tables dropped at screening (Appendix A.3, Table 12) |
 | `revision/code/baselines/hash_audit.py` | pairs passed to the exact test by HASH, CABIN and BUCKET along the greedy path, and HASH with the attribute order of Eq. (B7) of its paper (Appendix A.4, Table 13) |
+| `revision/code/impl/work_count.py`, `revision/analysis/work_summary.py` | object pairs examined by each engine along the greedy path and time per pair, which separates the method from its implementation (Appendix A.4, Table 14) |
 | `revision/code/bign/` | reduction of creditcard, miniboone and hls4ml-jets at their full size (Appendix A.5) |
 | `revision/analysis/` | scripts that compute every number, table and figure added in the revision from the files above (tables and figures are written to `revision/manuscript/`; create that folder first) |
 
