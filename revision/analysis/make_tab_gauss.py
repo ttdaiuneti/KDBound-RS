@@ -3,12 +3,19 @@ import json, os, statistics as st
 from collections import defaultdict
 HERE = os.path.dirname(os.path.abspath(__file__))
 rows = [json.loads(l) for l in open(os.path.join(HERE, "..", "code", "gauss_run.jsonl"))]
-ORDER = ("htru2", "magic-telescope", "house-16h", "creditcard", "miniboone", "gas-drift")
+ORDER = ("mammography", "run-or-walk", "htru2", "magic-telescope", "fried", "internet-firewall",
+         "electrical-grid-stability", "house-16h", "hls4ml-jets", "creditcard", "miniboone", "jannis", "vehicle-sensit",
+         "gas-drift")  # by number of attributes (2026-11-24: 8 tables added, docstring amendment of gauss_run.py)
 LIMIT = 900
 by = defaultdict(dict)
 for r in rows:
     by[(r["dataset"], r["kappa"])][(r["fold"], r["method"])] = r
 meta = {r["dataset"]: (r["n_train"], r["m"]) for r in rows if "m" in r}
+for ds in ORDER:  # tables where no unit finished carry no m in their records: read it from the data file
+    if ds not in meta:
+        import sys; sys.path.insert(0, os.path.join(HERE, "..", "..", "e1"))
+        from data_e1 import load
+        meta[ds] = (None, load(ds)[0].shape[1])
 
 def ok(d, meth):
     return [d[(f, meth)] for f in range(1, 6) if (f, meth) in d and d[(f, meth)]["status"] == "ok"]

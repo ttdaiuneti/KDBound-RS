@@ -61,11 +61,12 @@ Every supplementary unit was run one at a time unless its log states otherwise.
 | `revision/code/steps/` | KD-PA+B3 runs that record every step: first-step cost, tau sensitivity, radius, bounds of all candidates (Sections 5.1, 5.4, 5.8) |
 | `revision/code/witness/` | nearest, fifth-nearest and random witnesses (Section 5.5) |
 | `revision/code/index/` | k-d tree, ball tree and brute force along the greedy path (Section 5.8) |
-| `revision/code/frs_gauss.py`, `gauss_run.py`, `gauss_exact_gasdrift.py`, `gauss_check.py` | Gaussian kernel fuzzy rough sets with and without the bound (Section 5.7, Table 8); `gauss_run_eps0.01_degenerate.*` is the discarded first setting (epsilon = 0.01), which returned empty reducts on most folds of magic-telescope and house-16h |
+| `revision/code/frs_gauss.py`, `gauss_run.py`, `gauss_exact_gasdrift.py`, `gauss_check.py` | Gaussian kernel fuzzy rough sets with and without the bound on the 14 datasets (Section 5.7, Table 8; `python gauss_run.py` runs the first six, `python gauss_run.py ext` the other eight); `gauss_run_eps0.01_degenerate.*` is the discarded first setting (epsilon = 0.01), which returned empty reducts on most folds of magic-telescope and house-16h |
 | `revision/code/hd/` | per-step records on dilbert subsets and Santander (Section 5.8); data are downloaded from OpenML into `hd/oml_cache/` |
 | `revision/code/excluded/` | full grid on the two tables dropped at screening (Appendix A.3, Table 12) |
 | `revision/code/baselines/hash_audit.py` | pairs passed to the exact test by HASH, CABIN and BUCKET along the greedy path, and HASH with the attribute order of Eq. (B7) of its paper (Appendix A.4, Table 13) |
 | `revision/code/impl/work_count.py`, `revision/analysis/work_summary.py` | object pairs examined by each engine along the greedy path and time per pair, which separates the method from its implementation (Appendix A.4, Table 14) |
+| `revision/code/impl/hash_numba.py`, `hash_numba_delta.py`, `revision/analysis/hash_numba_summary.py` | HASH compiled with Numba (HASH-NB, same cell codes, attribute order and distance test as HASH) against KD-PA, KD-PA+B3 and the NumPy HASH: the 12 NRS tables at delta = 0.10, and the five tables with m >= 29 at the other values of delta (Appendix A.4, Tables 15 and 16). Requires `numba` (0.60.0 was used) |
 | `revision/code/bign/` | reduction of creditcard, miniboone and hls4ml-jets at their full size (Appendix A.5) |
 | `revision/analysis/` | scripts that compute every number, table and figure added in the revision from the files above (tables and figures are written to `revision/manuscript/`; create that folder first) |
 

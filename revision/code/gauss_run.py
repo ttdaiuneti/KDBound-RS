@@ -9,6 +9,11 @@ Amendment 2026-11-21, before any eps=1e-4 unit: eps = 0.01 stopped greedy at the
 (first-step gamma gain 3e-3 to 7e-3 on full folds; probe with tau = 0 on fold 1 of four tables gave first-step gains
 1e-3 to 9e-2); those rows are kept in gauss_run_eps0.01_degenerate.jsonl and not used. eps set to 1e-4.
 
+Amendment 2026-11-24, written before any unit of the datasets below (the first run covered six datasets only): the
+same design (kappa, eps, methods, folds, 900 s, skip rule, one unit at a time) on the
+other eight datasets of Table 3: mammography, electrical-grid-stability, fried, internet-firewall, run-or-walk,
+hls4ml-jets, jannis, vehicle-sensit (run with "python gauss_run.py ext"; rows go to the same gauss_run.jsonl).
+
 python gauss_run.py            -> run all units in sequence (resumable; append-only gauss_run.jsonl)
 python gauss_run.py one SLUG KAPPA FOLD METHOD -> one unit (internal)
 """
@@ -24,6 +29,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 E1 = os.path.abspath(os.path.join(HERE, "..", "..", "e1")); sys.path.insert(0, E1)
 OUT = os.path.join(HERE, "gauss_run.jsonl")
 SLUGS = ("htru2", "magic-telescope", "house-16h", "creditcard", "miniboone", "gas-drift")
+SLUGS_EXT = ("mammography", "electrical-grid-stability", "fried", "internet-firewall", "run-or-walk", "hls4ml-jets",
+             "jannis", "vehicle-sensit")
 KAPPAS = ("0.1", "0.2")
 EPS = 1e-4
 METHODS = ("KD+B3", "KD")
@@ -51,9 +58,9 @@ def done():
     return d
 
 
-def main():
+def main(slugs=SLUGS):
     have = done()
-    for slug in SLUGS:
+    for slug in slugs:
         for kappa in KAPPAS:
             for method in METHODS:
                 for fold in range(1, 6):
@@ -82,5 +89,7 @@ def main():
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "one":
         one(sys.argv[2], sys.argv[3], int(sys.argv[4]), sys.argv[5])
+    elif len(sys.argv) > 1 and sys.argv[1] == "ext":
+        main(SLUGS_EXT)
     else:
         main()

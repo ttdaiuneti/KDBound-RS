@@ -1,0 +1,5 @@
+{"dataset": "mammography", "masks": 21, "different": 0, "reduct_len": 6}
+{"dataset": "magic-telescope", "masks": 55, "different": 0, "reduct_len": 10}
+{"dataset": "house-16h", "masks": 136, "different": 0, "reduct_len": 16}
+{"dataset": "creditcard", "masks": 432, "different": 0, "reduct_len": 27}
+{"dataset": "internet-firewall", "masks": 56, "different": 0, "reduct_len": 7}
