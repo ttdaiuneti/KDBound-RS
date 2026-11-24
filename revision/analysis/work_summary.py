@@ -15,43 +15,48 @@ WC = os.path.join(HERE, "..", "code", "impl", "work_count.jsonl")
 HA = os.path.join(HERE, "..", "code", "baselines", "hash_audit_path.jsonl")
 KEY = "box" if "--box" in sys.argv else "cell"
 
-work = defaultdict(lambda: defaultdict(float)); tim = defaultdict(lambda: defaultdict(float))
-steps = defaultdict(lambda: defaultdict(int)); bad = set(); length = {}
-for ln in open(HA):
-    r = json.loads(ln); k = (r["dataset"], "NRS")
-    if "step" not in r:
-        bad.add((k, r["engine"])); continue
-    e = r["engine"]
-    if e == "HASH-B7":
-        continue
-    if e == "KD-PA":
-        tim[k]["KD"] += r["time"]; steps[k]["KD-t"] += 1
-    else:
-        tim[k][e] += r["time"]; steps[k][e] += 1
-        if e in ("HASH-G", "BUCKET"):
-            work[k][e] += r["pairs"]                 # BF-PA work (|act| x n) is added from the KD-count rows
-for ln in open(WC):
-    r = json.loads(ln); k = (r["dataset"], r["crit"]); u = r["unit"]
-    if "step" not in r:
-        bad.add((k, {"FNC": "FNC", "FRS-FA": "FA-FPR", "FRS-KD": "KD", "KD-count": "KD", "CABIN-win": "CABIN"}[u]))
-        continue
-    if u == "KD-count":
-        work[k]["KD"] += r[KEY] + r["confirm"]; steps[k]["KD-w"] += 1; length[k] = max(length.get(k, 0), r["step"])
-        work[k]["BF-PA"] += r["active"] * r["n"]
-    elif u == "CABIN-win":
-        work[k]["CABIN"] += r["window"]; steps[k]["CABIN-w"] += 1
-    elif u == "FNC" and r["step"] >= 1:
-        work[k]["FNC"] += r["pairs"]; tim[k]["FNC"] += r["time"]; steps[k]["FNC"] += 1
-    elif u == "FRS-KD":
-        work[k]["KD"] += r[KEY] + r["confirm"]; tim[k]["KD"] += r["time"]; steps[k]["KD-w"] += 1; steps[k]["KD-t"] += 1
-        length[k] = max(length.get(k, 0), r["step"])
-    elif u == "FRS-FA":
-        work[k]["FA-FPR"] += r["pairs"]; tim[k]["FA-FPR"] += r["time"]; steps[k]["FA-FPR"] += 1
+def load(KEY):
+    work = defaultdict(lambda: defaultdict(float)); tim = defaultdict(lambda: defaultdict(float))
+    steps = defaultdict(lambda: defaultdict(int)); bad = set(); length = {}
+    for ln in open(HA):
+        r = json.loads(ln); k = (r["dataset"], "NRS")
+        if "step" not in r:
+            bad.add((k, r["engine"])); continue
+        e = r["engine"]
+        if e == "HASH-B7":
+            continue
+        if e == "KD-PA":
+            tim[k]["KD"] += r["time"]; steps[k]["KD-t"] += 1
+        else:
+            tim[k][e] += r["time"]; steps[k][e] += 1
+            if e in ("HASH-G", "BUCKET"):
+                work[k][e] += r["pairs"]                 # BF-PA work (|act| x n) is added from the KD-count rows
+    for ln in open(WC):
+        r = json.loads(ln); k = (r["dataset"], r["crit"]); u = r["unit"]
+        if "step" not in r:
+            bad.add((k, {"FNC": "FNC", "FRS-FA": "FA-FPR", "FRS-KD": "KD", "KD-count": "KD", "CABIN-win": "CABIN"}[u]))
+            continue
+        if u == "KD-count":
+            work[k]["KD"] += r[KEY] + r["confirm"]; steps[k]["KD-w"] += 1; length[k] = max(length.get(k, 0), r["step"])
+            work[k]["BF-PA"] += r["active"] * r["n"]
+        elif u == "CABIN-win":
+            work[k]["CABIN"] += r["window"]; steps[k]["CABIN-w"] += 1
+        elif u == "FNC" and r["step"] >= 1:
+            work[k]["FNC"] += r["pairs"]; tim[k]["FNC"] += r["time"]; steps[k]["FNC"] += 1
+        elif u == "FRS-KD":
+            work[k]["KD"] += r[KEY] + r["confirm"]; tim[k]["KD"] += r["time"]; steps[k]["KD-w"] += 1; steps[k]["KD-t"] += 1
+            length[k] = max(length.get(k, 0), r["step"])
+        elif u == "FRS-FA":
+            work[k]["FA-FPR"] += r["pairs"]; tim[k]["FA-FPR"] += r["time"]; steps[k]["FA-FPR"] += 1
+    return work, tim, steps, bad, length
 
+
+work, tim, steps, bad, length = load(KEY)
 ENG = {"NRS": ("HASH-G", "FNC", "CABIN", "BUCKET", "BF-PA"), "FRS": ("FA-FPR",)}
 
 
-def rows_of(crit, e):
+def rows_of(crit, e, D=None):
+    work, tim, steps, bad, length = D or (globals()['work'], globals()['tim'], globals()['steps'], globals()['bad'], globals()['length'])
     rows = {}
     for k in sorted(work):
         if k[1] != crit or k not in length:
@@ -95,7 +100,7 @@ else:
          "% code/baselines/hash_audit_path.jsonl",
          "\\begin{table}[pos=!htbp]", "\\centering",
          "\\caption{Pairs examined and time per pair along the greedy path (fold~1; NRS $\\delta=0.10$, FRS "
-         "$\\sigma=0.25$). KD-PA: pairs examined, in millions. w and c: ratios to KD-PA (Appendix~\\ref{sec:appendix:audit}). "
+         "$\\sigma=0.25$). KD-PA: pairs examined (cell count), in millions. w and c: ratios to KD-PA (Appendix~\\ref{sec:appendix:audit}). "
          "--: not finished or not run.}",
          "\\label{tab:work}", "\\small", "\\setlength{\\tabcolsep}{3.5pt}",
          "\\begin{tabular}{l r rr rr rr rr r rr}", "\\toprule",
@@ -112,10 +117,15 @@ else:
         r = F.get(d); c += [m(kdf.get(d)), f(r[0]) if r else "--", f(r[2]) if r else "--"]
         L.append(" & ".join(c) + " \\\\")
     L.append("\\midrule")
-    c = ["Median", ""]
+    c = ["Median, cell count", ""]
     for e in ("HASH-G", "FNC", "CABIN", "BF-PA"):
         v = list(N[e].values()); c += [f(st.median(r[0] for r in v)), f(st.median(r[2] for r in v))]
     v = list(F.values()); c += ["", f(st.median(r[0] for r in v)), f(st.median(r[2] for r in v))]
+    L.append(" & ".join(c) + " \\\\")
+    DB = load("box"); c = ["Median, box count", ""]
+    for e in ("HASH-G", "FNC", "CABIN", "BF-PA"):
+        v = list(rows_of("NRS", e, DB).values()); c += [f(st.median(r[0] for r in v)), f(st.median(r[2] for r in v))]
+    v = list(rows_of("FRS", "FA-FPR", DB).values()); c += ["", f(st.median(r[0] for r in v)), f(st.median(r[2] for r in v))]
     L += [" & ".join(c) + " \\\\", "\\bottomrule", "\\end{tabular}", "\\end{table}"]
     open(OUTT, "w").write("\n".join(L) + "\n")
     print("wrote", OUTT)

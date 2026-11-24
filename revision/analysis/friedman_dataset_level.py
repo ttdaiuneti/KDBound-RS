@@ -45,4 +45,4 @@ for mult in (1, 2, 10):
             ps.append((m, w.pvalue))
         ps.sort(key=lambda x: x[1]); kk = len(ps)
         print("   Wilcoxon one-sided KD-PA+B3 faster, Holm:", ", ".join(
-            f"{m} p={pv:.4f} adj={min(1, pv*(kk-i)):.4f}" for i, (m, pv) in enumerate(ps)))
+            f"{m} p={pv:.6f} adj={min(1, pv*(kk-i)):.6f}" for i, (m, pv) in enumerate(ps)))
