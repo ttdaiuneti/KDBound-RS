@@ -1,0 +1,66 @@
+Machine: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz | 15.7 GB | Windows-11-10.0.26300-SP0 | Python 3.12.8 numpy 2.0.2 scipy 1.13.1 sklearn 1.6.1
+Reference: Apple M4 Pro (reference/m4_reference.jsonl, same script and code)
+
+dataset            crit method    status       time       M4  ratio  reduct
+magic-telescope    NRS  KD-PA+B3  ok            2.0      0.8   2.50  same
+magic-telescope    NRS  KD-PA     ok            1.7      0.7   2.54  same
+house-16h          NRS  KD-PA+B3  ok            7.6      2.9   2.63  same
+house-16h          NRS  KD-PA     ok           10.4      4.0   2.58  same
+creditcard         NRS  KD-PA+B3  ok            9.2      3.2   2.91  same
+creditcard         NRS  KD-PA     ok           33.3     10.0   3.34  same
+gas-drift          NRS  KD-PA+B3  ok           64.9     17.0   3.81  same
+gas-drift          NRS  KD-PA     ok          869.8    216.5   4.02  same
+jannis             NRS  KD-PA+B3  ok           97.0     29.1   3.34  same
+jannis             NRS  KD-PA     ok          128.1     37.5   3.42  same
+miniboone          NRS  KD-PA+B3  ok           88.2     25.5   3.46  same
+miniboone          NRS  KD-PA     ok          962.7    296.9   3.24  same
+magic-telescope    NRS  FNC       ok           40.6     12.9   3.15  same
+magic-telescope    NRS  FNC+B3    ok           40.5     13.4   3.01  same
+creditcard         NRS  FNC       ok           13.7      4.5   3.04  same
+creditcard         NRS  FNC+B3    ok            7.2      2.2   3.30  same
+gas-drift          NRS  FNC       ok          660.6    214.1   3.09  same
+gas-drift          NRS  FNC+B3    ok          265.9     91.6   2.90  same
+magic-telescope    NRS  HASH      ok           20.7      5.7   3.62  same
+house-16h          NRS  HASH      ok          101.0     21.9   4.62  same
+magic-telescope    FRS  KD-PA+B3  ok            2.6      0.9   2.78  same
+magic-telescope    FRS  KD-PA     ok            2.1      0.8   2.53  same
+house-16h          FRS  KD-PA+B3  ok           11.4      4.4   2.58  same
+house-16h          FRS  KD-PA     ok           18.1      5.9   3.04  same
+creditcard         FRS  KD-PA+B3  ok           28.0      8.3   3.39  same
+creditcard         FRS  KD-PA     ok          155.3     23.5   6.60  same
+internet-firewall  FRS  KD-PA+B3  ok           88.9     12.6   7.05  same
+internet-firewall  FRS  KD-PA     ok          175.1     23.6   7.41  same
+miniboone          FRS  KD-PA+B3  ok           49.8     17.4   2.86  same
+miniboone          FRS  KD-PA     ok          544.0    200.8   2.71  same
+magic-telescope    FRS  FA-FPR    ok          371.2     56.6   6.56  same
+house-16h          FRS  FA-FPR    timeout    1800.3    317.8      -  -
+house-16h          NRS  FNC       ok          161.3     53.0   3.04  same
+house-16h          NRS  FNC+B3    ok          155.9     52.9   2.95  same
+
+Ordered reduct identical to M4 in 33 of 33 units that finished on both machines.
+Time on this machine / M4 (units > 0.5 s on M4): median 3.09, range 2.50-7.41, 33 units.
+
+Speed-ups (time of the first method / time of the second), this machine vs M4:
+  creditcard         FRS KD-PA  /KD-PA+B3     5.55    2.85
+  creditcard         NRS KD-PA  /KD-PA+B3     3.60    3.13
+  creditcard         NRS FNC    /KD-PA+B3     1.49    1.42
+  creditcard         NRS FNC    /FNC+B3       1.91    2.07
+  gas-drift          NRS KD-PA  /KD-PA+B3    13.41   12.71
+  gas-drift          NRS FNC    /KD-PA+B3    10.18   12.57
+  gas-drift          NRS FNC    /FNC+B3       2.48    2.34
+  house-16h          FRS KD-PA  /KD-PA+B3     1.58    1.34
+  house-16h          NRS KD-PA  /KD-PA+B3     1.36    1.39
+  house-16h          NRS FNC    /KD-PA+B3    21.09   18.24
+  house-16h          NRS FNC    /FNC+B3       1.03    1.00
+  house-16h          NRS HASH   /KD-PA+B3    13.20    7.53
+  internet-firewall  FRS KD-PA  /KD-PA+B3     1.97    1.87
+  jannis             NRS KD-PA  /KD-PA+B3     1.32    1.29
+  magic-telescope    FRS KD-PA  /KD-PA+B3     0.80    0.88
+  magic-telescope    FRS FA-FPR /KD-PA+B3   141.94   60.14
+  magic-telescope    NRS KD-PA  /KD-PA+B3     0.84    0.82
+  magic-telescope    NRS FNC    /KD-PA+B3    20.34   16.11
+  magic-telescope    NRS FNC    /FNC+B3       1.00    0.96
+  magic-telescope    NRS HASH   /KD-PA+B3    10.38    7.16
+  miniboone          FRS KD-PA  /KD-PA+B3    10.93   11.55
+  miniboone          NRS KD-PA  /KD-PA+B3    10.92   11.66
+Speed-up here / speed-up on M4 (denominator > 0.5 s on M4): median 1.05, range 0.81-2.36, 22 pairs.

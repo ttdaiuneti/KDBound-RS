@@ -68,6 +68,7 @@ Every supplementary unit was run one at a time unless its log states otherwise.
 | `revision/code/impl/work_count.py`, `revision/analysis/work_summary.py` | object pairs examined by each engine along the greedy path and time per pair, which separates the method from its implementation (Appendix A.4, Table 14) |
 | `revision/code/impl/hash_numba.py`, `hash_numba_delta.py`, `revision/analysis/hash_numba_summary.py` | HASH compiled with Numba (HASH-NB, same cell codes, attribute order and distance test as HASH) against KD-PA, KD-PA+B3 and the NumPy HASH: the 12 NRS tables at delta = 0.10, and the five tables with m >= 29 at the other values of delta (Appendix A.4, Tables 15 and 16). Requires `numba` (0.60.0 was used) |
 | `revision/code/bign/` | reduction of creditcard, miniboone and hls4ml-jets at their full size (Appendix A.5) |
+| `revision/x86_check/`, `revision/analysis/x86_summary.py`, `witness_ties.py` | 34 timing units repeated on an x86 machine with the same engines and data; reducts, evaluation counts and speed-ups compared with the M4 (Appendix A.6, Table 17) |
 | `revision/analysis/` | scripts that compute every number, table and figure added in the revision from the files above (tables and figures are written to `revision/manuscript/`; create that folder first) |
 
 ## License
